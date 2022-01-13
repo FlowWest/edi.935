@@ -34,13 +34,13 @@ datatable_metadata <-
                                          "TrapEfficiencySummary.csv",
                                          "TrapOperations.csv")))
 # save cleaned data to `data/`
-excel_path <- "data-raw/metadata/Environmentals - Metadata.xlsx"
+excel_path <- "data-raw/Metadata/Environmentals - Metadata.xlsx"
 sheets <- readxl::excel_sheets(excel_path)
 metadata <- lapply(sheets, function(x) readxl::read_excel(excel_path, sheet = x))
 names(metadata) <- sheets
 
-abstract_docx <- "data-raw/metadata/abstract.docx"
-methods_docx <- "data-raw/metadata/method.docx"
+abstract_docx <- "data-raw/Metadata/abstract.docx"
+methods_docx <- "data-raw/Metadata/methods.docx"
 
 # edi_number <- reserve_edi_id(user_id = Sys.getenv("user_id"), password = Sys.getenv("password"))
 edi_number <- "edi.935.1"
@@ -59,7 +59,7 @@ dataset <- list() %>%
   add_datatable(datatable_metadata)
 
 # GO through and check on all units
-custom_units <- data.frame(id = c("number of fish", "rotations per minute", "rotations", "nephelometric turbidity units", "day"),
+custom_units <- data.frame(id = c("number of fish", "rotations per minute", "rotations", "nephelometric turbidity units", "days"),
                            unitType = c("density", "dimensionless", "dimensionless", "dimensionless", "dimensionless"),
                            parentSI = c(NA, NA, NA, NA, NA),
                            multiplierToSI = c(NA, NA, NA, NA, NA),
