@@ -26,7 +26,7 @@
       <electronicMailAddress>cstarr@psmfc.org</electronicMailAddress>
       <role>researcher</role>
     </associatedParty>
-    <pubDate>2022-01-13</pubDate>
+    <pubDate>2022-01-26</pubDate>
     <abstract>
       <section>
         <title>Overview</title>
@@ -236,7 +236,9 @@
         <role>Project Lead</role>
       </personnel>
       <award>
-        <funderName>Central Valley Project Improvement Act (CVPIA)</funderName>
+        <funderName>United States Bureau of Reclamation</funderName>
+        <funderIdentifier>https://www.wikidata.org/wiki/Q1010548</funderIdentifier>
+        <title>Annual quantification of juvenile Chinook salmon production and the abundance of juvenile steelhead in the Stanislaus River using rotary screw traps</title>
       </award>
     </project>
     <dataTable>
@@ -258,7 +260,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/FlowWest/lower-american-river-rst-edi/main/data/Environmentals.csv</url>
+            <url function="download">https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/main/data/Environmentals.csv</url>
           </online>
         </distribution>
       </physical>
@@ -397,8 +399,8 @@
       <entityDescription>Raw Catch - ByCatch</entityDescription>
       <physical>
         <objectName>ByCatch.csv</objectName>
-        <size unit="bytes">303881</size>
-        <authentication method="MD5">e5ebaa2bee0093b3e9165e26ccc03149</authentication>
+        <size unit="bytes">285179</size>
+        <authentication method="MD5">c40fcd6abe879f6d341b12f71b0d877e</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -411,7 +413,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/FlowWest/lower-american-river-rst-edi/main/data/ByCatch.csv</url>
+            <url function="download">https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/main/data/ByCatch.csv</url>
           </online>
         </distribution>
       </physical>
@@ -571,8 +573,8 @@
       <entityDescription>Raw Catch - Chinook Salmon</entityDescription>
       <physical>
         <objectName>Chinook.csv</objectName>
-        <size unit="bytes">1647568</size>
-        <authentication method="MD5">6363486c307270b76af444d16ed5f244</authentication>
+        <size unit="bytes">1602224</size>
+        <authentication method="MD5">89288caeb257c61116d64d5f3e7b76b9</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -585,7 +587,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/FlowWest/lower-american-river-rst-edi/main/data/Chinook.csv</url>
+            <url function="download">https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/main/data/Chinook.csv</url>
           </online>
         </distribution>
       </physical>
@@ -882,8 +884,8 @@
       <entityDescription>Raw Catch - Steelhead</entityDescription>
       <physical>
         <objectName>Steelhead.csv</objectName>
-        <size unit="bytes">370</size>
-        <authentication method="MD5">8c9ad6099a761b29c1f38b2f1c3e05c8</authentication>
+        <size unit="bytes">363</size>
+        <authentication method="MD5">e4b1b84f00e8519f0607508454126fad</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -896,7 +898,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/FlowWest/lower-american-river-rst-edi/main/data/Steelhead.csv</url>
+            <url function="download">https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/main/data/Steelhead.csv</url>
           </online>
         </distribution>
       </physical>
@@ -1108,8 +1110,8 @@
       <entityDescription>Trap Efficiency Release Fork Length</entityDescription>
       <physical>
         <objectName>TrapEfficiencyRelease.csv</objectName>
-        <size unit="bytes">30119</size>
-        <authentication method="MD5">652dda1f91551fc27b771e1ebb122a10</authentication>
+        <size unit="bytes">72300</size>
+        <authentication method="MD5">4aa316861560bac76ef75ee34ddd9410</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -1122,7 +1124,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/FlowWest/lower-american-river-rst-edi/main/data/TrapEfficiencyRelease.csv</url>
+            <url function="download">https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/main/data/TrapEfficiencyRelease.csv</url>
           </online>
         </distribution>
       </physical>
@@ -1185,15 +1187,15 @@
           </measurementScale>
         </attribute>
       </attributeList>
-      <numberOfRecords>2004</numberOfRecords>
+      <numberOfRecords>1043</numberOfRecords>
     </dataTable>
     <dataTable>
       <entityName>TrapEfficiencySummary.csv</entityName>
       <entityDescription>Trap Efficiency Summary</entityDescription>
       <physical>
         <objectName>TrapEfficiencySummary.csv</objectName>
-        <size unit="bytes">4662</size>
-        <authentication method="MD5">aed073ee86029001d7fc210424db544e</authentication>
+        <size unit="bytes">4606</size>
+        <authentication method="MD5">6869c501411d73ab7f1647ce003c4c99</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -1206,7 +1208,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/FlowWest/lower-american-river-rst-edi/main/data/TrapEfficiencySummary.csv</url>
+            <url function="download">https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/main/data/TrapEfficiencySummary.csv</url>
           </online>
         </distribution>
       </physical>
@@ -1366,8 +1368,8 @@
       <entityDescription>Trap Operations</entityDescription>
       <physical>
         <objectName>TrapOperations.csv</objectName>
-        <size unit="bytes">237205</size>
-        <authentication method="MD5">8eb56aac9edf7a1701f6752624eb6a62</authentication>
+        <size unit="bytes">223219</size>
+        <authentication method="MD5">ff67995173a8b494208e61a8d15c5b18</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -1380,7 +1382,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/FlowWest/lower-american-river-rst-edi/main/data/TrapOperations.csv</url>
+            <url function="download">https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/main/data/TrapOperations.csv</url>
           </online>
         </distribution>
       </physical>

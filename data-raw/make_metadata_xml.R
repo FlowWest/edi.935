@@ -25,7 +25,7 @@ datatable_metadata <-
                                           "Trap Efficiency Release Fork Length",
                                           "Trap Efficiency Summary",
                                           "Trap Operations"),
-                datatable_url = paste0("https://raw.githubusercontent.com/FlowWest/lower-american-river-rst-edi/main/data/",
+                datatable_url = paste0("s3://cvpia-data-stewardship/data-to-upload/stanislaus_rst/data/",
                                        c("Environmentals.csv",
                                          "ByCatch.csv",
                                          "Chinook.csv",
@@ -81,4 +81,7 @@ EML::write_eml(eml, "edi.935.1.xml")
 EML::eml_validate("edi.935.1.xml")
 
 EMLaide::evaluate_edi_package(Sys.getenv("user_ID"), Sys.getenv("password"), "edi.935.1.xml")
-EMLaide::upload_edi_package(Sys.getenv("user_ID"), Sys.getenv("password"), "edi.935.1.xml")
+# EMLaide::upload_edi_package(Sys.getenv("user_ID"), Sys.getenv("password"), "edi.935.1.xml")
+
+
+
