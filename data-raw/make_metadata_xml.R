@@ -25,7 +25,7 @@ datatable_metadata <-
                                           "Trap Efficiency Release Fork Length",
                                           "Trap Efficiency Summary",
                                           "Trap Operations"),
-                datatable_url = paste0("s3://cvpia-data-stewardship/data-to-upload/stanislaus_rst/data/",
+                datatable_url = paste0("https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/main/data/",
                                        c("Environmentals.csv",
                                          "ByCatch.csv",
                                          "Chinook.csv",

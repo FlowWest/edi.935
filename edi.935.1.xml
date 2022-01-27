@@ -26,7 +26,7 @@
       <electronicMailAddress>cstarr@psmfc.org</electronicMailAddress>
       <role>researcher</role>
     </associatedParty>
-    <pubDate>2022-01-26</pubDate>
+    <pubDate>2022-01-27</pubDate>
     <abstract>
       <section>
         <title>Overview</title>
@@ -246,8 +246,8 @@
       <entityDescription>Environmental Variables</entityDescription>
       <physical>
         <objectName>Environmentals.csv</objectName>
-        <size unit="bytes">76772</size>
-        <authentication method="MD5">4077567950c10965151dbefb4b81e70b</authentication>
+        <size unit="bytes">72300</size>
+        <authentication method="MD5">4aa316861560bac76ef75ee34ddd9410</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -1110,8 +1110,8 @@
       <entityDescription>Trap Efficiency Release Fork Length</entityDescription>
       <physical>
         <objectName>TrapEfficiencyRelease.csv</objectName>
-        <size unit="bytes">72300</size>
-        <authentication method="MD5">4aa316861560bac76ef75ee34ddd9410</authentication>
+        <size unit="bytes">32124</size>
+        <authentication method="MD5">738512f522ae79a384c57305c1082132</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -1187,15 +1187,15 @@
           </measurementScale>
         </attribute>
       </attributeList>
-      <numberOfRecords>1043</numberOfRecords>
+      <numberOfRecords>2004</numberOfRecords>
     </dataTable>
     <dataTable>
       <entityName>TrapEfficiencySummary.csv</entityName>
       <entityDescription>Trap Efficiency Summary</entityDescription>
       <physical>
         <objectName>TrapEfficiencySummary.csv</objectName>
-        <size unit="bytes">4606</size>
-        <authentication method="MD5">6869c501411d73ab7f1647ce003c4c99</authentication>
+        <size unit="bytes">4586</size>
+        <authentication method="MD5">093b29e131d6b41f86b9e415a594abba</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>

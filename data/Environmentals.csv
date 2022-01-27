@@ -1,1060 +1,1060 @@
 ﻿Date,trapVisitID,subSiteName,turbidity,waterVel,dissolvedOxygen,waterDepth,Environmental.comments
-2017/02/01 00:00:00,8302,ST004L1,NA,NA,NA,153,Water velocity not recorded.
-2017/02/02 00:00:00,8303,ST004L1,NA,NA,NA,145,Water temp not recorded. Turbidity not recorded. D.O. not recorded. Water velocity not recorded.
-2017/02/03 00:00:00,8304,ST004L1,4.51,NA,NA,140,Water temp not recorded. D.O. not recorded. Water velocity not recorded.
-2017/02/04 00:00:00,8305,ST004L1,5.71,NA,7.15,140,Water velocity not recorded.
-2017/02/05 00:00:00,8309,ST004L1,4.16,NA,8.1,140,Water velocity not recorded.
-2017/02/06 00:00:00,8310,ST004L1,6.03,NA,7.75,126,Water velocity not recorded.
-2017/02/07 00:00:00,8311,ST004L1,14.31,NA,8.13,140,Water velocity not recorded. One water sample taken for both traps.
-2017/02/08 00:00:00,8312,ST004L1,19.71,NA,8.64,208,Water velocity not recorded.
-2017/02/09 00:00:00,8313,ST004L1,15.63,NA,8.75,NA,Water velocity not recorded. Water depth not recorded: too deep (estimated at 302 cm).
-2017/02/10 00:00:00,8314,ST004L1,10.56,NA,9.45,NA,Water velocity not recorded. Water depth not recorded: too deep ( >300 cm).
-2017/02/11 00:00:00,8315,ST004L1,19.56,NA,8.45,NA,Water velocity not recorded. Water depth not recorded: too deep ( >300 cm).
-2017/02/12 00:00:00,8324,ST004L1,10.56,NA,8.83,NA,Water velocity not recorded. Water depth not recorded: too deep ( >300 cm).
-2017/02/13 00:00:00,8325,ST004L1,6.48,NA,9.66,300,Water velocity not recorded.
-2017/02/14 00:00:00,8327,ST004L1,3.9,NA,8.05,281,Water velocity not recorded.
-2017/02/15 00:00:00,8333,ST004L1,4.01,0.2,8.27,288,NA
-2017/02/16 00:00:00,8334,ST004L1,3.97,0.2,8.12,253,NA
-2017/02/17 00:00:00,8335,ST004L1,9.34,0.2,8.44,260,NA
-2017/02/18 00:00:00,8343,ST004L1,11.98,0.4,9.05,287,NA
-2017/02/19 00:00:00,8345,ST004L1,8.68,0.3,9.19,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/20 00:00:00,8346,ST004L1,8.95,0.3,9.71,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/21 00:00:00,8347,ST004L1,21.7,0.6,9.09,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/22 00:00:00,8349,ST004L1,43.5,0.8,7.99,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/23 00:00:00,8360,ST004L1,24.7,0.4,8.93,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/24 00:00:00,8361,ST004L1,16.9,0.3,9.46,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/25 00:00:00,8362,ST004L1,10.13,0.3,9.82,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/26 00:00:00,8363,ST004L1,12.76,0.3,8.96,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/27 00:00:00,8364,ST004L1,10.95,0.3,9.11,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/28 00:00:00,8365,ST004L1,5.88,0.2,8.44,293,NA
-2017/03/01 00:00:00,8366,ST004L1,11.91,0.2,8.93,284,NA
-2017/03/02 00:00:00,8367,ST004L1,13.64,0.2,9.25,277,NA
-2017/03/03 00:00:00,8368,ST004L1,14.93,0.3,9.1,255,NA
-2017/03/04 00:00:00,8369,ST004L1,15.88,0.2,9.02,255,NA
-2017/03/05 00:00:00,8370,ST004L1,15.09,0.2,8.65,260,NA
-2017/03/06 00:00:00,8371,ST004L1,13.81,0.3,8.45,260,NA
-2017/03/07 00:00:00,8372,ST004L1,14.39,0.3,8.65,260,NA
-2017/03/08 00:00:00,8373,ST004L1,11.02,0.2,9.48,265,NA
-2017/03/09 00:00:00,8374,ST004L1,11.21,0.2,9.06,261,NA
-2017/03/10 00:00:00,8375,ST004L1,11.69,0.3,9,254,NA
-2017/03/11 00:00:00,8376,ST004L1,12.23,0.3,8.67,253,NA
-2017/03/12 00:00:00,8377,ST004L1,12.75,0.3,7.1,247,NA
-2017/03/13 00:00:00,8378,ST004L1,8.57,0.5,9.58,285,NA
-2017/03/14 00:00:00,8379,ST004L1,8.06,0.5,9.16,290,NA
-2017/03/15 00:00:00,8380,ST004L1,8.21,0.7,9.29,285,NA
-2017/03/16 00:00:00,8381,ST004L1,4.75,0.6,9.03,276,NA
-2017/03/17 00:00:00,8382,ST004L1,7.06,0.6,9.44,284,NA
-2017/03/18 00:00:00,8383,ST004L1,8.78,0.5,8.71,285,NA
-2017/03/19 00:00:00,8384,ST004L1,9.05,0.6,9.13,280,NA
-2017/03/20 00:00:00,8385,ST004L1,7.45,0.6,8.48,280,NA
-2017/03/21 00:00:00,8386,ST004L1,7.49,0.6,9.36,277,NA
-2017/03/22 00:00:00,8387,ST004L1,5.37,0.6,9.14,293,NA
-2017/03/23 00:00:00,8433,ST004L1,9.57,0.7,8.6,NA,Water depth not recorded: too deep (estimated at 307 cm).
-2017/03/24 00:00:00,8434,ST004L1,8.16,0.7,9.81,NA,Water depth not recorded: too deep ( >300 cm).
-2017/03/25 00:00:00,8435,ST004L1,6.51,0.8,9.93,NA,Water depth not recorded: too deep ( >300 cm).
-2017/03/26 00:00:00,8436,ST004L1,7.05,0.5,10.1,NA,Water depth not recorded: too deep ( >300 cm).
-2017/03/27 00:00:00,8437,ST004L1,7.43,0.4,9.84,NA,Water depth not recorded: too deep ( >300 cm).
-2017/03/28 00:00:00,8438,ST004L1,6.26,0.7,9.96,NA,Water depth not recorded: too deep ( >300 cm).
-2017/03/29 00:00:00,8439,ST004L1,5.48,0.6,NA,NA,Water depth not recorded: too deep ( >300 cm). DO recorded as 16.6 mg/L: likely incorrect.
-2017/03/30 00:00:00,8440,ST004L1,7.38,0.6,9.64,NA,Water depth not recorded: too deep ( >300 cm).
-2017/03/31 00:00:00,8441,ST004L1,6.63,0.5,9.8,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/01 00:00:00,8442,ST004L1,5.09,0.5,9.85,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/03 00:00:00,8443,ST004L1,NA,0.8,10,270,NA
-2017/04/04 00:00:00,8444,ST004L1,5.29,0.5,9.67,265,NA
-2017/04/05 00:00:00,8445,ST004L1,4.6,0.6,9.42,279,NA
-2017/04/06 00:00:00,8446,ST004L1,6.94,0.7,9.76,278,NA
-2017/04/07 00:00:00,8447,ST004L1,6.59,0.7,10.01,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/08 00:00:00,8448,ST004L1,5.77,0.9,NA,300,Water temperature and DO not recorded.
-2017/04/10 00:00:00,8449,ST004L1,NA,0.6,10.62,288,NA
-2017/04/11 00:00:00,8450,ST004L1,6.41,0.5,10.47,NA,Water depth not recorded: too deep (estimated at 301 cm).
-2017/04/12 00:00:00,8451,ST004L1,5.77,0.7,10.36,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/13 00:00:00,8452,ST004L1,6.75,0.6,10.06,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/14 00:00:00,8453,ST004L1,5.9,0.7,10.04,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/15 00:00:00,8454,ST004L1,6.05,0.6,10.35,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/17 00:00:00,8455,ST004L1,NA,NA,NA,NA,Environmental data not recorded.
-2017/04/18 00:00:00,8456,ST004L1,6.51,0.8,10.38,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/19 00:00:00,8457,ST004L1,5.81,0.9,10.2,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/20 00:00:00,8458,ST004L1,5.73,0.7,8.55,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/21 00:00:00,8459,ST004L1,5.96,0.9,10.34,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/22 00:00:00,8460,ST004L1,NA,NA,NA,NA,Environmental data not recorded.
-2017/04/24 00:00:00,8461,ST004L1,NA,0.8,10.16,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/25 00:00:00,8462,ST004L1,4.35,0.8,9.8,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/26 00:00:00,8463,ST004L1,4.8,0.8,10.02,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/27 00:00:00,8464,ST004L1,5.05,0.7,9.44,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/01 00:00:00,8465,ST004L1,NA,0.9,NA,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/02 00:00:00,8466,ST004L1,4.78,1.1,8.24,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/03 00:00:00,8467,ST004L1,4.49,0.7,8.59,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/04 00:00:00,8468,ST004L1,3.35,1,9.13,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/05 00:00:00,8469,ST004L1,4.36,1.2,9.85,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/06 00:00:00,8470,ST004L1,4,0.9,8.54,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/08 00:00:00,8471,ST004L1,NA,NA,9.66,NA,Water velocity not recorded.
-2017/05/09 00:00:00,8472,ST004L1,3.37,0.8,9.94,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/10 00:00:00,8473,ST004L1,3.92,0.9,9.05,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/11 00:00:00,8474,ST004L1,5.34,1.1,8.54,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/12 00:00:00,8475,ST004L1,5.65,0.9,8.15,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/13 00:00:00,8476,ST004L1,6.29,1.2,9.75,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/15 00:00:00,8529,ST004L1,NA,1,NA,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/16 00:00:00,8530,ST004L1,4.54,0.9,9.96,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/17 00:00:00,8531,ST004L1,4.95,1,10.29,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/18 00:00:00,8532,ST004L1,5.16,0.9,8.29,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/19 00:00:00,8533,ST004L1,4.44,0.9,9.81,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/20 00:00:00,8534,ST004L1,3.4,0.8,9.9,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/22 00:00:00,8535,ST004L1,NA,0.8,9.95,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/23 00:00:00,8536,ST004L1,4.11,0.8,9.59,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/24 00:00:00,8537,ST004L1,NA,0.9,9.88,NA,Water depth not recorded: too deep ( >300 cm). Turbidity not recorded: water sample not taken.
-2017/05/25 00:00:00,8538,ST004L1,4.32,0.9,9.7,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/26 00:00:00,8539,ST004L1,2.62,0.9,9.84,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/27 00:00:00,8540,ST004L1,3.2,0.8,9.57,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/29 00:00:00,8541,ST004L1,NA,0.9,NA,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/30 00:00:00,8542,ST004L1,3.53,1,9.89,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/31 00:00:00,8543,ST004L1,3.24,0.9,8.81,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/01 00:00:00,8544,ST004L1,2.89,1,9.97,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/02 00:00:00,8545,ST004L1,2.51,1,9.89,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/03 00:00:00,8546,ST004L1,3.18,0.9,9.89,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/05 00:00:00,8547,ST004L1,NA,0.9,9.77,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/06 00:00:00,8548,ST004L1,3.34,0.9,9.85,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/07 00:00:00,8549,ST004L1,2.26,0.5,9.96,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/08 00:00:00,8550,ST004L1,3.37,0.6,10.05,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/09 00:00:00,8551,ST004L1,3.99,0.8,10.04,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/10 00:00:00,8552,ST004L1,3.84,0.6,10.03,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/12 00:00:00,8553,ST004L1,NA,0.9,10.26,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/13 00:00:00,8554,ST004L1,2.76,0.8,10.1,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/14 00:00:00,8555,ST004L1,NA,0.8,10.02,NA,Water depth not recorded: too deep ( >300 cm). Turbidity not recorded: water sample not taken.
-2017/06/15 00:00:00,8556,ST004L1,4.24,0.8,10.9,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/16 00:00:00,8557,ST004L1,3.47,0.8,10.08,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/17 00:00:00,8558,ST004L1,3.16,0.9,8.48,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/19 00:00:00,8559,ST004L1,NA,NA,9.07,NA,Water depth not recorded. Water velocity not recorded.
-2017/06/20 00:00:00,8560,ST004L1,3.71,0.8,9.93,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/21 00:00:00,8561,ST004L1,3.66,0.7,10,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/22 00:00:00,8562,ST004L1,3.52,0.8,9.94,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/23 00:00:00,8563,ST004L1,4.02,0.8,9.92,NA,Water depth not recorded: too deep ( >300 cm).
-2018/01/11 00:00:00,8565,ST004L1,NA,0.7,10.05,210,NA
-2018/01/12 00:00:00,8566,ST004L1,5.21,0.6,10.47,213,NA
-2018/01/13 00:00:00,8571,ST004L1,2.81,0.6,9.98,216,NA
-2018/01/14 00:00:00,8572,ST004L1,3.42,0.6,9.92,205,NA
-2018/01/15 00:00:00,8573,ST004L1,1.48,0.5,10.21,228,NA
-2018/01/16 00:00:00,8575,ST004L1,3.76,0.7,8.96,235,NA
-2018/01/17 00:00:00,8577,ST004L1,1.8,0.7,9.05,227,NA
-2018/01/18 00:00:00,8583,ST004L1,2.72,0.7,NA,206,D. O. Not recorded
-2018/01/19 00:00:00,8584,ST004L1,3.18,0.6,8.4,211,NA
-2018/01/20 00:00:00,8585,ST004L1,5.89,0.7,10.14,204,NA
-2018/01/21 00:00:00,8586,ST004L1,1.86,0.6,10.54,220,NA
-2018/01/22 00:00:00,8587,ST004L1,2.37,0.6,10.86,224,NA
-2018/01/23 00:00:00,8595,ST004L1,1.87,0.6,9.47,205,NA
-2018/01/24 00:00:00,8596,ST004L1,2.86,0.7,12.01,215,NA
-2018/01/25 00:00:00,8597,ST004L1,2.43,0.7,11.94,224,NA
-2018/01/26 00:00:00,8598,ST004L1,3.09,0.5,10.93,161,NA
-2018/01/27 00:00:00,8599,ST004L1,3.22,0.6,11.69,150,NA
-2018/01/28 00:00:00,8600,ST004L1,3.02,0.5,11.75,170,NA
-2018/01/29 00:00:00,8601,ST004L1,2.55,0.5,11.8,145,NA
-2018/01/30 00:00:00,8604,ST004L1,3.02,0.5,11.85,152,NA
-2018/01/31 00:00:00,8605,ST004L1,3.41,0.5,10.97,137,NA
-2018/02/01 00:00:00,8608,ST004L1,3.1,0.5,11.66,150,NA
-2018/02/02 00:00:00,8609,ST004L1,2,0.5,11.8,126,NA
-2018/02/03 00:00:00,8613,ST004L1,1.82,0.7,10.89,137,NA
-2018/02/04 00:00:00,8614,ST004L1,3.31,0.6,11.59,148,NA
-2018/02/05 00:00:00,8615,ST004L1,2.17,0.5,11.66,149,NA
-2018/02/06 00:00:00,8623,ST004L1,2.89,0.6,11.53,137,NA
-2018/02/07 00:00:00,8624,ST004L1,2.7,0.4,11.89,140,NA
-2018/02/08 00:00:00,8625,ST004L1,2.47,0.4,10.05,133,NA
-2018/02/09 00:00:00,8626,ST004L1,2.62,0.5,11.71,163,NA
-2018/02/10 00:00:00,8627,ST004L1,8.55,0.5,9.15,170,NA
-2018/02/11 00:00:00,8628,ST004L1,8.92,0.6,11.85,205,NA
-2018/02/13 00:00:00,8637,ST004L1,3.07,0.5,12.22,230,NA
-2018/02/14 00:00:00,8638,ST004L1,4.33,0.6,12.75,231,NA
-2018/02/15 00:00:00,8639,ST004L1,2.49,0.5,10.62,252,NA
-2018/02/16 00:00:00,8640,ST004L1,3.26,0.6,12.29,239,NA
-2018/02/17 00:00:00,8641,ST004L1,2.62,0.7,12.3,257,NA
-2018/02/18 00:00:00,8642,ST004L1,3.59,0.6,12.08,270,NA
-2018/02/19 00:00:00,8643,ST004L1,2.71,0.6,12.24,257,NA
-2018/02/20 00:00:00,8645,ST004L1,2.98,0.6,12.44,259,NA
-2018/02/21 00:00:00,8652,ST004L1,3.57,0.5,12.95,280,NA
-2018/02/22 00:00:00,8653,ST004L1,3.88,0.5,12.72,255,NA
-2018/02/23 00:00:00,8654,ST004L1,4.06,0.6,10.05,264,NA
-2018/02/24 00:00:00,8655,ST004L1,4.79,0.6,10.27,NA,Water depth greater than 300 cm.  Unable to record an accurate measurement.
-2018/02/25 00:00:00,8656,ST004L1,5.03,0.6,12.58,NA,Water depth greater than 300 cm.  Unable to record an accurate measurement.
-2018/02/26 00:00:00,8657,ST004L1,3.79,0.8,12.19,NA,Water depth greater than 300 cm.  Unable to record an accurate measurement.
-2018/02/27 00:00:00,8658,ST004L1,2.84,0.5,9.9,NA,Water depth greater than 300 cm.  Unable to record an accurate measurement.
-2018/02/28 00:00:00,8660,ST004L1,4.11,0.2,12.49,NA,Water depth greater than 300 cm.  Unable to record an accurate measurement.
-2018/03/04 00:00:00,8663,ST004L1,NA,0.5,11.58,179,NA
-2018/03/05 00:00:00,8664,ST004L1,2.94,0.5,11.18,177,NA
-2018/03/06 00:00:00,8666,ST004L1,3.73,0.4,9.69,140,NA
-2018/03/07 00:00:00,8668,ST004L1,4.96,0.3,10.28,125,NA
-2018/03/08 00:00:00,8674,ST004L1,2.45,0.3,10.16,110,NA
-2018/03/09 00:00:00,8675,ST004L1,2.94,0.3,10.03,120,NA
-2018/03/10 00:00:00,8676,ST004L1,3.84,0.4,8.64,132,NA
-2018/03/11 00:00:00,8677,ST004L1,NA,0.2,10.05,143,NA
-2018/03/12 00:00:00,8678,ST004L1,3.06,0.3,9.92,151,NA
-2018/03/13 00:00:00,8681,ST004L1,2.26,0.3,9.92,142,NA
-2018/03/14 00:00:00,8682,ST004L1,5.77,0.4,9.69,134,NA
-2018/03/15 00:00:00,8688,ST004L1,3.65,0.5,10.45,135,NA
-2018/03/16 00:00:00,8689,ST004L1,4.12,0.3,10.6,130,NA
-2018/03/17 00:00:00,8690,ST004L1,2.88,0.3,8.55,125,NA
-2018/03/18 00:00:00,8691,ST004L1,3.85,0.3,11.32,130,NA
-2018/03/19 00:00:00,8692,ST004L1,4.01,0.3,11.51,120,NA
-2018/03/20 00:00:00,8693,ST004L1,3.42,0.2,8.45,128,NA
-2018/03/21 00:00:00,8696,ST004L1,4.14,0.3,10.65,120,NA
-2018/03/22 00:00:00,8698,ST004L1,9.02,0.4,9.89,129,NA
-2018/03/23 00:00:00,8700,ST004L1,7.03,0.3,10.74,147,NA
-2018/03/24 00:00:00,8705,ST004L1,15.02,0.3,10,140,NA
-2018/03/25 00:00:00,8706,ST004L1,8.62,0.3,10.54,121,NA
-2018/03/26 00:00:00,8707,ST004L1,6.11,0.2,10.02,115,NA
-2018/03/27 00:00:00,8708,ST004L1,3.43,0.4,12.06,111,NA
-2018/03/28 00:00:00,8710,ST004L1,4.22,0.3,10.59,115,NA
-2018/03/29 00:00:00,8712,ST004L1,3.3,0.3,10.49,110,NA
-2018/03/30 00:00:00,8717,ST004L1,4.75,0.4,8.45,115,NA
-2018/03/31 00:00:00,8718,ST004L1,3.21,0.3,4.75,115,DO meter not calibrated
-2018/04/01 00:00:00,8719,ST004L1,5.11,0.3,4.02,123,DO meter not calibrated
-2018/04/02 00:00:00,8720,ST004L1,5.74,0.3,7.83,128,DO meter not calibrated
-2018/04/03 00:00:00,8722,ST004L1,7.77,0.5,8.08,231,DO meter not calibrated
-2018/04/04 00:00:00,8724,ST004L1,7.98,0.4,7.63,250,DO meter not calibrated
-2018/04/05 00:00:00,8726,ST004L1,4.4,0.5,9.17,250,DO meter not calibrated
-2018/04/06 00:00:00,8728,ST004L1,6.15,0.7,7.71,260,DO meter not calibrated
-2018/04/07 00:00:00,8730,ST004L1,3.2,0.7,9.33,280,DO meter not calibrated
-2018/04/08 00:00:00,8735,ST004L1,6.28,0.6,8.05,283,DO meter not calibrated
-2018/04/09 00:00:00,8736,ST004L1,5.67,0.6,7.77,278,DO meter not calibrated
-2018/04/10 00:00:00,8737,ST004L1,4.16,0.6,6.69,290,DO meter not calibrated
-2018/04/11 00:00:00,8738,ST004L1,3.86,0.6,6.03,263,DO meter not calibrated
-2018/04/12 00:00:00,8740,ST004L1,4.43,0.6,6.17,248,DO meter not calibrated
-2018/04/13 00:00:00,8742,ST004L1,3.28,0.7,6.19,265,DO meter not calibrated
-2018/04/14 00:00:00,8747,ST004L1,3.63,0.7,6.19,265,DO meter not calibrated
-2018/04/15 00:00:00,8748,ST004L1,4.63,0.6,5.58,277,DO meter not calibrated
-2018/04/16 00:00:00,8749,ST004L1,4.58,0.6,5.67,296,DO meter not calibrated
-2018/04/17 00:00:00,8750,ST004L1,3.61,0.6,7.35,280,DO meter not calibrated
-2018/04/18 00:00:00,8752,ST004L1,4.13,0.7,7.72,263,DO meter not calibrated
-2018/04/19 00:00:00,8754,ST004L1,2.5,0.6,7.84,278,DO meter not calibrated
-2018/04/20 00:00:00,8756,ST004L1,4.1,0.7,6.68,267,DO meter not calibrated
-2018/04/21 00:00:00,8760,ST004L1,3.4,0.5,6.73,266,DO meter not calibrated
-2018/04/22 00:00:00,8761,ST004L1,3.13,0.5,6.21,278,DO meter not calibrated
-2018/04/23 00:00:00,8762,ST004L1,4.28,0.4,5.16,NA,"DO meter not calibrated, River too deep to measure (300+mm)"
-2018/04/24 00:00:00,8765,ST004L1,3.86,0.5,5.68,295,DO meter not calibrated
-2018/04/25 00:00:00,8766,ST004L1,2.49,0.6,3.84,288,DO meter not calibrated
-2018/04/26 00:00:00,8768,ST004L1,2.66,0.5,NA,283,DO meter not calibrated
-2018/04/27 00:00:00,8770,ST004L1,3.13,0.6,2.78,292,DO meter not calibrated
-2018/04/28 00:00:00,8772,ST004L1,3.51,0.6,NA,278,DO meter not calibrated
-2018/04/29 00:00:00,8773,ST004L1,4.78,0.5,2.31,290,DO meter not calibrated
-2018/04/30 00:00:00,8774,ST004L1,4,0.5,2.56,260,DO meter not calibrated
-2018/05/01 00:00:00,8775,ST004L1,2.9,0.4,NA,257,DO meter not calibrated
-2018/05/02 00:00:00,8781,ST004L1,3.02,0.6,10.77,298,NA
-2018/05/03 00:00:00,8782,ST004L1,2.96,0.6,11.1,262,NA
-2018/05/04 00:00:00,8784,ST004L1,3.84,0.6,8.95,255,NA
-2018/05/05 00:00:00,8786,ST004L1,3.98,0.5,8.61,220,Depth dropped 30cm
-2018/05/06 00:00:00,8789,ST004L1,4.27,0.5,7.93,245,NA
-2018/05/07 00:00:00,8790,ST004L1,6.6,0.7,10.69,NA,Depth was 300+ cm.
-2018/05/08 00:00:00,8792,ST004L1,10.62,0.6,9.82,NA,River too deep to measure depth. 300+ cm
-2018/05/09 00:00:00,8794,ST004L1,3.51,0.6,10.61,NA,River too deep to measure (300+cm)
-2018/05/10 00:00:00,8796,ST004L1,3.23,0.5,10.54,NA,River too deep to measure. (300+cm)
-2018/05/11 00:00:00,8798,ST004L1,5.12,0.8,11.06,NA,River too deep to measure. (300+cm)
-2018/05/12 00:00:00,8800,ST004L1,4.88,0.5,9.45,NA,River too deep to measure (300cm+)
-2018/05/13 00:00:00,8802,ST004L1,4.66,0.4,9.12,NA,River too deep to measure (300cm+)
-2018/05/14 00:00:00,8804,ST004L1,4.74,0.5,10.56,NA,River too deep to measure (300cm+)
-2018/05/15 00:00:00,8806,ST004L1,4.9,0.6,8.85,NA,River too deep to measure (300cm+)
-2018/05/16 00:00:00,8808,ST004L1,4.1,0.5,10.72,NA,River too deep to measure (300cm+)
-2018/05/17 00:00:00,8810,ST004L1,4.11,0.6,10.93,NA,River too deep to measure (300cm+)
-2018/05/18 00:00:00,8813,ST004L1,NA,0.8,9.2,NA,"River too deep to measure (300cm+)
+2/1/2017 0:00,8302,ST004L1,NA,NA,NA,153,Water velocity not recorded.
+2/2/2017 0:00,8303,ST004L1,NA,NA,NA,145,Water temp not recorded. Turbidity not recorded. D.O. not recorded. Water velocity not recorded.
+2/3/2017 0:00,8304,ST004L1,4.51,NA,NA,140,Water temp not recorded. D.O. not recorded. Water velocity not recorded.
+2/4/2017 0:00,8305,ST004L1,5.71,NA,7.15,140,Water velocity not recorded.
+2/5/2017 0:00,8309,ST004L1,4.16,NA,8.1,140,Water velocity not recorded.
+2/6/2017 0:00,8310,ST004L1,6.03,NA,7.75,126,Water velocity not recorded.
+2/7/2017 0:00,8311,ST004L1,14.31,NA,8.13,140,Water velocity not recorded. One water sample taken for both traps.
+2/8/2017 0:00,8312,ST004L1,19.71,NA,8.64,208,Water velocity not recorded.
+2/9/2017 0:00,8313,ST004L1,15.63,NA,8.75,NA,Water velocity not recorded. Water depth not recorded: too deep (estimated at 302 cm).
+2/10/2017 0:00,8314,ST004L1,10.56,NA,9.45,NA,Water velocity not recorded. Water depth not recorded: too deep ( >300 cm).
+2/11/2017 0:00,8315,ST004L1,19.56,NA,8.45,NA,Water velocity not recorded. Water depth not recorded: too deep ( >300 cm).
+2/12/2017 0:00,8324,ST004L1,10.56,NA,8.83,NA,Water velocity not recorded. Water depth not recorded: too deep ( >300 cm).
+2/13/2017 0:00,8325,ST004L1,6.48,NA,9.66,300,Water velocity not recorded.
+2/14/2017 0:00,8327,ST004L1,3.9,NA,8.05,281,Water velocity not recorded.
+2/15/2017 0:00,8333,ST004L1,4.01,0.2,8.27,288,NA
+2/16/2017 0:00,8334,ST004L1,3.97,0.2,8.12,253,NA
+2/17/2017 0:00,8335,ST004L1,9.34,0.2,8.44,260,NA
+2/18/2017 0:00,8343,ST004L1,11.98,0.4,9.05,287,NA
+2/19/2017 0:00,8345,ST004L1,8.68,0.3,9.19,NA,Water depth not recorded: too deep ( >300 cm).
+2/20/2017 0:00,8346,ST004L1,8.95,0.3,9.71,NA,Water depth not recorded: too deep ( >300 cm).
+2/21/2017 0:00,8347,ST004L1,21.7,0.6,9.09,NA,Water depth not recorded: too deep ( >300 cm).
+2/22/2017 0:00,8349,ST004L1,43.5,0.8,7.99,NA,Water depth not recorded: too deep ( >300 cm).
+2/23/2017 0:00,8360,ST004L1,24.7,0.4,8.93,NA,Water depth not recorded: too deep ( >300 cm).
+2/24/2017 0:00,8361,ST004L1,16.9,0.3,9.46,NA,Water depth not recorded: too deep ( >300 cm).
+2/25/2017 0:00,8362,ST004L1,10.13,0.3,9.82,NA,Water depth not recorded: too deep ( >300 cm).
+2/26/2017 0:00,8363,ST004L1,12.76,0.3,8.96,NA,Water depth not recorded: too deep ( >300 cm).
+2/27/2017 0:00,8364,ST004L1,10.95,0.3,9.11,NA,Water depth not recorded: too deep ( >300 cm).
+2/28/2017 0:00,8365,ST004L1,5.88,0.2,8.44,293,NA
+3/1/2017 0:00,8366,ST004L1,11.91,0.2,8.93,284,NA
+3/2/2017 0:00,8367,ST004L1,13.64,0.2,9.25,277,NA
+3/3/2017 0:00,8368,ST004L1,14.93,0.3,9.1,255,NA
+3/4/2017 0:00,8369,ST004L1,15.88,0.2,9.02,255,NA
+3/5/2017 0:00,8370,ST004L1,15.09,0.2,8.65,260,NA
+3/6/2017 0:00,8371,ST004L1,13.81,0.3,8.45,260,NA
+3/7/2017 0:00,8372,ST004L1,14.39,0.3,8.65,260,NA
+3/8/2017 0:00,8373,ST004L1,11.02,0.2,9.48,265,NA
+3/9/2017 0:00,8374,ST004L1,11.21,0.2,9.06,261,NA
+3/10/2017 0:00,8375,ST004L1,11.69,0.3,9,254,NA
+3/11/2017 0:00,8376,ST004L1,12.23,0.3,8.67,253,NA
+3/12/2017 0:00,8377,ST004L1,12.75,0.3,7.1,247,NA
+3/13/2017 0:00,8378,ST004L1,8.57,0.5,9.58,285,NA
+3/14/2017 0:00,8379,ST004L1,8.06,0.5,9.16,290,NA
+3/15/2017 0:00,8380,ST004L1,8.21,0.7,9.29,285,NA
+3/16/2017 0:00,8381,ST004L1,4.75,0.6,9.03,276,NA
+3/17/2017 0:00,8382,ST004L1,7.06,0.6,9.44,284,NA
+3/18/2017 0:00,8383,ST004L1,8.78,0.5,8.71,285,NA
+3/19/2017 0:00,8384,ST004L1,9.05,0.6,9.13,280,NA
+3/20/2017 0:00,8385,ST004L1,7.45,0.6,8.48,280,NA
+3/21/2017 0:00,8386,ST004L1,7.49,0.6,9.36,277,NA
+3/22/2017 0:00,8387,ST004L1,5.37,0.6,9.14,293,NA
+3/23/2017 0:00,8433,ST004L1,9.57,0.7,8.6,NA,Water depth not recorded: too deep (estimated at 307 cm).
+3/24/2017 0:00,8434,ST004L1,8.16,0.7,9.81,NA,Water depth not recorded: too deep ( >300 cm).
+3/25/2017 0:00,8435,ST004L1,6.51,0.8,9.93,NA,Water depth not recorded: too deep ( >300 cm).
+3/26/2017 0:00,8436,ST004L1,7.05,0.5,10.1,NA,Water depth not recorded: too deep ( >300 cm).
+3/27/2017 0:00,8437,ST004L1,7.43,0.4,9.84,NA,Water depth not recorded: too deep ( >300 cm).
+3/28/2017 0:00,8438,ST004L1,6.26,0.7,9.96,NA,Water depth not recorded: too deep ( >300 cm).
+3/29/2017 0:00,8439,ST004L1,5.48,0.6,NA,NA,Water depth not recorded: too deep ( >300 cm). DO recorded as 16.6 mg/L: likely incorrect.
+3/30/2017 0:00,8440,ST004L1,7.38,0.6,9.64,NA,Water depth not recorded: too deep ( >300 cm).
+3/31/2017 0:00,8441,ST004L1,6.63,0.5,9.8,NA,Water depth not recorded: too deep ( >300 cm).
+4/1/2017 0:00,8442,ST004L1,5.09,0.5,9.85,NA,Water depth not recorded: too deep ( >300 cm).
+4/3/2017 0:00,8443,ST004L1,NA,0.8,10,270,NA
+4/4/2017 0:00,8444,ST004L1,5.29,0.5,9.67,265,NA
+4/5/2017 0:00,8445,ST004L1,4.6,0.6,9.42,279,NA
+4/6/2017 0:00,8446,ST004L1,6.94,0.7,9.76,278,NA
+4/7/2017 0:00,8447,ST004L1,6.59,0.7,10.01,NA,Water depth not recorded: too deep ( >300 cm).
+4/8/2017 0:00,8448,ST004L1,5.77,0.9,NA,300,Water temperature and DO not recorded.
+4/10/2017 0:00,8449,ST004L1,NA,0.6,10.62,288,NA
+4/11/2017 0:00,8450,ST004L1,6.41,0.5,10.47,NA,Water depth not recorded: too deep (estimated at 301 cm).
+4/12/2017 0:00,8451,ST004L1,5.77,0.7,10.36,NA,Water depth not recorded: too deep ( >300 cm).
+4/13/2017 0:00,8452,ST004L1,6.75,0.6,10.06,NA,Water depth not recorded: too deep ( >300 cm).
+4/14/2017 0:00,8453,ST004L1,5.9,0.7,10.04,NA,Water depth not recorded: too deep ( >300 cm).
+4/15/2017 0:00,8454,ST004L1,6.05,0.6,10.35,NA,Water depth not recorded: too deep ( >300 cm).
+4/17/2017 0:00,8455,ST004L1,NA,NA,NA,NA,Environmental data not recorded.
+4/18/2017 0:00,8456,ST004L1,6.51,0.8,10.38,NA,Water depth not recorded: too deep ( >300 cm).
+4/19/2017 0:00,8457,ST004L1,5.81,0.9,10.2,NA,Water depth not recorded: too deep ( >300 cm).
+4/20/2017 0:00,8458,ST004L1,5.73,0.7,8.55,NA,Water depth not recorded: too deep ( >300 cm).
+4/21/2017 0:00,8459,ST004L1,5.96,0.9,10.34,NA,Water depth not recorded: too deep ( >300 cm).
+4/22/2017 0:00,8460,ST004L1,NA,NA,NA,NA,Environmental data not recorded.
+4/24/2017 0:00,8461,ST004L1,NA,0.8,10.16,NA,Water depth not recorded: too deep ( >300 cm).
+4/25/2017 0:00,8462,ST004L1,4.35,0.8,9.8,NA,Water depth not recorded: too deep ( >300 cm).
+4/26/2017 0:00,8463,ST004L1,4.8,0.8,10.02,NA,Water depth not recorded: too deep ( >300 cm).
+4/27/2017 0:00,8464,ST004L1,5.05,0.7,9.44,NA,Water depth not recorded: too deep ( >300 cm).
+5/1/2017 0:00,8465,ST004L1,NA,0.9,NA,NA,Water depth not recorded: too deep ( >300 cm).
+5/2/2017 0:00,8466,ST004L1,4.78,1.1,8.24,NA,Water depth not recorded: too deep ( >300 cm).
+5/3/2017 0:00,8467,ST004L1,4.49,0.7,8.59,NA,Water depth not recorded: too deep ( >300 cm).
+5/4/2017 0:00,8468,ST004L1,3.35,1,9.13,NA,Water depth not recorded: too deep ( >300 cm).
+5/5/2017 0:00,8469,ST004L1,4.36,1.2,9.85,NA,Water depth not recorded: too deep ( >300 cm).
+5/6/2017 0:00,8470,ST004L1,4,0.9,8.54,NA,Water depth not recorded: too deep ( >300 cm).
+5/8/2017 0:00,8471,ST004L1,NA,NA,9.66,NA,Water velocity not recorded.
+5/9/2017 0:00,8472,ST004L1,3.37,0.8,9.94,NA,Water depth not recorded: too deep ( >300 cm).
+5/10/2017 0:00,8473,ST004L1,3.92,0.9,9.05,NA,Water depth not recorded: too deep ( >300 cm).
+5/11/2017 0:00,8474,ST004L1,5.34,1.1,8.54,NA,Water depth not recorded: too deep ( >300 cm).
+5/12/2017 0:00,8475,ST004L1,5.65,0.9,8.15,NA,Water depth not recorded: too deep ( >300 cm).
+5/13/2017 0:00,8476,ST004L1,6.29,1.2,9.75,NA,Water depth not recorded: too deep ( >300 cm).
+5/15/2017 0:00,8529,ST004L1,NA,1,NA,NA,Water depth not recorded: too deep ( >300 cm).
+5/16/2017 0:00,8530,ST004L1,4.54,0.9,9.96,NA,Water depth not recorded: too deep ( >300 cm).
+5/17/2017 0:00,8531,ST004L1,4.95,1,10.29,NA,Water depth not recorded: too deep ( >300 cm).
+5/18/2017 0:00,8532,ST004L1,5.16,0.9,8.29,NA,Water depth not recorded: too deep ( >300 cm).
+5/19/2017 0:00,8533,ST004L1,4.44,0.9,9.81,NA,Water depth not recorded: too deep ( >300 cm).
+5/20/2017 0:00,8534,ST004L1,3.4,0.8,9.9,NA,Water depth not recorded: too deep ( >300 cm).
+5/22/2017 0:00,8535,ST004L1,NA,0.8,9.95,NA,Water depth not recorded: too deep ( >300 cm).
+5/23/2017 0:00,8536,ST004L1,4.11,0.8,9.59,NA,Water depth not recorded: too deep ( >300 cm).
+5/24/2017 0:00,8537,ST004L1,NA,0.9,9.88,NA,Water depth not recorded: too deep ( >300 cm). Turbidity not recorded: water sample not taken.
+5/25/2017 0:00,8538,ST004L1,4.32,0.9,9.7,NA,Water depth not recorded: too deep ( >300 cm).
+5/26/2017 0:00,8539,ST004L1,2.62,0.9,9.84,NA,Water depth not recorded: too deep ( >300 cm).
+5/27/2017 0:00,8540,ST004L1,3.2,0.8,9.57,NA,Water depth not recorded: too deep ( >300 cm).
+5/29/2017 0:00,8541,ST004L1,NA,0.9,NA,NA,Water depth not recorded: too deep ( >300 cm).
+5/30/2017 0:00,8542,ST004L1,3.53,1,9.89,NA,Water depth not recorded: too deep ( >300 cm).
+5/31/2017 0:00,8543,ST004L1,3.24,0.9,8.81,NA,Water depth not recorded: too deep ( >300 cm).
+6/1/2017 0:00,8544,ST004L1,2.89,1,9.97,NA,Water depth not recorded: too deep ( >300 cm).
+6/2/2017 0:00,8545,ST004L1,2.51,1,9.89,NA,Water depth not recorded: too deep ( >300 cm).
+6/3/2017 0:00,8546,ST004L1,3.18,0.9,9.89,NA,Water depth not recorded: too deep ( >300 cm).
+6/5/2017 0:00,8547,ST004L1,NA,0.9,9.77,NA,Water depth not recorded: too deep ( >300 cm).
+6/6/2017 0:00,8548,ST004L1,3.34,0.9,9.85,NA,Water depth not recorded: too deep ( >300 cm).
+6/7/2017 0:00,8549,ST004L1,2.26,0.5,9.96,NA,Water depth not recorded: too deep ( >300 cm).
+6/8/2017 0:00,8550,ST004L1,3.37,0.6,10.05,NA,Water depth not recorded: too deep ( >300 cm).
+6/9/2017 0:00,8551,ST004L1,3.99,0.8,10.04,NA,Water depth not recorded: too deep ( >300 cm).
+6/10/2017 0:00,8552,ST004L1,3.84,0.6,10.03,NA,Water depth not recorded: too deep ( >300 cm).
+6/12/2017 0:00,8553,ST004L1,NA,0.9,10.26,NA,Water depth not recorded: too deep ( >300 cm).
+6/13/2017 0:00,8554,ST004L1,2.76,0.8,10.1,NA,Water depth not recorded: too deep ( >300 cm).
+6/14/2017 0:00,8555,ST004L1,NA,0.8,10.02,NA,Water depth not recorded: too deep ( >300 cm). Turbidity not recorded: water sample not taken.
+6/15/2017 0:00,8556,ST004L1,4.24,0.8,10.9,NA,Water depth not recorded: too deep ( >300 cm).
+6/16/2017 0:00,8557,ST004L1,3.47,0.8,10.08,NA,Water depth not recorded: too deep ( >300 cm).
+6/17/2017 0:00,8558,ST004L1,3.16,0.9,8.48,NA,Water depth not recorded: too deep ( >300 cm).
+6/19/2017 0:00,8559,ST004L1,NA,NA,9.07,NA,Water depth not recorded. Water velocity not recorded.
+6/20/2017 0:00,8560,ST004L1,3.71,0.8,9.93,NA,Water depth not recorded: too deep ( >300 cm).
+6/21/2017 0:00,8561,ST004L1,3.66,0.7,10,NA,Water depth not recorded: too deep ( >300 cm).
+6/22/2017 0:00,8562,ST004L1,3.52,0.8,9.94,NA,Water depth not recorded: too deep ( >300 cm).
+6/23/2017 0:00,8563,ST004L1,4.02,0.8,9.92,NA,Water depth not recorded: too deep ( >300 cm).
+1/11/2018 0:00,8565,ST004L1,NA,0.7,10.05,210,NA
+1/12/2018 0:00,8566,ST004L1,5.21,0.6,10.47,213,NA
+1/13/2018 0:00,8571,ST004L1,2.81,0.6,9.98,216,NA
+1/14/2018 0:00,8572,ST004L1,3.42,0.6,9.92,205,NA
+1/15/2018 0:00,8573,ST004L1,1.48,0.5,10.21,228,NA
+1/16/2018 0:00,8575,ST004L1,3.76,0.7,8.96,235,NA
+1/17/2018 0:00,8577,ST004L1,1.8,0.7,9.05,227,NA
+1/18/2018 0:00,8583,ST004L1,2.72,0.7,NA,206,D. O. Not recorded
+1/19/2018 0:00,8584,ST004L1,3.18,0.6,8.4,211,NA
+1/20/2018 0:00,8585,ST004L1,5.89,0.7,10.14,204,NA
+1/21/2018 0:00,8586,ST004L1,1.86,0.6,10.54,220,NA
+1/22/2018 0:00,8587,ST004L1,2.37,0.6,10.86,224,NA
+1/23/2018 0:00,8595,ST004L1,1.87,0.6,9.47,205,NA
+1/24/2018 0:00,8596,ST004L1,2.86,0.7,12.01,215,NA
+1/25/2018 0:00,8597,ST004L1,2.43,0.7,11.94,224,NA
+1/26/2018 0:00,8598,ST004L1,3.09,0.5,10.93,161,NA
+1/27/2018 0:00,8599,ST004L1,3.22,0.6,11.69,150,NA
+1/28/2018 0:00,8600,ST004L1,3.02,0.5,11.75,170,NA
+1/29/2018 0:00,8601,ST004L1,2.55,0.5,11.8,145,NA
+1/30/2018 0:00,8604,ST004L1,3.02,0.5,11.85,152,NA
+1/31/2018 0:00,8605,ST004L1,3.41,0.5,10.97,137,NA
+2/1/2018 0:00,8608,ST004L1,3.1,0.5,11.66,150,NA
+2/2/2018 0:00,8609,ST004L1,2,0.5,11.8,126,NA
+2/3/2018 0:00,8613,ST004L1,1.82,0.7,10.89,137,NA
+2/4/2018 0:00,8614,ST004L1,3.31,0.6,11.59,148,NA
+2/5/2018 0:00,8615,ST004L1,2.17,0.5,11.66,149,NA
+2/6/2018 0:00,8623,ST004L1,2.89,0.6,11.53,137,NA
+2/7/2018 0:00,8624,ST004L1,2.7,0.4,11.89,140,NA
+2/8/2018 0:00,8625,ST004L1,2.47,0.4,10.05,133,NA
+2/9/2018 0:00,8626,ST004L1,2.62,0.5,11.71,163,NA
+2/10/2018 0:00,8627,ST004L1,8.55,0.5,9.15,170,NA
+2/11/2018 0:00,8628,ST004L1,8.92,0.6,11.85,205,NA
+2/13/2018 0:00,8637,ST004L1,3.07,0.5,12.22,230,NA
+2/14/2018 0:00,8638,ST004L1,4.33,0.6,12.75,231,NA
+2/15/2018 0:00,8639,ST004L1,2.49,0.5,10.62,252,NA
+2/16/2018 0:00,8640,ST004L1,3.26,0.6,12.29,239,NA
+2/17/2018 0:00,8641,ST004L1,2.62,0.7,12.3,257,NA
+2/18/2018 0:00,8642,ST004L1,3.59,0.6,12.08,270,NA
+2/19/2018 0:00,8643,ST004L1,2.71,0.6,12.24,257,NA
+2/20/2018 0:00,8645,ST004L1,2.98,0.6,12.44,259,NA
+2/21/2018 0:00,8652,ST004L1,3.57,0.5,12.95,280,NA
+2/22/2018 0:00,8653,ST004L1,3.88,0.5,12.72,255,NA
+2/23/2018 0:00,8654,ST004L1,4.06,0.6,10.05,264,NA
+2/24/2018 0:00,8655,ST004L1,4.79,0.6,10.27,NA,Water depth greater than 300 cm.  Unable to record an accurate measurement.
+2/25/2018 0:00,8656,ST004L1,5.03,0.6,12.58,NA,Water depth greater than 300 cm.  Unable to record an accurate measurement.
+2/26/2018 0:00,8657,ST004L1,3.79,0.8,12.19,NA,Water depth greater than 300 cm.  Unable to record an accurate measurement.
+2/27/2018 0:00,8658,ST004L1,2.84,0.5,9.9,NA,Water depth greater than 300 cm.  Unable to record an accurate measurement.
+2/28/2018 0:00,8660,ST004L1,4.11,0.2,12.49,NA,Water depth greater than 300 cm.  Unable to record an accurate measurement.
+3/4/2018 0:00,8663,ST004L1,NA,0.5,11.58,179,NA
+3/5/2018 0:00,8664,ST004L1,2.94,0.5,11.18,177,NA
+3/6/2018 0:00,8666,ST004L1,3.73,0.4,9.69,140,NA
+3/7/2018 0:00,8668,ST004L1,4.96,0.3,10.28,125,NA
+3/8/2018 0:00,8674,ST004L1,2.45,0.3,10.16,110,NA
+3/9/2018 0:00,8675,ST004L1,2.94,0.3,10.03,120,NA
+3/10/2018 0:00,8676,ST004L1,3.84,0.4,8.64,132,NA
+3/11/2018 0:00,8677,ST004L1,NA,0.2,10.05,143,NA
+3/12/2018 0:00,8678,ST004L1,3.06,0.3,9.92,151,NA
+3/13/2018 0:00,8681,ST004L1,2.26,0.3,9.92,142,NA
+3/14/2018 0:00,8682,ST004L1,5.77,0.4,9.69,134,NA
+3/15/2018 0:00,8688,ST004L1,3.65,0.5,10.45,135,NA
+3/16/2018 0:00,8689,ST004L1,4.12,0.3,10.6,130,NA
+3/17/2018 0:00,8690,ST004L1,2.88,0.3,8.55,125,NA
+3/18/2018 0:00,8691,ST004L1,3.85,0.3,11.32,130,NA
+3/19/2018 0:00,8692,ST004L1,4.01,0.3,11.51,120,NA
+3/20/2018 0:00,8693,ST004L1,3.42,0.2,8.45,128,NA
+3/21/2018 0:00,8696,ST004L1,4.14,0.3,10.65,120,NA
+3/22/2018 0:00,8698,ST004L1,9.02,0.4,9.89,129,NA
+3/23/2018 0:00,8700,ST004L1,7.03,0.3,10.74,147,NA
+3/24/2018 0:00,8705,ST004L1,15.02,0.3,10,140,NA
+3/25/2018 0:00,8706,ST004L1,8.62,0.3,10.54,121,NA
+3/26/2018 0:00,8707,ST004L1,6.11,0.2,10.02,115,NA
+3/27/2018 0:00,8708,ST004L1,3.43,0.4,12.06,111,NA
+3/28/2018 0:00,8710,ST004L1,4.22,0.3,10.59,115,NA
+3/29/2018 0:00,8712,ST004L1,3.3,0.3,10.49,110,NA
+3/30/2018 0:00,8717,ST004L1,4.75,0.4,8.45,115,NA
+3/31/2018 0:00,8718,ST004L1,3.21,0.3,4.75,115,DO meter not calibrated
+4/1/2018 0:00,8719,ST004L1,5.11,0.3,4.02,123,DO meter not calibrated
+4/2/2018 0:00,8720,ST004L1,5.74,0.3,7.83,128,DO meter not calibrated
+4/3/2018 0:00,8722,ST004L1,7.77,0.5,8.08,231,DO meter not calibrated
+4/4/2018 0:00,8724,ST004L1,7.98,0.4,7.63,250,DO meter not calibrated
+4/5/2018 0:00,8726,ST004L1,4.4,0.5,9.17,250,DO meter not calibrated
+4/6/2018 0:00,8728,ST004L1,6.15,0.7,7.71,260,DO meter not calibrated
+4/7/2018 0:00,8730,ST004L1,3.2,0.7,9.33,280,DO meter not calibrated
+4/8/2018 0:00,8735,ST004L1,6.28,0.6,8.05,283,DO meter not calibrated
+4/9/2018 0:00,8736,ST004L1,5.67,0.6,7.77,278,DO meter not calibrated
+4/10/2018 0:00,8737,ST004L1,4.16,0.6,6.69,290,DO meter not calibrated
+4/11/2018 0:00,8738,ST004L1,3.86,0.6,6.03,263,DO meter not calibrated
+4/12/2018 0:00,8740,ST004L1,4.43,0.6,6.17,248,DO meter not calibrated
+4/13/2018 0:00,8742,ST004L1,3.28,0.7,6.19,265,DO meter not calibrated
+4/14/2018 0:00,8747,ST004L1,3.63,0.7,6.19,265,DO meter not calibrated
+4/15/2018 0:00,8748,ST004L1,4.63,0.6,5.58,277,DO meter not calibrated
+4/16/2018 0:00,8749,ST004L1,4.58,0.6,5.67,296,DO meter not calibrated
+4/17/2018 0:00,8750,ST004L1,3.61,0.6,7.35,280,DO meter not calibrated
+4/18/2018 0:00,8752,ST004L1,4.13,0.7,7.72,263,DO meter not calibrated
+4/19/2018 0:00,8754,ST004L1,2.5,0.6,7.84,278,DO meter not calibrated
+4/20/2018 0:00,8756,ST004L1,4.1,0.7,6.68,267,DO meter not calibrated
+4/21/2018 0:00,8760,ST004L1,3.4,0.5,6.73,266,DO meter not calibrated
+4/22/2018 0:00,8761,ST004L1,3.13,0.5,6.21,278,DO meter not calibrated
+4/23/2018 0:00,8762,ST004L1,4.28,0.4,5.16,NA,"DO meter not calibrated, River too deep to measure (300+mm)"
+4/24/2018 0:00,8765,ST004L1,3.86,0.5,5.68,295,DO meter not calibrated
+4/25/2018 0:00,8766,ST004L1,2.49,0.6,3.84,288,DO meter not calibrated
+4/26/2018 0:00,8768,ST004L1,2.66,0.5,NA,283,DO meter not calibrated
+4/27/2018 0:00,8770,ST004L1,3.13,0.6,2.78,292,DO meter not calibrated
+4/28/2018 0:00,8772,ST004L1,3.51,0.6,NA,278,DO meter not calibrated
+4/29/2018 0:00,8773,ST004L1,4.78,0.5,2.31,290,DO meter not calibrated
+4/30/2018 0:00,8774,ST004L1,4,0.5,2.56,260,DO meter not calibrated
+5/1/2018 0:00,8775,ST004L1,2.9,0.4,NA,257,DO meter not calibrated
+5/2/2018 0:00,8781,ST004L1,3.02,0.6,10.77,298,NA
+5/3/2018 0:00,8782,ST004L1,2.96,0.6,11.1,262,NA
+5/4/2018 0:00,8784,ST004L1,3.84,0.6,8.95,255,NA
+5/5/2018 0:00,8786,ST004L1,3.98,0.5,8.61,220,Depth dropped 30cm
+5/6/2018 0:00,8789,ST004L1,4.27,0.5,7.93,245,NA
+5/7/2018 0:00,8790,ST004L1,6.6,0.7,10.69,NA,Depth was 300+ cm.
+5/8/2018 0:00,8792,ST004L1,10.62,0.6,9.82,NA,River too deep to measure depth. 300+ cm
+5/9/2018 0:00,8794,ST004L1,3.51,0.6,10.61,NA,River too deep to measure (300+cm)
+5/10/2018 0:00,8796,ST004L1,3.23,0.5,10.54,NA,River too deep to measure. (300+cm)
+5/11/2018 0:00,8798,ST004L1,5.12,0.8,11.06,NA,River too deep to measure. (300+cm)
+5/12/2018 0:00,8800,ST004L1,4.88,0.5,9.45,NA,River too deep to measure (300cm+)
+5/13/2018 0:00,8802,ST004L1,4.66,0.4,9.12,NA,River too deep to measure (300cm+)
+5/14/2018 0:00,8804,ST004L1,4.74,0.5,10.56,NA,River too deep to measure (300cm+)
+5/15/2018 0:00,8806,ST004L1,4.9,0.6,8.85,NA,River too deep to measure (300cm+)
+5/16/2018 0:00,8808,ST004L1,4.1,0.5,10.72,NA,River too deep to measure (300cm+)
+5/17/2018 0:00,8810,ST004L1,4.11,0.6,10.93,NA,River too deep to measure (300cm+)
+5/18/2018 0:00,8813,ST004L1,NA,0.8,9.2,NA,"River too deep to measure (300cm+)
 
 Turbidity not recorded"
-2018/05/20 00:00:00,8814,ST004L1,NA,0.8,9.96,NA,"River too deep to measure (300cm+)
+5/20/2018 0:00,8814,ST004L1,NA,0.8,9.96,NA,"River too deep to measure (300cm+)
 
 "
-2018/05/21 00:00:00,8816,ST004L1,3.5,0.9,10.85,NA,River too deep to measure (300cm+)
-2018/05/22 00:00:00,8817,ST004L1,2.11,0.7,10.9,NA,River too deep to measure (300cm+)
-2018/05/23 00:00:00,8820,ST004L1,3.9,0.6,10.69,NA,River too deep to measure (300cm+)
-2018/05/24 00:00:00,8822,ST004L1,4.28,0.8,10.81,NA,River too deep to measure (300cm+)
-2018/05/25 00:00:00,8824,ST004L1,2.02,0.6,10.86,NA,River too deep to measure (300cm+)
-2019/02/02 00:00:00,8850,ST004L1,NA,0.6,10.74,120,NA
-2019/02/03 00:00:00,8851,ST004L1,8.42,0.8,10.98,209,NA
-2019/02/04 00:00:00,8852,ST004L1,9.27,NA,10.94,NA,Depth and velocity not recorded.
-2019/02/05 00:00:00,8853,ST004L1,13.26,0.8,10.93,285,NA
-2019/02/06 00:00:00,8855,ST004L1,12.69,0.6,11.72,283,NA
-2019/02/07 00:00:00,8857,ST004L1,5.64,0.6,11.65,260,NA
-2019/02/08 00:00:00,8859,ST004L1,5.42,0.6,12.4,258,NA
-2019/02/09 00:00:00,8863,ST004L1,5.28,0.5,11.55,242,NA
-2019/02/10 00:00:00,8864,ST004L1,6.09,0.4,11.61,220,NA
-2019/02/11 00:00:00,8865,ST004L1,6.69,0.5,11.53,235,NA
-2019/02/12 00:00:00,8867,ST004L1,7.88,0.6,11.84,255,NA
-2019/02/13 00:00:00,8870,ST004L1,5.05,0.6,11.56,240,NA
-2019/02/14 00:00:00,8871,ST004L1,3.88,0.6,11.2,235,NA
-2019/02/15 00:00:00,8873,ST004L1,6.44,0.6,10.35,255,NA
-2019/02/16 00:00:00,8875,ST004L1,18.7,0.5,11.48,275,NA
-2019/02/17 00:00:00,8877,ST004L1,7.57,0.7,11.54,NA,River depth too deep to measure (300+ cm)
-2019/02/18 00:00:00,8879,ST004L1,7.26,0.5,11.78,NA,NA
-2019/02/19 00:00:00,8880,ST004L1,6.7,0.6,12.26,NA,NA
-2019/02/20 00:00:00,8885,ST004L1,4.19,0.5,11.31,NA,River too deep to measure depth (300 cm +)
-2019/02/20 00:00:00,8886,ST004L1,NA,0.6,12.36,288,NA
-2019/02/21 00:00:00,8887,ST004L1,3.75,1.1,11.58,NA,NA
-2019/02/22 00:00:00,8892,ST004L1,4.25,0.9,12.18,NA,NA
-2019/02/23 00:00:00,8893,ST004L1,5.32,0.9,12.61,305,NA
-2019/02/24 00:00:00,8894,ST004L1,4.83,0.6,12.62,294,NA
-2019/02/25 00:00:00,8895,ST004L1,4.04,0.8,12.64,286,NA
-2019/02/26 00:00:00,8898,ST004L1,4.78,1,11.63,286,NA
-2019/02/27 00:00:00,8899,ST004L1,5.8,1.1,11.71,268,NA
-2019/02/28 00:00:00,8901,ST004L1,4.17,1,12.44,277,NA
-2019/03/01 00:00:00,8904,ST004L1,5.79,0.6,11.85,NA,River too deep to measure (300 + cm)
-2019/03/04 00:00:00,8905,ST004L1,NA,0.8,11.3,NA,River too deep to measure (300 + cm)
-2019/03/05 00:00:00,8907,ST004L1,5.21,1,11.33,NA,River too deep to measure (300 + cm)
-2019/03/06 00:00:00,8909,ST004L1,6.71,0.9,11.43,NA,River too deep to measure (300 + cm)
-2019/03/07 00:00:00,8912,ST004L1,7.96,0.8,11.06,NA,River too deep to measure (300 + cm)
-2019/03/08 00:00:00,8913,ST004L1,6.99,0.9,10.89,NA,River too deep to measure (300 + cm)
-2019/03/09 00:00:00,8914,ST004L1,6.1,0.6,11,NA,River too deep to measure (300 + cm)
-2019/03/10 00:00:00,8918,ST004L1,6.22,0.7,11.03,NA,River too deep to measure (300 + cm)
-2019/03/11 00:00:00,8919,ST004L1,5.66,0.8,12.06,NA,River too deep to measure (300 + cm)
-2019/03/12 00:00:00,8921,ST004L1,5.02,0.9,11.14,NA,River too deep to measure (300 + cm)
-2019/03/13 00:00:00,8922,ST004L1,6.05,0.6,11.27,NA,River too deep to measure (300 + cm)
-2019/03/14 00:00:00,8925,ST004L1,6.31,0.8,11.46,NA,River too deep to measure (300 + cm)
-2019/03/15 00:00:00,8927,ST004L1,4.68,0.8,12.06,NA,River too deep to measure (300 + cm)
-2019/03/16 00:00:00,8931,ST004L1,4.7,0.8,11.53,NA,River too deep to measure (300 + cm)
-2019/03/17 00:00:00,8932,ST004L1,4.43,0.8,11.73,NA,River too deep to measure (300 + cm)
-2019/03/18 00:00:00,8933,ST004L1,4.35,1,12.88,NA,River too deep to measure (300 + cm)
-2019/03/19 00:00:00,8935,ST004L1,4.24,0.6,11.72,NA,River too deep to measure (300 + cm)
-2019/03/20 00:00:00,8937,ST004L1,4.03,0.8,11.7,NA,River too deep to measure (300 + cm)
-2019/03/21 00:00:00,8939,ST004L1,3.64,0.8,12.15,NA,River too deep to measure (300 + cm)
-2019/03/22 00:00:00,8941,ST004L1,5.15,0.8,11.05,NA,River too deep to measure (300 + cm)
-2019/03/23 00:00:00,8946,ST004L1,3.8,0.8,11.46,NA,River too deep to measure (300 + cm)
-2019/03/24 00:00:00,8947,ST004L1,9.61,0.8,11.88,NA,River too deep to measure (300 + cm)
-2019/03/25 00:00:00,8948,ST004L1,5.34,0.9,11.98,NA,River too deep to measure (300 + cm)
-2019/03/26 00:00:00,8949,ST004L1,4.64,1,12.38,NA,River too deep to measure (300 + cm)
-2019/03/27 00:00:00,8951,ST004L1,4.25,1,11.23,NA,River too deep to measure (300 + cm)
-2019/03/28 00:00:00,8953,ST004L1,NA,NA,12.22,NA,"Depth, velocity and turbidity not recorded."
-2019/03/29 00:00:00,8954,ST004L1,5.16,0.6,11.67,NA,River too deep to measure (300 + cm)
-2019/03/30 00:00:00,8957,ST004L1,3.36,0.9,9.79,NA,River too deep to measure (300 + cm)
-2019/03/31 00:00:00,8960,ST004L1,3.78,0.6,12.34,NA,River too deep to measure (300 + cm)
-2019/04/01 00:00:00,8961,ST004L1,4.08,1,12.18,NA,"River too deep to measure (300 + cm)
+5/21/2018 0:00,8816,ST004L1,3.5,0.9,10.85,NA,River too deep to measure (300cm+)
+5/22/2018 0:00,8817,ST004L1,2.11,0.7,10.9,NA,River too deep to measure (300cm+)
+5/23/2018 0:00,8820,ST004L1,3.9,0.6,10.69,NA,River too deep to measure (300cm+)
+5/24/2018 0:00,8822,ST004L1,4.28,0.8,10.81,NA,River too deep to measure (300cm+)
+5/25/2018 0:00,8824,ST004L1,2.02,0.6,10.86,NA,River too deep to measure (300cm+)
+2/2/2019 0:00,8850,ST004L1,NA,0.6,10.74,120,NA
+2/3/2019 0:00,8851,ST004L1,8.42,0.8,10.98,209,NA
+2/4/2019 0:00,8852,ST004L1,9.27,NA,10.94,NA,Depth and velocity not recorded.
+2/5/2019 0:00,8853,ST004L1,13.26,0.8,10.93,285,NA
+2/6/2019 0:00,8855,ST004L1,12.69,0.6,11.72,283,NA
+2/7/2019 0:00,8857,ST004L1,5.64,0.6,11.65,260,NA
+2/8/2019 0:00,8859,ST004L1,5.42,0.6,12.4,258,NA
+2/9/2019 0:00,8863,ST004L1,5.28,0.5,11.55,242,NA
+2/10/2019 0:00,8864,ST004L1,6.09,0.4,11.61,220,NA
+2/11/2019 0:00,8865,ST004L1,6.69,0.5,11.53,235,NA
+2/12/2019 0:00,8867,ST004L1,7.88,0.6,11.84,255,NA
+2/13/2019 0:00,8870,ST004L1,5.05,0.6,11.56,240,NA
+2/14/2019 0:00,8871,ST004L1,3.88,0.6,11.2,235,NA
+2/15/2019 0:00,8873,ST004L1,6.44,0.6,10.35,255,NA
+2/16/2019 0:00,8875,ST004L1,18.7,0.5,11.48,275,NA
+2/17/2019 0:00,8877,ST004L1,7.57,0.7,11.54,NA,River depth too deep to measure (300+ cm)
+2/18/2019 0:00,8879,ST004L1,7.26,0.5,11.78,NA,NA
+2/19/2019 0:00,8880,ST004L1,6.7,0.6,12.26,NA,NA
+2/20/2019 0:00,8885,ST004L1,4.19,0.5,11.31,NA,River too deep to measure depth (300 cm +)
+2/20/2019 0:00,8886,ST004L1,NA,0.6,12.36,288,NA
+2/21/2019 0:00,8887,ST004L1,3.75,1.1,11.58,NA,NA
+2/22/2019 0:00,8892,ST004L1,4.25,0.9,12.18,NA,NA
+2/23/2019 0:00,8893,ST004L1,5.32,0.9,12.61,305,NA
+2/24/2019 0:00,8894,ST004L1,4.83,0.6,12.62,294,NA
+2/25/2019 0:00,8895,ST004L1,4.04,0.8,12.64,286,NA
+2/26/2019 0:00,8898,ST004L1,4.78,1,11.63,286,NA
+2/27/2019 0:00,8899,ST004L1,5.8,1.1,11.71,268,NA
+2/28/2019 0:00,8901,ST004L1,4.17,1,12.44,277,NA
+3/1/2019 0:00,8904,ST004L1,5.79,0.6,11.85,NA,River too deep to measure (300 + cm)
+3/4/2019 0:00,8905,ST004L1,NA,0.8,11.3,NA,River too deep to measure (300 + cm)
+3/5/2019 0:00,8907,ST004L1,5.21,1,11.33,NA,River too deep to measure (300 + cm)
+3/6/2019 0:00,8909,ST004L1,6.71,0.9,11.43,NA,River too deep to measure (300 + cm)
+3/7/2019 0:00,8912,ST004L1,7.96,0.8,11.06,NA,River too deep to measure (300 + cm)
+3/8/2019 0:00,8913,ST004L1,6.99,0.9,10.89,NA,River too deep to measure (300 + cm)
+3/9/2019 0:00,8914,ST004L1,6.1,0.6,11,NA,River too deep to measure (300 + cm)
+3/10/2019 0:00,8918,ST004L1,6.22,0.7,11.03,NA,River too deep to measure (300 + cm)
+3/11/2019 0:00,8919,ST004L1,5.66,0.8,12.06,NA,River too deep to measure (300 + cm)
+3/12/2019 0:00,8921,ST004L1,5.02,0.9,11.14,NA,River too deep to measure (300 + cm)
+3/13/2019 0:00,8922,ST004L1,6.05,0.6,11.27,NA,River too deep to measure (300 + cm)
+3/14/2019 0:00,8925,ST004L1,6.31,0.8,11.46,NA,River too deep to measure (300 + cm)
+3/15/2019 0:00,8927,ST004L1,4.68,0.8,12.06,NA,River too deep to measure (300 + cm)
+3/16/2019 0:00,8931,ST004L1,4.7,0.8,11.53,NA,River too deep to measure (300 + cm)
+3/17/2019 0:00,8932,ST004L1,4.43,0.8,11.73,NA,River too deep to measure (300 + cm)
+3/18/2019 0:00,8933,ST004L1,4.35,1,12.88,NA,River too deep to measure (300 + cm)
+3/19/2019 0:00,8935,ST004L1,4.24,0.6,11.72,NA,River too deep to measure (300 + cm)
+3/20/2019 0:00,8937,ST004L1,4.03,0.8,11.7,NA,River too deep to measure (300 + cm)
+3/21/2019 0:00,8939,ST004L1,3.64,0.8,12.15,NA,River too deep to measure (300 + cm)
+3/22/2019 0:00,8941,ST004L1,5.15,0.8,11.05,NA,River too deep to measure (300 + cm)
+3/23/2019 0:00,8946,ST004L1,3.8,0.8,11.46,NA,River too deep to measure (300 + cm)
+3/24/2019 0:00,8947,ST004L1,9.61,0.8,11.88,NA,River too deep to measure (300 + cm)
+3/25/2019 0:00,8948,ST004L1,5.34,0.9,11.98,NA,River too deep to measure (300 + cm)
+3/26/2019 0:00,8949,ST004L1,4.64,1,12.38,NA,River too deep to measure (300 + cm)
+3/27/2019 0:00,8951,ST004L1,4.25,1,11.23,NA,River too deep to measure (300 + cm)
+3/28/2019 0:00,8953,ST004L1,NA,NA,12.22,NA,"Depth, velocity and turbidity not recorded."
+3/29/2019 0:00,8954,ST004L1,5.16,0.6,11.67,NA,River too deep to measure (300 + cm)
+3/30/2019 0:00,8957,ST004L1,3.36,0.9,9.79,NA,River too deep to measure (300 + cm)
+3/31/2019 0:00,8960,ST004L1,3.78,0.6,12.34,NA,River too deep to measure (300 + cm)
+4/1/2019 0:00,8961,ST004L1,4.08,1,12.18,NA,"River too deep to measure (300 + cm)
 
 D.O. meter missing film- possibly inaccurate readings."
-2019/04/02 00:00:00,8963,ST004L1,3.85,0.8,13.53,NA,River too deep to measure (300 + cm)
-2019/04/03 00:00:00,8965,ST004L1,3.97,1,12.77,NA,River too deep to measure (300 + cm)
-2019/04/04 00:00:00,8967,ST004L1,2.79,0.8,12.72,NA,River too deep to measure (300 + cm)
-2019/04/05 00:00:00,8969,ST004L1,3.69,0.8,13.4,NA,River too deep to measure (300 + cm)
-2019/04/06 00:00:00,8973,ST004L1,4.46,1,13.51,NA,River too deep to measure (300 + cm)
-2019/04/07 00:00:00,8974,ST004L1,2.81,1.1,13.22,NA,River too deep to measure (300 + cm)
-2019/04/08 00:00:00,8975,ST004L1,4.1,1,13.5,NA,River too deep to measure (300 + cm)
-2019/04/09 00:00:00,8979,ST004L1,4.84,0.8,12.75,NA,River too deep to measure (300 + cm)
-2019/04/10 00:00:00,8980,ST004L1,4.16,1,12.92,NA,River too deep to measure (300 + cm)
-2019/04/11 00:00:00,8981,ST004L1,3.71,0.8,12.2,NA,River too deep to measure (300 + cm)
-2019/04/12 00:00:00,8986,ST004L1,3.14,0.7,12.95,NA,River too deep to measure (300 + cm)
-2019/04/13 00:00:00,8987,ST004L1,2.89,0.6,12.27,NA,River too deep to measure (300 + cm)
-2019/04/14 00:00:00,8988,ST004L1,3.62,0.8,12.75,NA,River too deep to measure (300 + cm)
-2019/04/15 00:00:00,8989,ST004L1,3.28,0.9,13.1,NA,River too deep to measure (300 + cm)
-2019/04/16 00:00:00,8992,ST004L1,3.59,1,12.61,NA,River too deep to measure (300 + cm)
-2019/04/17 00:00:00,8993,ST004L1,3.01,1,13.06,NA,River too deep to measure (300 + cm)
-2019/04/18 00:00:00,8995,ST004L1,4.05,0.8,13.24,NA,River too deep to measure (300 + cm)
-2019/04/19 00:00:00,9000,ST004L1,2.86,0.9,12.2,NA,River too deep to measure (300 + cm)
-2019/04/20 00:00:00,9001,ST004L1,2.58,0.8,12.65,NA,River too deep to measure (300 + cm)
-2019/04/21 00:00:00,9002,ST004L1,2.94,0.9,12.48,NA,River too deep to measure (300 + cm)
-2019/04/22 00:00:00,9003,ST004L1,4.07,0.8,12.26,NA,River too deep to measure (300 + cm)
-2019/04/23 00:00:00,9006,ST004L1,3.72,0.8,12.52,NA,River too deep to measure (300 + cm)
-2019/04/24 00:00:00,9007,ST004L1,3.09,0.8,11.26,NA,River too deep to measure (300 + cm)
-2019/04/25 00:00:00,9009,ST004L1,1.97,0.7,11.22,NA,River too deep to measure (300 + cm)
-2019/04/26 00:00:00,9011,ST004L1,3.59,0.8,12.35,NA,River too deep to measure (300 + cm)
-2019/04/29 00:00:00,9013,ST004L1,NA,0.8,10.65,NA,River too deep to measure (300 + cm)
-2019/04/30 00:00:00,9015,ST004L1,3.37,0.7,11.6,NA,River too deep to measure (300 + cm)
-2019/05/01 00:00:00,9018,ST004L1,2.29,0.9,12.25,NA,River too deep to measure (300 + cm)
-2019/05/02 00:00:00,9019,ST004L1,3.08,0.6,12.56,NA,River too deep to measure (300 + cm)
-2019/05/03 00:00:00,9020,ST004L1,4.83,1,11.26,NA,River too deep to measure (300 + cm)
-2019/05/06 00:00:00,9023,ST004L1,NA,0.6,12.26,NA,River too deep to measure (300 + cm)
-2019/05/07 00:00:00,9025,ST004L1,4.92,0.9,11.91,NA,River too deep to measure (300 + cm)
-2019/05/08 00:00:00,9027,ST004L1,3.97,0.8,12.6,NA,River too deep to measure (300 + cm)
-2019/05/09 00:00:00,9029,ST004L1,3.85,0.8,11.9,NA,River too deep to measure (300 + cm)
-2019/05/10 00:00:00,9031,ST004L1,2.7,0.8,12.36,NA,River too deep to measure (300 + cm)
-2019/05/13 00:00:00,9033,ST004L1,NA,0.6,11.56,NA,River too deep to measure (300 + cm)
-2019/05/14 00:00:00,9035,ST004L1,5.24,0.7,11.06,NA,River too deep to measure (300 + cm)
-2019/05/15 00:00:00,9038,ST004L1,5.05,0.8,11.46,NA,River too deep to measure (300 + cm)
-2019/05/16 00:00:00,9039,ST004L1,5.5,0.8,12.09,NA,River too deep to measure (300 + cm)
-2019/05/17 00:00:00,9041,ST004L1,6.73,0.6,12.04,NA,NA
-2019/05/20 00:00:00,9043,ST004L1,NA,0.8,12.38,NA,River too deep to measure (300 + cm)
-2019/05/21 00:00:00,9045,ST004L1,4.36,1,11,NA,NA
-2019/05/22 00:00:00,9047,ST004L1,3.94,0.6,11.86,NA,River too deep to measure (300 + cm)
-2019/05/23 00:00:00,9049,ST004L1,4.2,0.6,12.51,NA,River too deep to measure (300 + cm)
-2019/05/24 00:00:00,9051,ST004L1,2.22,0.6,12.15,NA,River too deep to measure (300 + cm)
-2019/05/27 00:00:00,9055,ST004L1,NA,0.6,11.05,263,NA
-2019/05/28 00:00:00,9056,ST004L1,5.19,0.6,10.83,284,NA
-2019/05/29 00:00:00,9058,ST004L1,3.01,0.9,11.48,NA,River too deep to measure (300 + cm)
-2019/05/30 00:00:00,9061,ST004L1,2.14,0.6,11.6,NA,River too deep to measure (300 + cm)
-2019/05/31 00:00:00,9062,ST004L1,3.98,0.6,12.15,NA,River too deep to measure (300 + cm)
-2019/06/03 00:00:00,9064,ST004L1,NA,0.6,10.06,225,NA
-2019/06/04 00:00:00,9066,ST004L1,6.16,0.7,10.37,246,NA
-2019/06/05 00:00:00,9069,ST004L1,3.1,0.7,11.28,280,NA
-2019/06/06 00:00:00,9070,ST004L1,2.68,0.6,11.23,280,NA
-2019/06/07 00:00:00,9072,ST004L1,4.52,0.7,10.35,274,NA
-2019/06/10 00:00:00,9076,ST004L1,NA,0.6,10.58,233,NA
-2019/06/11 00:00:00,9077,ST004L1,2.31,0.6,10.57,252,NA
-2019/06/12 00:00:00,9078,ST004L1,3.1,0.6,10.79,269,NA
-2019/06/13 00:00:00,9080,ST004L1,3.47,0.6,10.84,267,NA
-2019/06/14 00:00:00,9082,ST004L1,3.9,0.7,10.61,259,NA
-2019/06/17 00:00:00,9085,ST004L1,NA,0.6,10.18,210,NA
-2019/06/18 00:00:00,9086,ST004L1,1.94,0.6,10.12,230,NA
-2019/06/19 00:00:00,9089,ST004L1,2.41,0.6,10.91,238,NA
-2019/06/20 00:00:00,9090,ST004L1,5.06,0.7,10.65,281,NA
-2020/01/06 00:00:00,9093,ST004L1,NA,0.6,10.2,176,Depth recorded from back of trap as instead of parallel with front of cone.
-2020/01/07 00:00:00,9094,ST004L1,2.29,0.8,12.51,150,NA
-2020/01/08 00:00:00,9095,ST004L1,2.27,0.7,9.53,184,NA
-2020/01/09 00:00:00,9098,ST004L1,1.81,0.8,11.6,140,NA
-2020/01/10 00:00:00,9102,ST004L1,1.7,0.6,12.05,182,NA
-2020/01/12 00:00:00,9103,ST004L1,NA,0.7,12.3,221,NA
-2020/01/13 00:00:00,9104,ST004L1,2.15,0.6,11.5,168,NA
-2020/01/14 00:00:00,9107,ST004L1,1.3,0.6,11.73,154,NA
-2020/01/15 00:00:00,9108,ST004L1,1.82,0.6,11.97,198,NA
-2020/01/16 00:00:00,9110,ST004L1,1.74,0.7,9.92,165,NA
-2020/01/17 00:00:00,9121,ST004L1,2.43,0.7,12.09,170,NA
-2020/01/18 00:00:00,9122,ST004L1,1.96,0.6,11.87,192,NA
-2020/01/20 00:00:00,9123,ST004L1,NA,0.8,11.47,190,NA
-2020/01/21 00:00:00,9124,ST004L1,NA,0.7,12.28,172,NA
-2020/01/22 00:00:00,9125,ST004L1,1.59,0.6,11.62,171,NA
-2020/01/23 00:00:00,9126,ST004L1,1.83,0.6,11.15,181,NA
-2020/01/24 00:00:00,9127,ST004L1,1.76,0.6,11.34,175,NA
-2020/01/25 00:00:00,9128,ST004L1,1.01,0.6,10.94,191,NA
-2020/01/26 00:00:00,9129,ST004L1,1.77,0.6,11.08,174,NA
-2020/01/27 00:00:00,9130,ST004L1,2.47,0.6,9.43,168,NA
-2020/01/28 00:00:00,9131,ST004L1,2.81,NA,9.8,180,Forgot velocity meter
-2020/01/29 00:00:00,9145,ST004L1,2.56,0.6,11.69,179,NA
-2020/01/30 00:00:00,9146,ST004L1,2.23,0.5,11.47,201,NA
-2020/01/31 00:00:00,9147,ST004L1,1.46,0.6,11.58,183,NA
-2020/02/01 00:00:00,9148,ST004L1,1.75,0.6,10.91,177,NA
-2020/02/02 00:00:00,9149,ST004L1,2.5,0.7,9.5,160,NA
-2020/02/03 00:00:00,9150,ST004L1,1.6,0.8,13.32,173,NA
-2020/02/04 00:00:00,9151,ST004L1,3.19,0.6,12.25,263,NA
-2020/02/05 00:00:00,9152,ST004L1,6.26,0.8,10.9,310,Depth > 300 cm
-2020/02/06 00:00:00,9153,ST004L1,2.63,0.8,11.98,310,Depth > 300 cm
-2020/02/07 00:00:00,9154,ST004L1,1.91,NA,11.37,310,Depth > 300 cm
-2020/02/08 00:00:00,9155,ST004L1,2.57,NA,11.22,310,Depth is > 300 cm
-2020/02/09 00:00:00,9156,ST004L1,3.02,NA,12.34,252,NA
-2020/02/10 00:00:00,9157,ST004L1,2.02,NA,11.5,220,velocity meter non-functioning
-2020/02/11 00:00:00,9158,ST004L1,1.55,NA,11.67,219,velocity meter non-functioning
-2020/02/12 00:00:00,9159,ST004L1,1.48,NA,10.82,205,velocity meter non-functioning
-2020/02/13 00:00:00,9160,ST004L1,2.21,NA,11.42,203,velocity meter non-functioning
-2020/02/14 00:00:00,9171,ST004L1,2.13,NA,12.01,129,No Velocimeter
-2020/02/15 00:00:00,9172,ST004L1,2.12,NA,10.19,160,No Velocimeter
-2020/02/16 00:00:00,9173,ST004L1,1.27,NA,10.24,131,No Velocimeter
-2020/02/17 00:00:00,9174,ST004L1,2.54,NA,10.28,140,Velocimeter broken
-2020/02/18 00:00:00,9175,ST004L1,1.74,NA,10.36,135,Velocimeter broken
-2020/02/19 00:00:00,9176,ST004L1,2.78,NA,10.33,137,Broken Velocimeter
-2020/02/20 00:00:00,9178,ST004L1,2.16,NA,10.7,153,Broken Velocimeter
-2020/02/21 00:00:00,9184,ST004L1,3.18,0.4,11.45,241,Velocity was taken after the debris was cleared in front of the traps
-2020/02/22 00:00:00,9186,ST004L1,2.33,0.7,11.35,258,NA
-2020/02/23 00:00:00,9187,ST004L1,2.42,0.9,11.27,310,NA
-2020/02/24 00:00:00,9185,ST004L1,2.19,NA,11.26,310,Broken Velocimeter; Depth > 300cm
-2020/02/24 00:00:00,9354,ST004L1,NA,NA,11.26,310,No velocimeter
-2020/02/25 00:00:00,9183,ST004L1,1.95,NA,11.93,295,Broken Velocimeter
-2020/02/26 00:00:00,9192,ST004L1,2.57,NA,11.65,310,Depth > 300cm ; velocimeter is broken
-2020/02/27 00:00:00,9193,ST004L1,2.15,NA,11.62,310,Depth > 300 cm; No velocimeter
-2020/02/28 00:00:00,9194,ST004L1,2.41,NA,11.59,310,No velocimeter; Depth > 300 cm
-2020/02/29 00:00:00,9198,ST004L1,1.49,0.72,11.33,310,Depth > 300 cm
-2020/03/01 00:00:00,9199,ST004L1,1.57,NA,11.12,285,No Velocimeter
-2020/03/02 00:00:00,9200,ST004L1,1.91,NA,12.06,310,"Depth > 300 cm, Debris > 300, No Velocimeter"
-2020/03/03 00:00:00,9204,ST004L1,3.28,0.74,11.35,310,Depth > 300 cm
-2020/03/04 00:00:00,9203,ST004L1,3.12,NA,11.23,310,"velocity meter not working, depth > 300 cm"
-2020/03/05 00:00:00,9213,ST004L1,1.87,NA,11.45,285,Velocimeter not working
-2020/03/06 00:00:00,9214,ST004L1,2.1,0.79,11.28,278,NA
-2020/03/07 00:00:00,9215,ST004L1,2.81,0.81,10.66,237,NA
-2020/03/08 00:00:00,9225,ST004L1,1.89,NA,10.8,243,velocimeter broke
-2020/03/09 00:00:00,9226,ST004L1,1.69,NA,11.01,232,Velocimeter malfunction
-2020/03/10 00:00:00,9227,ST004L1,2.91,NA,10.39,209,Velocimeter not working
-2020/03/11 00:00:00,9228,ST004L1,3.69,NA,11.21,209,NA
-2020/03/12 00:00:00,9229,ST004L1,2.35,0.52,10.38,143,NA
-2020/03/13 00:00:00,9230,ST004L1,3.16,0.47,9.2,120,NA
-2020/03/14 00:00:00,9357,ST004L1,NA,0.46,9.05,106,NA
-2020/03/14 00:00:00,9231,ST004L1,3.12,0.46,9.05,106,NA
-2020/03/15 00:00:00,9232,ST004L1,4.31,NA,9.45,116,Velocimeter malfunction
-2020/03/16 00:00:00,9233,ST004L1,3.41,NA,9.6,115,Velocimeter not working
-2020/03/17 00:00:00,9234,ST004L1,3.32,0.56,10.05,120,NA
-2020/03/18 00:00:00,9235,ST004L1,4.89,0.35,10.8,123,NA
-2020/03/19 00:00:00,9236,ST004L1,4.77,NA,9.37,95,Velocimeter out of battery
-2020/03/24 00:00:00,9237,ST004L1,NA,0.46,9.44,239,NA
-2020/03/25 00:00:00,9238,ST004L1,1.95,0.28,9.14,100,NA
-2020/03/26 00:00:00,9252,ST004L1,2.27,NA,9.24,67,NA
-2020/03/27 00:00:00,9358,ST004L1,NA,NA,9.1,95,NA
-2020/03/27 00:00:00,9251,ST004L1,1.94,NA,9.1,95,NA
-2020/03/28 00:00:00,9250,ST004L1,2.47,0.32,8.54,122,NA
-2020/03/29 00:00:00,9249,ST004L1,3.15,NA,9.2,70,NA
-2020/03/30 00:00:00,9248,ST004L1,2.62,NA,8.6,80,NA
-2020/03/31 00:00:00,9247,ST004L1,3.07,NA,8.21,85,NA
-2020/04/01 00:00:00,9246,ST004L1,2.45,NA,8.38,80,NA
-2020/04/02 00:00:00,9254,ST004L1,2.58,0.4,8.56,80,NA
-2020/04/03 00:00:00,9257,ST004L1,3.66,0.4,8.64,85,NA
-2020/04/04 00:00:00,9258,ST004L1,3.44,0.5,8.74,85,NA
-2020/04/05 00:00:00,9262,ST004L1,2.36,0.4,8.75,75,NA
-2020/04/06 00:00:00,9263,ST004L1,2.7,0.4,9.38,85,NA
-2020/04/07 00:00:00,9264,ST004L1,48,0.5,9.66,155,NA
-2020/04/08 00:00:00,9267,ST004L1,18.79,0.6,8.86,145,NA
-2020/04/09 00:00:00,9268,ST004L1,11.24,0.5,8.86,147,NA
-2020/04/10 00:00:00,9269,ST004L1,6.52,0.6,9.58,206,NA
-2020/04/11 00:00:00,9270,ST004L1,4.21,0.5,9.04,188,NA
-2020/04/12 00:00:00,9271,ST004L1,3.91,NA,8.65,150,velocimeter nonfunctional
-2020/04/13 00:00:00,9278,ST004L1,4.3,NA,8.53,190,NA
-2020/04/14 00:00:00,9279,ST004L1,4.53,NA,8.8,181,Velocimeter not working
-2020/04/15 00:00:00,9280,ST004L1,3.47,NA,9.59,205,NA
-2020/04/16 00:00:00,9281,ST004L1,3.14,NA,8.73,192,NA
-2020/04/17 00:00:00,9287,ST004L1,2.96,NA,8.37,184,Velocimeter not working
-2020/04/18 00:00:00,9288,ST004L1,2.48,NA,8.24,178,NA
-2020/04/19 00:00:00,9289,ST004L1,3.42,NA,8.96,205,Velocimeter not working
-2020/04/20 00:00:00,9290,ST004L1,3.45,NA,9.43,235,Velocimeter not working
-2020/04/21 00:00:00,9291,ST004L1,3.14,NA,9.03,230,NA
-2020/04/22 00:00:00,9294,ST004L1,4.15,NA,9.22,161,NA
-2020/04/23 00:00:00,9295,ST004L1,2.67,0.5,7.57,161,NA
-2020/04/24 00:00:00,9298,ST004L1,5.36,0.7,8.35,220,NA
-2020/04/25 00:00:00,9299,ST004L1,3.66,0.6,9.27,238,NA
-2020/04/26 00:00:00,9301,ST004L1,2.74,NA,9.05,178,NA
-2020/04/27 00:00:00,9307,ST004L1,3.7,NA,8.02,165,NA
-2020/04/28 00:00:00,9308,ST004L1,2.88,NA,8.31,175,NA
-2020/04/29 00:00:00,9309,ST004L1,3.24,NA,9.11,208,No Velocimeter
-2020/04/30 00:00:00,9310,ST004L1,1.88,NA,8.43,210,No Velocimeter
-2020/05/01 00:00:00,9311,ST004L1,2.15,NA,8.31,151,No velocimeter
-2020/05/02 00:00:00,9313,ST004L1,2.59,NA,6.72,160,"No Velocimeter, D.O. needs to be recalibrated"
-2020/05/03 00:00:00,9320,ST004L1,6.66,NA,8.6,201,NA
-2020/05/04 00:00:00,9321,ST004L1,2.04,NA,9,220,NA
-2020/05/05 00:00:00,9322,ST004L1,2.84,NA,8.72,190,NA
-2020/05/06 00:00:00,9325,ST004L1,3.28,NA,7.99,176,No velocimeter
-2020/05/07 00:00:00,9327,ST004L1,3.71,0.6,8.09,202,NA
-2020/05/08 00:00:00,9332,ST004L1,4.99,0.6,9.06,197,NA
-2020/05/09 00:00:00,9333,ST004L1,2.42,0.6,8.63,200,NA
-2020/05/11 00:00:00,9334,ST004L1,NA,NA,7.91,206,No Velocimeter
-2020/05/12 00:00:00,9335,ST004L1,1.73,NA,8.67,205,No Velocimeter
-2020/05/13 00:00:00,9337,ST004L1,4.22,NA,8.75,190,No velocimeter
-2020/05/14 00:00:00,9339,ST004L1,3.14,NA,9.17,217,NA
-2020/05/15 00:00:00,9342,ST004L1,1.89,NA,9.08,216,No velocimeter
-2020/05/18 00:00:00,9343,ST004L1,NA,NA,9.36,261,No velocimeter
-2020/05/19 00:00:00,9345,ST004L1,2.68,NA,9.2,285,No velocimeter
-2020/05/20 00:00:00,9347,ST004L1,2.18,NA,9.1,279,No velocimeter
-2020/05/21 00:00:00,9349,ST004L1,2.54,NA,9.62,310,Depth >300 cm ; no velocimeter
-2020/05/22 00:00:00,9351,ST004L1,3.07,NA,9.5,280,No velocimeter
-2017/02/01 00:00:00,8298,ST004L1B,NA,NA,NA,160,NA
-2017/02/02 00:00:00,8299,ST004L1B,NA,NA,NA,149,Water temp not recorded.  Turbidity not recorded. D.O. not recorded. Water velocity not recorded.
-2017/02/03 00:00:00,8300,ST004L1B,5.14,NA,NA,142,Water temp not recorded. D.O. not recorded. Water velocity not recorded.
-2017/02/04 00:00:00,8301,ST004L1B,5.42,NA,7.15,144,Water velocity not recorded.
-2017/02/05 00:00:00,8306,ST004L1B,4.57,NA,8.1,155,Water velocity not recorded.
-2017/02/06 00:00:00,8307,ST004L1B,5.63,NA,7.75,135,Water velocity not recorded.
-2017/02/07 00:00:00,8308,ST004L1B,14.31,NA,8.13,149,Water velocity not recorded.
-2017/02/08 00:00:00,8316,ST004L1B,18.96,NA,8.3,211,Water velocity not recorded.
-2017/02/09 00:00:00,8317,ST004L1B,15.66,NA,8.75,NA,Water velocity not recorded. Water depth not recorded: too deep (estimated at 303 cm).
-2017/02/10 00:00:00,8318,ST004L1B,9.61,NA,9.45,NA,Water velocity not recorded. Water depth not recorded: too deep ( >300 cm).
-2017/02/11 00:00:00,8319,ST004L1B,19.78,NA,8.45,NA,Water velocity not recorded. Water depth not recorded: too deep ( >300 cm).
-2017/02/12 00:00:00,8320,ST004L1B,7.91,NA,8.83,NA,Water velocity not recorded. Water depth not recorded: too deep ( >300 cm).
-2017/02/13 00:00:00,8321,ST004L1B,6.04,NA,9.66,NA,Water velocity not recorded. Water depth not recorded: too deep ( >300 cm).
-2017/02/14 00:00:00,8322,ST004L1B,4.02,NA,8.05,295,Water velocity not recorded.
-2017/02/15 00:00:00,8328,ST004L1B,3.89,0.2,8.27,293,NA
-2017/02/16 00:00:00,8330,ST004L1B,4.21,0.3,8.12,274,NA
-2017/02/17 00:00:00,8331,ST004L1B,9.97,0.1,8.44,290,NA
-2017/02/18 00:00:00,8336,ST004L1B,9.4,0.3,9.05,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/19 00:00:00,8338,ST004L1B,8.74,0.2,9.19,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/20 00:00:00,8339,ST004L1B,9.92,0.3,9.71,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/21 00:00:00,8340,ST004L1B,26.4,0.4,9.09,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/21 00:00:00,8341,ST004L1B,NA,NA,NA,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/22 00:00:00,8342,ST004L1B,44.9,0.6,7.99,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/23 00:00:00,8350,ST004L1B,24.7,0.3,8.93,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/24 00:00:00,8351,ST004L1B,16.09,0.3,9.46,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/25 00:00:00,8352,ST004L1B,10.13,0.2,9.82,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/26 00:00:00,8353,ST004L1B,9.79,0.4,8.96,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/27 00:00:00,8354,ST004L1B,10.62,0.2,9.11,NA,Water depth not recorded: too deep ( >300 cm).
-2017/02/28 00:00:00,8355,ST004L1B,7.32,0.2,8.44,NA,Water depth not recorded: too deep ( >300 cm).
-2017/03/01 00:00:00,8356,ST004L1B,12.32,0.2,8.93,NA,Water depth not recorded: too deep ( >300 cm).
-2017/03/02 00:00:00,8357,ST004L1B,14.33,0.3,9.25,NA,Water depth not recorded: too deep (estimated at 305 cm).
-2017/03/03 00:00:00,8358,ST004L1B,16.71,0.4,9.1,293,NA
-2017/03/04 00:00:00,8359,ST004L1B,13.89,0.2,9.02,300,NA
-2017/03/05 00:00:00,8388,ST004L1B,14.91,0.3,8.65,271,NA
-2017/03/06 00:00:00,8389,ST004L1B,14.28,0.3,8.37,268,NA
-2017/03/07 00:00:00,8390,ST004L1B,14.13,0.3,8.65,268,NA
-2017/03/08 00:00:00,8391,ST004L1B,11.62,0.3,9.48,272,NA
-2017/03/09 00:00:00,8392,ST004L1B,9.99,0.2,9.06,278,NA
-2017/03/10 00:00:00,8393,ST004L1B,12.72,0.2,9,263,NA
-2017/03/11 00:00:00,8394,ST004L1B,11.67,0.2,8.67,262,NA
-2017/03/12 00:00:00,8395,ST004L1B,12.5,0.3,7.1,249,NA
-2017/03/13 00:00:00,8396,ST004L1B,9.3,0.4,9.58,290,NA
-2017/03/14 00:00:00,8397,ST004L1B,9.19,0.6,9.16,287,NA
-2017/03/15 00:00:00,8398,ST004L1B,9.84,0.6,9.29,295,NA
-2017/03/16 00:00:00,8399,ST004L1B,5.77,0.6,9.03,285,NA
-2017/03/17 00:00:00,8400,ST004L1B,9.09,0.7,9.44,287,NA
-2017/03/18 00:00:00,8401,ST004L1B,7.83,0.6,8.71,293,NA
-2017/03/19 00:00:00,8402,ST004L1B,7.97,0.5,9.13,295,NA
-2017/03/20 00:00:00,8403,ST004L1B,8.24,0.5,8.48,284,NA
-2017/03/21 00:00:00,8404,ST004L1B,6.57,0.6,9.36,284,NA
-2017/03/22 00:00:00,8405,ST004L1B,7.88,0.6,9.14,287,NA
-2017/03/23 00:00:00,8406,ST004L1B,11.45,0.7,8.6,297,NA
-2017/03/24 00:00:00,8407,ST004L1B,8.38,0.6,9.81,NA,Water depth not recorded: too deep (estimated at 302 cm).
-2017/03/25 00:00:00,8408,ST004L1B,6.7,0.6,9.93,NA,Water depth not recorded: too deep ( >300 cm).
-2017/03/26 00:00:00,8409,ST004L1B,6.94,0.5,10.1,NA,Water depth not recorded: too deep ( >300 cm).
-2017/03/27 00:00:00,8410,ST004L1B,6.12,0.7,9.84,NA,Water depth not recorded: too deep ( >300 cm).
-2017/03/28 00:00:00,8411,ST004L1B,6.59,0.6,9.96,NA,Water depth not recorded: too deep ( >300 cm).
-2017/03/29 00:00:00,8412,ST004L1B,7.1,0.6,NA,NA,Water depth not recorded: too deep ( >300 cm). DO recorded as 16.0 mg/L: likely inaccurate.
-2017/03/30 00:00:00,8413,ST004L1B,6.93,0.6,9.64,NA,Water depth not recorded: too deep ( >300 cm).
-2017/03/31 00:00:00,8414,ST004L1B,6.78,0.7,9.8,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/01 00:00:00,8415,ST004L1B,8.26,0.5,9.85,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/03 00:00:00,8416,ST004L1B,NA,0.5,10,280,NA
-2017/04/04 00:00:00,8417,ST004L1B,6.6,0.6,9.67,275,NA
-2017/04/05 00:00:00,8418,ST004L1B,5.83,0.7,9.42,281,NA
-2017/04/06 00:00:00,8419,ST004L1B,6.21,0.7,9.76,282,NA
-2017/04/07 00:00:00,8420,ST004L1B,5.49,0.8,10.01,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/08 00:00:00,8421,ST004L1B,4.36,0.7,NA,NA,Water depth not recorded: too deep ( >300 cm). Water temperature and DO not recorded.
-2017/04/10 00:00:00,8422,ST004L1B,NA,0.5,10.62,NA,Water depth not recorded: too deep (estimated at 306 cm).
-2017/04/11 00:00:00,8423,ST004L1B,7.47,0.3,10.47,283,NA
-2017/04/12 00:00:00,8424,ST004L1B,7.13,0.6,10.36,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/13 00:00:00,8425,ST004L1B,6.73,0.5,10.06,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/14 00:00:00,8426,ST004L1B,6.16,0.5,10.04,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/15 00:00:00,8427,ST004L1B,7.46,0.4,10.35,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/18 00:00:00,8429,ST004L1B,5.77,0.5,10.38,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/19 00:00:00,8430,ST004L1B,5.36,0.3,10.2,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/20 00:00:00,8431,ST004L1B,6.22,0.2,8.55,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/21 00:00:00,8432,ST004L1B,6.3,0.5,10.34,NA,NA
-2017/04/22 00:00:00,8477,ST004L1B,NA,NA,NA,NA,Environmental data not recorded.
-2017/04/24 00:00:00,8478,ST004L1B,NA,0.3,10.16,NA,"Water depth not recorded: too deep ( >300 cm). Adjusted cones further into thalweg once off traps, velocity may be higher than recorded value."
-2017/04/25 00:00:00,8479,ST004L1B,5.9,0.5,9.8,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/26 00:00:00,8480,ST004L1B,5.67,0.5,10.02,NA,Water depth not recorded: too deep ( >300 cm).
-2017/04/27 00:00:00,8481,ST004L1B,4.56,0.5,9.44,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/01 00:00:00,8482,ST004L1B,NA,0.6,NA,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/02 00:00:00,8483,ST004L1B,4.6,0.5,8.24,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/03 00:00:00,8484,ST004L1B,4.98,0.4,8.59,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/04 00:00:00,8485,ST004L1B,3.66,0.8,9.13,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/05 00:00:00,8486,ST004L1B,4.64,0.9,9.85,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/06 00:00:00,8487,ST004L1B,5.16,1,8.54,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/08 00:00:00,8488,ST004L1B,NA,NA,9.66,NA,Water depth not recorded: too deep ( >300 cm). Water velocity not recorded.
-2017/05/09 00:00:00,8489,ST004L1B,3.13,0.6,9.94,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/10 00:00:00,8490,ST004L1B,3.35,0.9,9.05,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/11 00:00:00,8491,ST004L1B,4.85,0.9,8.54,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/12 00:00:00,8492,ST004L1B,4.52,0.9,8.15,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/13 00:00:00,8493,ST004L1B,6.35,0.9,9.75,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/15 00:00:00,8494,ST004L1B,NA,0.9,NA,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/16 00:00:00,8495,ST004L1B,4.6,0.6,9.96,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/17 00:00:00,8496,ST004L1B,4.99,0.7,10.29,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/18 00:00:00,8497,ST004L1B,4.8,0.5,8.29,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/19 00:00:00,8498,ST004L1B,5.15,0.5,9.81,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/20 00:00:00,8499,ST004L1B,3.5,0.6,9.9,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/22 00:00:00,8500,ST004L1B,NA,0.6,9.95,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/23 00:00:00,8501,ST004L1B,5.46,0.7,9.59,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/24 00:00:00,8502,ST004L1B,NA,0.8,9.88,NA,Water depth not recorded: too deep ( >300 cm). Turbidity not recorded: water sample not taken.
-2017/05/25 00:00:00,8503,ST004L1B,4.16,0.9,9.7,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/26 00:00:00,8504,ST004L1B,3.06,0.6,9.84,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/27 00:00:00,8505,ST004L1B,4.09,0.8,9.57,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/29 00:00:00,8506,ST004L1B,NA,0.6,NA,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/30 00:00:00,8507,ST004L1B,3.03,0.8,9.89,NA,Water depth not recorded: too deep ( >300 cm).
-2017/05/31 00:00:00,8508,ST004L1B,2.93,0.6,8.81,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/01 00:00:00,8509,ST004L1B,3.29,0.6,9.97,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/02 00:00:00,8510,ST004L1B,3.02,0.6,9.89,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/03 00:00:00,8511,ST004L1B,3.75,0.6,9.89,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/05 00:00:00,8512,ST004L1B,NA,0.8,9.77,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/06 00:00:00,8513,ST004L1B,3.39,0.6,9.85,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/07 00:00:00,8514,ST004L1B,2.53,0.5,9.96,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/08 00:00:00,8515,ST004L1B,4.02,0.5,10.05,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/09 00:00:00,8516,ST004L1B,3.17,0.6,10.04,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/10 00:00:00,8517,ST004L1B,3.04,0.5,10.03,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/12 00:00:00,8518,ST004L1B,NA,0.7,10.26,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/13 00:00:00,8519,ST004L1B,3.48,0.6,10.1,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/14 00:00:00,8520,ST004L1B,NA,0.6,10.02,NA,Water depth not recorded: too deep ( >300 cm). Turbidity not recorded: water sample not taken.
-2017/06/15 00:00:00,8521,ST004L1B,3.81,0.7,10.9,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/16 00:00:00,8522,ST004L1B,3.25,0.7,10.08,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/17 00:00:00,8523,ST004L1B,4.43,0.8,8.48,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/19 00:00:00,8524,ST004L1B,NA,NA,9.07,NA,Water depth not recorded. Water velocity not recorded.
-2017/06/20 00:00:00,8525,ST004L1B,4.61,0.7,9.93,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/21 00:00:00,8526,ST004L1B,4.19,0.6,10,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/22 00:00:00,8527,ST004L1B,3.96,0.6,9.94,NA,Water depth not recorded: too deep ( >300 cm).
-2017/06/23 00:00:00,8528,ST004L1B,3.75,0.5,9.92,NA,Water depth not recorded: too deep ( >300 cm).
-2018/01/11 00:00:00,8564,ST004L1B,NA,0.6,10.05,240,NA
-2018/01/12 00:00:00,8567,ST004L1B,3.13,0.6,10.47,242,NA
-2018/01/13 00:00:00,8568,ST004L1B,2.37,0.5,9.98,240,NA
-2018/01/14 00:00:00,8569,ST004L1B,2.94,0.5,9.92,240,NA
-2018/01/15 00:00:00,8570,ST004L1B,1.91,0.5,10.21,242,NA
-2018/01/16 00:00:00,8574,ST004L1B,3.82,0.5,8.96,248,NA
-2018/01/17 00:00:00,8576,ST004L1B,1.71,0.8,9.05,241,NA
-2018/01/18 00:00:00,8578,ST004L1B,3.21,0.7,NA,239,D.O. Not Recorded
-2018/01/19 00:00:00,8579,ST004L1B,2.65,0.6,8.4,241,NA
-2018/01/20 00:00:00,8580,ST004L1B,5.5,0.5,10.14,235,NA
-2018/01/21 00:00:00,8581,ST004L1B,2.81,0.5,10.54,244,NA
-2018/01/22 00:00:00,8582,ST004L1B,2.75,0.6,10.86,239,NA
-2018/01/23 00:00:00,8588,ST004L1B,2.34,0.7,9.47,235,NA
-2018/01/24 00:00:00,8589,ST004L1B,3.32,0.7,12.01,250,NA
-2018/01/25 00:00:00,8590,ST004L1B,2.55,0.5,11.94,240,NA
-2018/01/26 00:00:00,8591,ST004L1B,3.56,0.4,10.93,190,NA
-2018/01/27 00:00:00,8592,ST004L1B,2.62,0.5,11.69,185,NA
-2018/01/28 00:00:00,8593,ST004L1B,2.56,0.3,11.75,187,NA
-2018/01/29 00:00:00,8594,ST004L1B,2.72,0.3,11.8,175,NA
-2018/01/30 00:00:00,8602,ST004L1B,2.88,0.5,11.85,185,NA
-2018/01/31 00:00:00,8603,ST004L1B,2.96,0.5,10.07,174,NA
-2018/02/01 00:00:00,8606,ST004L1B,2.11,0.3,11.66,185,NA
-2018/02/02 00:00:00,8607,ST004L1B,2.15,0.3,11.8,170,NA
-2018/02/03 00:00:00,8610,ST004L1B,2.03,0.5,10.89,175,NA
-2018/02/04 00:00:00,8611,ST004L1B,3.02,0.5,11.59,173,NA
-2018/02/05 00:00:00,8612,ST004L1B,2.76,0.4,11.66,173,NA
-2018/02/06 00:00:00,8616,ST004L1B,2.92,0.4,11.53,170,NA
-2018/02/07 00:00:00,8617,ST004L1B,2.97,0.3,11.89,170,NA
-2018/02/08 00:00:00,8618,ST004L1B,2.53,0.3,10.05,170,NA
-2018/02/09 00:00:00,8619,ST004L1B,3.21,0.5,11.71,183,NA
-2018/02/10 00:00:00,8620,ST004L1B,9.22,0.4,9.15,185,NA
-2018/02/11 00:00:00,8621,ST004L1B,8.21,0.5,11.85,225,NA
-2018/02/13 00:00:00,8630,ST004L1B,2.89,0.4,12.22,245,NA
-2018/02/14 00:00:00,8631,ST004L1B,2.94,0.5,12.75,247,NA
-2018/02/15 00:00:00,8632,ST004L1B,3.91,0.4,10.62,255,NA
-2018/02/16 00:00:00,8633,ST004L1B,2.67,0.5,12.29,249,NA
-2018/02/17 00:00:00,8634,ST004L1B,1.92,0.5,12.3,252,NA
-2018/02/18 00:00:00,8635,ST004L1B,2.07,0.4,12.08,257,NA
-2018/02/19 00:00:00,8636,ST004L1B,2.61,0.5,12.24,265,NA
-2018/02/20 00:00:00,8644,ST004L1B,4.76,0.5,12.44,278,NA
-2018/02/21 00:00:00,8646,ST004L1B,3.43,0.5,12.95,236,NA
-2018/02/22 00:00:00,8647,ST004L1B,3.21,0.5,12.72,265,NA
-2018/02/23 00:00:00,8648,ST004L1B,3.69,0.4,10.05,257,NA
-2018/02/24 00:00:00,8649,ST004L1B,4.91,0.5,10.27,NA,Water depth is greater than 300cm.  Too deep for measurement
-2018/02/25 00:00:00,8650,ST004L1B,5.48,0.5,12.58,NA,Water depth is greater than 300cm.  Too deep for measurement
-2018/02/26 00:00:00,8651,ST004L1B,3.86,0.6,12.19,NA,River too deep for depth measurement
-2018/02/27 00:00:00,8659,ST004L1B,3.65,0.5,9.9,NA,Water depth greater than 300 cm.  Unable to record an accurate measurement.
-2018/03/04 00:00:00,8661,ST004L1B,NA,0.3,11.58,197,NA
-2018/03/05 00:00:00,8662,ST004L1B,3.06,0.3,11.18,179,NA
-2018/03/06 00:00:00,8665,ST004L1B,4.44,0.4,9.69,167,NA
-2018/03/07 00:00:00,8667,ST004L1B,3.8,0.3,10.28,145,NA
-2018/03/08 00:00:00,8669,ST004L1B,3.21,0.5,10.16,125,NA
-2018/03/09 00:00:00,8672,ST004L1B,3.36,0.3,10.03,135,NA
-2018/03/12 00:00:00,8673,ST004L1B,NA,0.2,9.92,136,NA
-2018/03/13 00:00:00,8679,ST004L1B,3.97,0.2,9.92,132,NA
-2018/03/14 00:00:00,8680,ST004L1B,5.64,0.3,9.69,143,NA
-2018/03/15 00:00:00,8683,ST004L1B,3.12,0.3,10.45,130,NA
-2018/03/16 00:00:00,8684,ST004L1B,4.55,0.3,10.6,130,NA
-2018/03/17 00:00:00,8685,ST004L1B,3.54,0.3,8.55,130,NA
-2018/03/18 00:00:00,8686,ST004L1B,4.02,0.3,11.32,135,NA
-2018/03/19 00:00:00,8687,ST004L1B,4.35,0.4,11.51,130,NA
-2018/03/20 00:00:00,8694,ST004L1B,5.05,0.3,8.45,128,NA
-2018/03/21 00:00:00,8695,ST004L1B,3.09,0.3,10.65,125,NA
-2018/03/22 00:00:00,8697,ST004L1B,11.33,0.3,9.89,129,NA
-2018/03/23 00:00:00,8699,ST004L1B,7.6,0.2,10.74,157,NA
-2018/03/24 00:00:00,8701,ST004L1B,15.32,0.4,10,140,NA
-2018/03/25 00:00:00,8702,ST004L1B,7.5,0.3,10.54,128,NA
-2018/03/26 00:00:00,8703,ST004L1B,6.76,0.2,10.02,125,NA
-2018/03/27 00:00:00,8704,ST004L1B,4.62,0.1,12.06,120,NA
-2018/03/28 00:00:00,8709,ST004L1B,4.46,0.2,10.59,130,NA
-2018/03/29 00:00:00,8711,ST004L1B,4.04,0.2,10.49,120,NA
-2018/03/30 00:00:00,8713,ST004L1B,5.97,0.2,8.45,123,NA
-2018/03/31 00:00:00,8714,ST004L1B,3.67,0.2,4.75,123,DO meter not calibrated
-2018/04/01 00:00:00,8715,ST004L1B,5.91,0.2,4.02,133,DO meter not calibrated
-2018/04/02 00:00:00,8716,ST004L1B,6.7,0.3,7.83,136,DO meter not calibrated
-2018/04/03 00:00:00,8721,ST004L1B,6.79,0.5,8.08,229,DO meter not calibrated
-2018/04/04 00:00:00,8723,ST004L1B,5.04,0.5,7.63,242,DO meter not calibrated
-2018/04/05 00:00:00,8725,ST004L1B,5.58,0.6,9.17,245,DO meter not calibrated
-2018/04/06 00:00:00,8727,ST004L1B,5.4,0.4,7.71,258,DO meter not calibrated
-2018/04/07 00:00:00,8729,ST004L1B,3.44,0.5,9.33,266,DO meter not calibrated
-2018/04/08 00:00:00,8731,ST004L1B,7.27,0.3,8.05,275,DO meter not calibrated
-2018/04/09 00:00:00,8732,ST004L1B,6.45,0.6,7.77,270,DO meter not calibrated
-2018/04/10 00:00:00,8733,ST004L1B,5.15,0.5,6.69,265,DO meter not calibrated
-2018/04/11 00:00:00,8734,ST004L1B,4.1,0.3,6.03,265,DO meter not calibrated
-2018/04/12 00:00:00,8739,ST004L1B,5.98,0.3,6.17,261,DO meter not calibrated
-2018/04/13 00:00:00,8741,ST004L1B,4.07,0.4,6.19,265,DO meter not calibrated
-2018/04/14 00:00:00,8743,ST004L1B,4.87,0.5,6.19,264,DO meter not calibrated
-2018/04/15 00:00:00,8744,ST004L1B,4.32,0.4,5.58,268,DO meter not calibrated
-2018/04/16 00:00:00,8745,ST004L1B,3.98,0.3,5.67,271,DO meter not calibrated
-2018/04/17 00:00:00,8746,ST004L1B,4.59,0.5,7.35,273,DO meter not calibrated
-2018/04/18 00:00:00,8751,ST004L1B,4.21,0.5,7.72,276,DO meter not calibrated
-2018/04/19 00:00:00,8753,ST004L1B,4.93,0.4,7.84,273,DO meter not calibrated
-2018/04/20 00:00:00,8755,ST004L1B,4.1,0.5,6.68,268,DO meter not calibrated
-2018/04/21 00:00:00,8757,ST004L1B,4.93,0.2,6.73,243,DO meter not calibrated
-2018/04/22 00:00:00,8758,ST004L1B,4.54,0.4,6.21,233,DO meter not calibrated
-2018/04/23 00:00:00,8759,ST004L1B,3.97,0.3,5.16,253,DO meter not calibrated
-2018/04/24 00:00:00,8763,ST004L1B,5.5,0.3,5.68,253,DO meter not calibrated
-2018/04/25 00:00:00,8764,ST004L1B,2.89,0.4,3.84,245,DO meter not calibrated
-2018/04/26 00:00:00,8767,ST004L1B,3.45,0.4,NA,244,DO meter not calibrated
-2018/04/27 00:00:00,8769,ST004L1B,3.59,0.3,2.78,242,DO meter not calibrated
-2018/04/28 00:00:00,8771,ST004L1B,3.91,0.3,NA,240,DO meter not calibrated
-2018/04/29 00:00:00,8776,ST004L1B,4.89,0.2,2.31,256,DO meter not calibrated
-2018/04/30 00:00:00,8777,ST004L1B,3.07,0.4,2.56,238,DO meter not calibrated
-2018/05/01 00:00:00,8778,ST004L1B,3.21,0.3,NA,243,DO meter not calibrated
-2018/05/02 00:00:00,8779,ST004L1B,3.66,0.3,10.77,250,NA
-2018/05/03 00:00:00,8780,ST004L1B,4.13,0.4,11.1,270,NA
-2018/05/04 00:00:00,8783,ST004L1B,5.42,0.5,8.95,250,NA
-2018/05/05 00:00:00,8785,ST004L1B,6.27,0.3,8.61,218,NA
-2018/05/06 00:00:00,8787,ST004L1B,6.9,0.3,7.93,245,NA
-2018/05/07 00:00:00,8788,ST004L1B,8.69,0.4,10.69,291,NA
-2018/05/08 00:00:00,8791,ST004L1B,10.44,0.2,9.82,NA,River too deep to record depth.  300+ cm
-2018/05/09 00:00:00,8793,ST004L1B,4.11,0.3,10.61,NA,River too deep to measure (300+cm)
-2018/05/10 00:00:00,8795,ST004L1B,4.07,0.3,10.54,NA,River too deep to measure. (300+cm)
-2018/05/11 00:00:00,8797,ST004L1B,6.7,0.5,11.06,NA,River too deep to measure (300 cm+)
-2018/05/12 00:00:00,8799,ST004L1B,6.97,0.3,9.45,NA,River too deep to measure (300cm+)
-2018/05/13 00:00:00,8801,ST004L1B,4.82,0.3,9.12,NA,River too deep to measure (300cm+)
-2018/05/14 00:00:00,8803,ST004L1B,4.34,0.3,10.56,NA,River too deep to measure (300cm+)
-2018/05/15 00:00:00,8805,ST004L1B,4.61,0.5,8.85,NA,River too deep to measure (300cm+)
-2018/05/16 00:00:00,8807,ST004L1B,3.41,0.3,10.72,NA,River too deep to measure (300cm+)
-2018/05/17 00:00:00,8809,ST004L1B,2.88,0.5,10.93,NA,River too deep to measure (300cm+)
-2018/05/18 00:00:00,8811,ST004L1B,NA,0.6,9.2,NA,"River too deep to measure (300cm+)
+4/2/2019 0:00,8963,ST004L1,3.85,0.8,13.53,NA,River too deep to measure (300 + cm)
+4/3/2019 0:00,8965,ST004L1,3.97,1,12.77,NA,River too deep to measure (300 + cm)
+4/4/2019 0:00,8967,ST004L1,2.79,0.8,12.72,NA,River too deep to measure (300 + cm)
+4/5/2019 0:00,8969,ST004L1,3.69,0.8,13.4,NA,River too deep to measure (300 + cm)
+4/6/2019 0:00,8973,ST004L1,4.46,1,13.51,NA,River too deep to measure (300 + cm)
+4/7/2019 0:00,8974,ST004L1,2.81,1.1,13.22,NA,River too deep to measure (300 + cm)
+4/8/2019 0:00,8975,ST004L1,4.1,1,13.5,NA,River too deep to measure (300 + cm)
+4/9/2019 0:00,8979,ST004L1,4.84,0.8,12.75,NA,River too deep to measure (300 + cm)
+4/10/2019 0:00,8980,ST004L1,4.16,1,12.92,NA,River too deep to measure (300 + cm)
+4/11/2019 0:00,8981,ST004L1,3.71,0.8,12.2,NA,River too deep to measure (300 + cm)
+4/12/2019 0:00,8986,ST004L1,3.14,0.7,12.95,NA,River too deep to measure (300 + cm)
+4/13/2019 0:00,8987,ST004L1,2.89,0.6,12.27,NA,River too deep to measure (300 + cm)
+4/14/2019 0:00,8988,ST004L1,3.62,0.8,12.75,NA,River too deep to measure (300 + cm)
+4/15/2019 0:00,8989,ST004L1,3.28,0.9,13.1,NA,River too deep to measure (300 + cm)
+4/16/2019 0:00,8992,ST004L1,3.59,1,12.61,NA,River too deep to measure (300 + cm)
+4/17/2019 0:00,8993,ST004L1,3.01,1,13.06,NA,River too deep to measure (300 + cm)
+4/18/2019 0:00,8995,ST004L1,4.05,0.8,13.24,NA,River too deep to measure (300 + cm)
+4/19/2019 0:00,9000,ST004L1,2.86,0.9,12.2,NA,River too deep to measure (300 + cm)
+4/20/2019 0:00,9001,ST004L1,2.58,0.8,12.65,NA,River too deep to measure (300 + cm)
+4/21/2019 0:00,9002,ST004L1,2.94,0.9,12.48,NA,River too deep to measure (300 + cm)
+4/22/2019 0:00,9003,ST004L1,4.07,0.8,12.26,NA,River too deep to measure (300 + cm)
+4/23/2019 0:00,9006,ST004L1,3.72,0.8,12.52,NA,River too deep to measure (300 + cm)
+4/24/2019 0:00,9007,ST004L1,3.09,0.8,11.26,NA,River too deep to measure (300 + cm)
+4/25/2019 0:00,9009,ST004L1,1.97,0.7,11.22,NA,River too deep to measure (300 + cm)
+4/26/2019 0:00,9011,ST004L1,3.59,0.8,12.35,NA,River too deep to measure (300 + cm)
+4/29/2019 0:00,9013,ST004L1,NA,0.8,10.65,NA,River too deep to measure (300 + cm)
+4/30/2019 0:00,9015,ST004L1,3.37,0.7,11.6,NA,River too deep to measure (300 + cm)
+5/1/2019 0:00,9018,ST004L1,2.29,0.9,12.25,NA,River too deep to measure (300 + cm)
+5/2/2019 0:00,9019,ST004L1,3.08,0.6,12.56,NA,River too deep to measure (300 + cm)
+5/3/2019 0:00,9020,ST004L1,4.83,1,11.26,NA,River too deep to measure (300 + cm)
+5/6/2019 0:00,9023,ST004L1,NA,0.6,12.26,NA,River too deep to measure (300 + cm)
+5/7/2019 0:00,9025,ST004L1,4.92,0.9,11.91,NA,River too deep to measure (300 + cm)
+5/8/2019 0:00,9027,ST004L1,3.97,0.8,12.6,NA,River too deep to measure (300 + cm)
+5/9/2019 0:00,9029,ST004L1,3.85,0.8,11.9,NA,River too deep to measure (300 + cm)
+5/10/2019 0:00,9031,ST004L1,2.7,0.8,12.36,NA,River too deep to measure (300 + cm)
+5/13/2019 0:00,9033,ST004L1,NA,0.6,11.56,NA,River too deep to measure (300 + cm)
+5/14/2019 0:00,9035,ST004L1,5.24,0.7,11.06,NA,River too deep to measure (300 + cm)
+5/15/2019 0:00,9038,ST004L1,5.05,0.8,11.46,NA,River too deep to measure (300 + cm)
+5/16/2019 0:00,9039,ST004L1,5.5,0.8,12.09,NA,River too deep to measure (300 + cm)
+5/17/2019 0:00,9041,ST004L1,6.73,0.6,12.04,NA,NA
+5/20/2019 0:00,9043,ST004L1,NA,0.8,12.38,NA,River too deep to measure (300 + cm)
+5/21/2019 0:00,9045,ST004L1,4.36,1,11,NA,NA
+5/22/2019 0:00,9047,ST004L1,3.94,0.6,11.86,NA,River too deep to measure (300 + cm)
+5/23/2019 0:00,9049,ST004L1,4.2,0.6,12.51,NA,River too deep to measure (300 + cm)
+5/24/2019 0:00,9051,ST004L1,2.22,0.6,12.15,NA,River too deep to measure (300 + cm)
+5/27/2019 0:00,9055,ST004L1,NA,0.6,11.05,263,NA
+5/28/2019 0:00,9056,ST004L1,5.19,0.6,10.83,284,NA
+5/29/2019 0:00,9058,ST004L1,3.01,0.9,11.48,NA,River too deep to measure (300 + cm)
+5/30/2019 0:00,9061,ST004L1,2.14,0.6,11.6,NA,River too deep to measure (300 + cm)
+5/31/2019 0:00,9062,ST004L1,3.98,0.6,12.15,NA,River too deep to measure (300 + cm)
+6/3/2019 0:00,9064,ST004L1,NA,0.6,10.06,225,NA
+6/4/2019 0:00,9066,ST004L1,6.16,0.7,10.37,246,NA
+6/5/2019 0:00,9069,ST004L1,3.1,0.7,11.28,280,NA
+6/6/2019 0:00,9070,ST004L1,2.68,0.6,11.23,280,NA
+6/7/2019 0:00,9072,ST004L1,4.52,0.7,10.35,274,NA
+6/10/2019 0:00,9076,ST004L1,NA,0.6,10.58,233,NA
+6/11/2019 0:00,9077,ST004L1,2.31,0.6,10.57,252,NA
+6/12/2019 0:00,9078,ST004L1,3.1,0.6,10.79,269,NA
+6/13/2019 0:00,9080,ST004L1,3.47,0.6,10.84,267,NA
+6/14/2019 0:00,9082,ST004L1,3.9,0.7,10.61,259,NA
+6/17/2019 0:00,9085,ST004L1,NA,0.6,10.18,210,NA
+6/18/2019 0:00,9086,ST004L1,1.94,0.6,10.12,230,NA
+6/19/2019 0:00,9089,ST004L1,2.41,0.6,10.91,238,NA
+6/20/2019 0:00,9090,ST004L1,5.06,0.7,10.65,281,NA
+1/6/2020 0:00,9093,ST004L1,NA,0.6,10.2,176,Depth recorded from back of trap as instead of parallel with front of cone.
+1/7/2020 0:00,9094,ST004L1,2.29,0.8,12.51,150,NA
+1/8/2020 0:00,9095,ST004L1,2.27,0.7,9.53,184,NA
+1/9/2020 0:00,9098,ST004L1,1.81,0.8,11.6,140,NA
+1/10/2020 0:00,9102,ST004L1,1.7,0.6,12.05,182,NA
+1/12/2020 0:00,9103,ST004L1,NA,0.7,12.3,221,NA
+1/13/2020 0:00,9104,ST004L1,2.15,0.6,11.5,168,NA
+1/14/2020 0:00,9107,ST004L1,1.3,0.6,11.73,154,NA
+1/15/2020 0:00,9108,ST004L1,1.82,0.6,11.97,198,NA
+1/16/2020 0:00,9110,ST004L1,1.74,0.7,9.92,165,NA
+1/17/2020 0:00,9121,ST004L1,2.43,0.7,12.09,170,NA
+1/18/2020 0:00,9122,ST004L1,1.96,0.6,11.87,192,NA
+1/20/2020 0:00,9123,ST004L1,NA,0.8,11.47,190,NA
+1/21/2020 0:00,9124,ST004L1,NA,0.7,12.28,172,NA
+1/22/2020 0:00,9125,ST004L1,1.59,0.6,11.62,171,NA
+1/23/2020 0:00,9126,ST004L1,1.83,0.6,11.15,181,NA
+1/24/2020 0:00,9127,ST004L1,1.76,0.6,11.34,175,NA
+1/25/2020 0:00,9128,ST004L1,1.01,0.6,10.94,191,NA
+1/26/2020 0:00,9129,ST004L1,1.77,0.6,11.08,174,NA
+1/27/2020 0:00,9130,ST004L1,2.47,0.6,9.43,168,NA
+1/28/2020 0:00,9131,ST004L1,2.81,NA,9.8,180,Forgot velocity meter
+1/29/2020 0:00,9145,ST004L1,2.56,0.6,11.69,179,NA
+1/30/2020 0:00,9146,ST004L1,2.23,0.5,11.47,201,NA
+1/31/2020 0:00,9147,ST004L1,1.46,0.6,11.58,183,NA
+2/1/2020 0:00,9148,ST004L1,1.75,0.6,10.91,177,NA
+2/2/2020 0:00,9149,ST004L1,2.5,0.7,9.5,160,NA
+2/3/2020 0:00,9150,ST004L1,1.6,0.8,13.32,173,NA
+2/4/2020 0:00,9151,ST004L1,3.19,0.6,12.25,263,NA
+2/5/2020 0:00,9152,ST004L1,6.26,0.8,10.9,310,Depth > 300 cm
+2/6/2020 0:00,9153,ST004L1,2.63,0.8,11.98,310,Depth > 300 cm
+2/7/2020 0:00,9154,ST004L1,1.91,NA,11.37,310,Depth > 300 cm
+2/8/2020 0:00,9155,ST004L1,2.57,NA,11.22,310,Depth is > 300 cm
+2/9/2020 0:00,9156,ST004L1,3.02,NA,12.34,252,NA
+2/10/2020 0:00,9157,ST004L1,2.02,NA,11.5,220,velocity meter non-functioning
+2/11/2020 0:00,9158,ST004L1,1.55,NA,11.67,219,velocity meter non-functioning
+2/12/2020 0:00,9159,ST004L1,1.48,NA,10.82,205,velocity meter non-functioning
+2/13/2020 0:00,9160,ST004L1,2.21,NA,11.42,203,velocity meter non-functioning
+2/14/2020 0:00,9171,ST004L1,2.13,NA,12.01,129,No Velocimeter
+2/15/2020 0:00,9172,ST004L1,2.12,NA,10.19,160,No Velocimeter
+2/16/2020 0:00,9173,ST004L1,1.27,NA,10.24,131,No Velocimeter
+2/17/2020 0:00,9174,ST004L1,2.54,NA,10.28,140,Velocimeter broken
+2/18/2020 0:00,9175,ST004L1,1.74,NA,10.36,135,Velocimeter broken
+2/19/2020 0:00,9176,ST004L1,2.78,NA,10.33,137,Broken Velocimeter
+2/20/2020 0:00,9178,ST004L1,2.16,NA,10.7,153,Broken Velocimeter
+2/21/2020 0:00,9184,ST004L1,3.18,0.4,11.45,241,Velocity was taken after the debris was cleared in front of the traps
+2/22/2020 0:00,9186,ST004L1,2.33,0.7,11.35,258,NA
+2/23/2020 0:00,9187,ST004L1,2.42,0.9,11.27,310,NA
+2/24/2020 0:00,9185,ST004L1,2.19,NA,11.26,310,Broken Velocimeter; Depth > 300cm
+2/24/2020 0:00,9354,ST004L1,NA,NA,11.26,310,No velocimeter
+2/25/2020 0:00,9183,ST004L1,1.95,NA,11.93,295,Broken Velocimeter
+2/26/2020 0:00,9192,ST004L1,2.57,NA,11.65,310,Depth > 300cm ; velocimeter is broken
+2/27/2020 0:00,9193,ST004L1,2.15,NA,11.62,310,Depth > 300 cm; No velocimeter
+2/28/2020 0:00,9194,ST004L1,2.41,NA,11.59,310,No velocimeter; Depth > 300 cm
+2/29/2020 0:00,9198,ST004L1,1.49,0.72,11.33,310,Depth > 300 cm
+3/1/2020 0:00,9199,ST004L1,1.57,NA,11.12,285,No Velocimeter
+3/2/2020 0:00,9200,ST004L1,1.91,NA,12.06,310,"Depth > 300 cm, Debris > 300, No Velocimeter"
+3/3/2020 0:00,9204,ST004L1,3.28,0.74,11.35,310,Depth > 300 cm
+3/4/2020 0:00,9203,ST004L1,3.12,NA,11.23,310,"velocity meter not working, depth > 300 cm"
+3/5/2020 0:00,9213,ST004L1,1.87,NA,11.45,285,Velocimeter not working
+3/6/2020 0:00,9214,ST004L1,2.1,0.79,11.28,278,NA
+3/7/2020 0:00,9215,ST004L1,2.81,0.81,10.66,237,NA
+3/8/2020 0:00,9225,ST004L1,1.89,NA,10.8,243,velocimeter broke
+3/9/2020 0:00,9226,ST004L1,1.69,NA,11.01,232,Velocimeter malfunction
+3/10/2020 0:00,9227,ST004L1,2.91,NA,10.39,209,Velocimeter not working
+3/11/2020 0:00,9228,ST004L1,3.69,NA,11.21,209,NA
+3/12/2020 0:00,9229,ST004L1,2.35,0.52,10.38,143,NA
+3/13/2020 0:00,9230,ST004L1,3.16,0.47,9.2,120,NA
+3/14/2020 0:00,9357,ST004L1,NA,0.46,9.05,106,NA
+3/14/2020 0:00,9231,ST004L1,3.12,0.46,9.05,106,NA
+3/15/2020 0:00,9232,ST004L1,4.31,NA,9.45,116,Velocimeter malfunction
+3/16/2020 0:00,9233,ST004L1,3.41,NA,9.6,115,Velocimeter not working
+3/17/2020 0:00,9234,ST004L1,3.32,0.56,10.05,120,NA
+3/18/2020 0:00,9235,ST004L1,4.89,0.35,10.8,123,NA
+3/19/2020 0:00,9236,ST004L1,4.77,NA,9.37,95,Velocimeter out of battery
+3/24/2020 0:00,9237,ST004L1,NA,0.46,9.44,239,NA
+3/25/2020 0:00,9238,ST004L1,1.95,0.28,9.14,100,NA
+3/26/2020 0:00,9252,ST004L1,2.27,NA,9.24,67,NA
+3/27/2020 0:00,9358,ST004L1,NA,NA,9.1,95,NA
+3/27/2020 0:00,9251,ST004L1,1.94,NA,9.1,95,NA
+3/28/2020 0:00,9250,ST004L1,2.47,0.32,8.54,122,NA
+3/29/2020 0:00,9249,ST004L1,3.15,NA,9.2,70,NA
+3/30/2020 0:00,9248,ST004L1,2.62,NA,8.6,80,NA
+3/31/2020 0:00,9247,ST004L1,3.07,NA,8.21,85,NA
+4/1/2020 0:00,9246,ST004L1,2.45,NA,8.38,80,NA
+4/2/2020 0:00,9254,ST004L1,2.58,0.4,8.56,80,NA
+4/3/2020 0:00,9257,ST004L1,3.66,0.4,8.64,85,NA
+4/4/2020 0:00,9258,ST004L1,3.44,0.5,8.74,85,NA
+4/5/2020 0:00,9262,ST004L1,2.36,0.4,8.75,75,NA
+4/6/2020 0:00,9263,ST004L1,2.7,0.4,9.38,85,NA
+4/7/2020 0:00,9264,ST004L1,48,0.5,9.66,155,NA
+4/8/2020 0:00,9267,ST004L1,18.79,0.6,8.86,145,NA
+4/9/2020 0:00,9268,ST004L1,11.24,0.5,8.86,147,NA
+4/10/2020 0:00,9269,ST004L1,6.52,0.6,9.58,206,NA
+4/11/2020 0:00,9270,ST004L1,4.21,0.5,9.04,188,NA
+4/12/2020 0:00,9271,ST004L1,3.91,NA,8.65,150,velocimeter nonfunctional
+4/13/2020 0:00,9278,ST004L1,4.3,NA,8.53,190,NA
+4/14/2020 0:00,9279,ST004L1,4.53,NA,8.8,181,Velocimeter not working
+4/15/2020 0:00,9280,ST004L1,3.47,NA,9.59,205,NA
+4/16/2020 0:00,9281,ST004L1,3.14,NA,8.73,192,NA
+4/17/2020 0:00,9287,ST004L1,2.96,NA,8.37,184,Velocimeter not working
+4/18/2020 0:00,9288,ST004L1,2.48,NA,8.24,178,NA
+4/19/2020 0:00,9289,ST004L1,3.42,NA,8.96,205,Velocimeter not working
+4/20/2020 0:00,9290,ST004L1,3.45,NA,9.43,235,Velocimeter not working
+4/21/2020 0:00,9291,ST004L1,3.14,NA,9.03,230,NA
+4/22/2020 0:00,9294,ST004L1,4.15,NA,9.22,161,NA
+4/23/2020 0:00,9295,ST004L1,2.67,0.5,7.57,161,NA
+4/24/2020 0:00,9298,ST004L1,5.36,0.7,8.35,220,NA
+4/25/2020 0:00,9299,ST004L1,3.66,0.6,9.27,238,NA
+4/26/2020 0:00,9301,ST004L1,2.74,NA,9.05,178,NA
+4/27/2020 0:00,9307,ST004L1,3.7,NA,8.02,165,NA
+4/28/2020 0:00,9308,ST004L1,2.88,NA,8.31,175,NA
+4/29/2020 0:00,9309,ST004L1,3.24,NA,9.11,208,No Velocimeter
+4/30/2020 0:00,9310,ST004L1,1.88,NA,8.43,210,No Velocimeter
+5/1/2020 0:00,9311,ST004L1,2.15,NA,8.31,151,No velocimeter
+5/2/2020 0:00,9313,ST004L1,2.59,NA,6.72,160,"No Velocimeter, D.O. needs to be recalibrated"
+5/3/2020 0:00,9320,ST004L1,6.66,NA,8.6,201,NA
+5/4/2020 0:00,9321,ST004L1,2.04,NA,9,220,NA
+5/5/2020 0:00,9322,ST004L1,2.84,NA,8.72,190,NA
+5/6/2020 0:00,9325,ST004L1,3.28,NA,7.99,176,No velocimeter
+5/7/2020 0:00,9327,ST004L1,3.71,0.6,8.09,202,NA
+5/8/2020 0:00,9332,ST004L1,4.99,0.6,9.06,197,NA
+5/9/2020 0:00,9333,ST004L1,2.42,0.6,8.63,200,NA
+5/11/2020 0:00,9334,ST004L1,NA,NA,7.91,206,No Velocimeter
+5/12/2020 0:00,9335,ST004L1,1.73,NA,8.67,205,No Velocimeter
+5/13/2020 0:00,9337,ST004L1,4.22,NA,8.75,190,No velocimeter
+5/14/2020 0:00,9339,ST004L1,3.14,NA,9.17,217,NA
+5/15/2020 0:00,9342,ST004L1,1.89,NA,9.08,216,No velocimeter
+5/18/2020 0:00,9343,ST004L1,NA,NA,9.36,261,No velocimeter
+5/19/2020 0:00,9345,ST004L1,2.68,NA,9.2,285,No velocimeter
+5/20/2020 0:00,9347,ST004L1,2.18,NA,9.1,279,No velocimeter
+5/21/2020 0:00,9349,ST004L1,2.54,NA,9.62,310,Depth >300 cm ; no velocimeter
+5/22/2020 0:00,9351,ST004L1,3.07,NA,9.5,280,No velocimeter
+2/1/2017 0:00,8298,ST004L1B,NA,NA,NA,160,NA
+2/2/2017 0:00,8299,ST004L1B,NA,NA,NA,149,Water temp not recorded.  Turbidity not recorded. D.O. not recorded. Water velocity not recorded.
+2/3/2017 0:00,8300,ST004L1B,5.14,NA,NA,142,Water temp not recorded. D.O. not recorded. Water velocity not recorded.
+2/4/2017 0:00,8301,ST004L1B,5.42,NA,7.15,144,Water velocity not recorded.
+2/5/2017 0:00,8306,ST004L1B,4.57,NA,8.1,155,Water velocity not recorded.
+2/6/2017 0:00,8307,ST004L1B,5.63,NA,7.75,135,Water velocity not recorded.
+2/7/2017 0:00,8308,ST004L1B,14.31,NA,8.13,149,Water velocity not recorded.
+2/8/2017 0:00,8316,ST004L1B,18.96,NA,8.3,211,Water velocity not recorded.
+2/9/2017 0:00,8317,ST004L1B,15.66,NA,8.75,NA,Water velocity not recorded. Water depth not recorded: too deep (estimated at 303 cm).
+2/10/2017 0:00,8318,ST004L1B,9.61,NA,9.45,NA,Water velocity not recorded. Water depth not recorded: too deep ( >300 cm).
+2/11/2017 0:00,8319,ST004L1B,19.78,NA,8.45,NA,Water velocity not recorded. Water depth not recorded: too deep ( >300 cm).
+2/12/2017 0:00,8320,ST004L1B,7.91,NA,8.83,NA,Water velocity not recorded. Water depth not recorded: too deep ( >300 cm).
+2/13/2017 0:00,8321,ST004L1B,6.04,NA,9.66,NA,Water velocity not recorded. Water depth not recorded: too deep ( >300 cm).
+2/14/2017 0:00,8322,ST004L1B,4.02,NA,8.05,295,Water velocity not recorded.
+2/15/2017 0:00,8328,ST004L1B,3.89,0.2,8.27,293,NA
+2/16/2017 0:00,8330,ST004L1B,4.21,0.3,8.12,274,NA
+2/17/2017 0:00,8331,ST004L1B,9.97,0.1,8.44,290,NA
+2/18/2017 0:00,8336,ST004L1B,9.4,0.3,9.05,NA,Water depth not recorded: too deep ( >300 cm).
+2/19/2017 0:00,8338,ST004L1B,8.74,0.2,9.19,NA,Water depth not recorded: too deep ( >300 cm).
+2/20/2017 0:00,8339,ST004L1B,9.92,0.3,9.71,NA,Water depth not recorded: too deep ( >300 cm).
+2/21/2017 0:00,8340,ST004L1B,26.4,0.4,9.09,NA,Water depth not recorded: too deep ( >300 cm).
+2/21/2017 0:00,8341,ST004L1B,NA,NA,NA,NA,Water depth not recorded: too deep ( >300 cm).
+2/22/2017 0:00,8342,ST004L1B,44.9,0.6,7.99,NA,Water depth not recorded: too deep ( >300 cm).
+2/23/2017 0:00,8350,ST004L1B,24.7,0.3,8.93,NA,Water depth not recorded: too deep ( >300 cm).
+2/24/2017 0:00,8351,ST004L1B,16.09,0.3,9.46,NA,Water depth not recorded: too deep ( >300 cm).
+2/25/2017 0:00,8352,ST004L1B,10.13,0.2,9.82,NA,Water depth not recorded: too deep ( >300 cm).
+2/26/2017 0:00,8353,ST004L1B,9.79,0.4,8.96,NA,Water depth not recorded: too deep ( >300 cm).
+2/27/2017 0:00,8354,ST004L1B,10.62,0.2,9.11,NA,Water depth not recorded: too deep ( >300 cm).
+2/28/2017 0:00,8355,ST004L1B,7.32,0.2,8.44,NA,Water depth not recorded: too deep ( >300 cm).
+3/1/2017 0:00,8356,ST004L1B,12.32,0.2,8.93,NA,Water depth not recorded: too deep ( >300 cm).
+3/2/2017 0:00,8357,ST004L1B,14.33,0.3,9.25,NA,Water depth not recorded: too deep (estimated at 305 cm).
+3/3/2017 0:00,8358,ST004L1B,16.71,0.4,9.1,293,NA
+3/4/2017 0:00,8359,ST004L1B,13.89,0.2,9.02,300,NA
+3/5/2017 0:00,8388,ST004L1B,14.91,0.3,8.65,271,NA
+3/6/2017 0:00,8389,ST004L1B,14.28,0.3,8.37,268,NA
+3/7/2017 0:00,8390,ST004L1B,14.13,0.3,8.65,268,NA
+3/8/2017 0:00,8391,ST004L1B,11.62,0.3,9.48,272,NA
+3/9/2017 0:00,8392,ST004L1B,9.99,0.2,9.06,278,NA
+3/10/2017 0:00,8393,ST004L1B,12.72,0.2,9,263,NA
+3/11/2017 0:00,8394,ST004L1B,11.67,0.2,8.67,262,NA
+3/12/2017 0:00,8395,ST004L1B,12.5,0.3,7.1,249,NA
+3/13/2017 0:00,8396,ST004L1B,9.3,0.4,9.58,290,NA
+3/14/2017 0:00,8397,ST004L1B,9.19,0.6,9.16,287,NA
+3/15/2017 0:00,8398,ST004L1B,9.84,0.6,9.29,295,NA
+3/16/2017 0:00,8399,ST004L1B,5.77,0.6,9.03,285,NA
+3/17/2017 0:00,8400,ST004L1B,9.09,0.7,9.44,287,NA
+3/18/2017 0:00,8401,ST004L1B,7.83,0.6,8.71,293,NA
+3/19/2017 0:00,8402,ST004L1B,7.97,0.5,9.13,295,NA
+3/20/2017 0:00,8403,ST004L1B,8.24,0.5,8.48,284,NA
+3/21/2017 0:00,8404,ST004L1B,6.57,0.6,9.36,284,NA
+3/22/2017 0:00,8405,ST004L1B,7.88,0.6,9.14,287,NA
+3/23/2017 0:00,8406,ST004L1B,11.45,0.7,8.6,297,NA
+3/24/2017 0:00,8407,ST004L1B,8.38,0.6,9.81,NA,Water depth not recorded: too deep (estimated at 302 cm).
+3/25/2017 0:00,8408,ST004L1B,6.7,0.6,9.93,NA,Water depth not recorded: too deep ( >300 cm).
+3/26/2017 0:00,8409,ST004L1B,6.94,0.5,10.1,NA,Water depth not recorded: too deep ( >300 cm).
+3/27/2017 0:00,8410,ST004L1B,6.12,0.7,9.84,NA,Water depth not recorded: too deep ( >300 cm).
+3/28/2017 0:00,8411,ST004L1B,6.59,0.6,9.96,NA,Water depth not recorded: too deep ( >300 cm).
+3/29/2017 0:00,8412,ST004L1B,7.1,0.6,NA,NA,Water depth not recorded: too deep ( >300 cm). DO recorded as 16.0 mg/L: likely inaccurate.
+3/30/2017 0:00,8413,ST004L1B,6.93,0.6,9.64,NA,Water depth not recorded: too deep ( >300 cm).
+3/31/2017 0:00,8414,ST004L1B,6.78,0.7,9.8,NA,Water depth not recorded: too deep ( >300 cm).
+4/1/2017 0:00,8415,ST004L1B,8.26,0.5,9.85,NA,Water depth not recorded: too deep ( >300 cm).
+4/3/2017 0:00,8416,ST004L1B,NA,0.5,10,280,NA
+4/4/2017 0:00,8417,ST004L1B,6.6,0.6,9.67,275,NA
+4/5/2017 0:00,8418,ST004L1B,5.83,0.7,9.42,281,NA
+4/6/2017 0:00,8419,ST004L1B,6.21,0.7,9.76,282,NA
+4/7/2017 0:00,8420,ST004L1B,5.49,0.8,10.01,NA,Water depth not recorded: too deep ( >300 cm).
+4/8/2017 0:00,8421,ST004L1B,4.36,0.7,NA,NA,Water depth not recorded: too deep ( >300 cm). Water temperature and DO not recorded.
+4/10/2017 0:00,8422,ST004L1B,NA,0.5,10.62,NA,Water depth not recorded: too deep (estimated at 306 cm).
+4/11/2017 0:00,8423,ST004L1B,7.47,0.3,10.47,283,NA
+4/12/2017 0:00,8424,ST004L1B,7.13,0.6,10.36,NA,Water depth not recorded: too deep ( >300 cm).
+4/13/2017 0:00,8425,ST004L1B,6.73,0.5,10.06,NA,Water depth not recorded: too deep ( >300 cm).
+4/14/2017 0:00,8426,ST004L1B,6.16,0.5,10.04,NA,Water depth not recorded: too deep ( >300 cm).
+4/15/2017 0:00,8427,ST004L1B,7.46,0.4,10.35,NA,Water depth not recorded: too deep ( >300 cm).
+4/18/2017 0:00,8429,ST004L1B,5.77,0.5,10.38,NA,Water depth not recorded: too deep ( >300 cm).
+4/19/2017 0:00,8430,ST004L1B,5.36,0.3,10.2,NA,Water depth not recorded: too deep ( >300 cm).
+4/20/2017 0:00,8431,ST004L1B,6.22,0.2,8.55,NA,Water depth not recorded: too deep ( >300 cm).
+4/21/2017 0:00,8432,ST004L1B,6.3,0.5,10.34,NA,NA
+4/22/2017 0:00,8477,ST004L1B,NA,NA,NA,NA,Environmental data not recorded.
+4/24/2017 0:00,8478,ST004L1B,NA,0.3,10.16,NA,"Water depth not recorded: too deep ( >300 cm). Adjusted cones further into thalweg once off traps, velocity may be higher than recorded value."
+4/25/2017 0:00,8479,ST004L1B,5.9,0.5,9.8,NA,Water depth not recorded: too deep ( >300 cm).
+4/26/2017 0:00,8480,ST004L1B,5.67,0.5,10.02,NA,Water depth not recorded: too deep ( >300 cm).
+4/27/2017 0:00,8481,ST004L1B,4.56,0.5,9.44,NA,Water depth not recorded: too deep ( >300 cm).
+5/1/2017 0:00,8482,ST004L1B,NA,0.6,NA,NA,Water depth not recorded: too deep ( >300 cm).
+5/2/2017 0:00,8483,ST004L1B,4.6,0.5,8.24,NA,Water depth not recorded: too deep ( >300 cm).
+5/3/2017 0:00,8484,ST004L1B,4.98,0.4,8.59,NA,Water depth not recorded: too deep ( >300 cm).
+5/4/2017 0:00,8485,ST004L1B,3.66,0.8,9.13,NA,Water depth not recorded: too deep ( >300 cm).
+5/5/2017 0:00,8486,ST004L1B,4.64,0.9,9.85,NA,Water depth not recorded: too deep ( >300 cm).
+5/6/2017 0:00,8487,ST004L1B,5.16,1,8.54,NA,Water depth not recorded: too deep ( >300 cm).
+5/8/2017 0:00,8488,ST004L1B,NA,NA,9.66,NA,Water depth not recorded: too deep ( >300 cm). Water velocity not recorded.
+5/9/2017 0:00,8489,ST004L1B,3.13,0.6,9.94,NA,Water depth not recorded: too deep ( >300 cm).
+5/10/2017 0:00,8490,ST004L1B,3.35,0.9,9.05,NA,Water depth not recorded: too deep ( >300 cm).
+5/11/2017 0:00,8491,ST004L1B,4.85,0.9,8.54,NA,Water depth not recorded: too deep ( >300 cm).
+5/12/2017 0:00,8492,ST004L1B,4.52,0.9,8.15,NA,Water depth not recorded: too deep ( >300 cm).
+5/13/2017 0:00,8493,ST004L1B,6.35,0.9,9.75,NA,Water depth not recorded: too deep ( >300 cm).
+5/15/2017 0:00,8494,ST004L1B,NA,0.9,NA,NA,Water depth not recorded: too deep ( >300 cm).
+5/16/2017 0:00,8495,ST004L1B,4.6,0.6,9.96,NA,Water depth not recorded: too deep ( >300 cm).
+5/17/2017 0:00,8496,ST004L1B,4.99,0.7,10.29,NA,Water depth not recorded: too deep ( >300 cm).
+5/18/2017 0:00,8497,ST004L1B,4.8,0.5,8.29,NA,Water depth not recorded: too deep ( >300 cm).
+5/19/2017 0:00,8498,ST004L1B,5.15,0.5,9.81,NA,Water depth not recorded: too deep ( >300 cm).
+5/20/2017 0:00,8499,ST004L1B,3.5,0.6,9.9,NA,Water depth not recorded: too deep ( >300 cm).
+5/22/2017 0:00,8500,ST004L1B,NA,0.6,9.95,NA,Water depth not recorded: too deep ( >300 cm).
+5/23/2017 0:00,8501,ST004L1B,5.46,0.7,9.59,NA,Water depth not recorded: too deep ( >300 cm).
+5/24/2017 0:00,8502,ST004L1B,NA,0.8,9.88,NA,Water depth not recorded: too deep ( >300 cm). Turbidity not recorded: water sample not taken.
+5/25/2017 0:00,8503,ST004L1B,4.16,0.9,9.7,NA,Water depth not recorded: too deep ( >300 cm).
+5/26/2017 0:00,8504,ST004L1B,3.06,0.6,9.84,NA,Water depth not recorded: too deep ( >300 cm).
+5/27/2017 0:00,8505,ST004L1B,4.09,0.8,9.57,NA,Water depth not recorded: too deep ( >300 cm).
+5/29/2017 0:00,8506,ST004L1B,NA,0.6,NA,NA,Water depth not recorded: too deep ( >300 cm).
+5/30/2017 0:00,8507,ST004L1B,3.03,0.8,9.89,NA,Water depth not recorded: too deep ( >300 cm).
+5/31/2017 0:00,8508,ST004L1B,2.93,0.6,8.81,NA,Water depth not recorded: too deep ( >300 cm).
+6/1/2017 0:00,8509,ST004L1B,3.29,0.6,9.97,NA,Water depth not recorded: too deep ( >300 cm).
+6/2/2017 0:00,8510,ST004L1B,3.02,0.6,9.89,NA,Water depth not recorded: too deep ( >300 cm).
+6/3/2017 0:00,8511,ST004L1B,3.75,0.6,9.89,NA,Water depth not recorded: too deep ( >300 cm).
+6/5/2017 0:00,8512,ST004L1B,NA,0.8,9.77,NA,Water depth not recorded: too deep ( >300 cm).
+6/6/2017 0:00,8513,ST004L1B,3.39,0.6,9.85,NA,Water depth not recorded: too deep ( >300 cm).
+6/7/2017 0:00,8514,ST004L1B,2.53,0.5,9.96,NA,Water depth not recorded: too deep ( >300 cm).
+6/8/2017 0:00,8515,ST004L1B,4.02,0.5,10.05,NA,Water depth not recorded: too deep ( >300 cm).
+6/9/2017 0:00,8516,ST004L1B,3.17,0.6,10.04,NA,Water depth not recorded: too deep ( >300 cm).
+6/10/2017 0:00,8517,ST004L1B,3.04,0.5,10.03,NA,Water depth not recorded: too deep ( >300 cm).
+6/12/2017 0:00,8518,ST004L1B,NA,0.7,10.26,NA,Water depth not recorded: too deep ( >300 cm).
+6/13/2017 0:00,8519,ST004L1B,3.48,0.6,10.1,NA,Water depth not recorded: too deep ( >300 cm).
+6/14/2017 0:00,8520,ST004L1B,NA,0.6,10.02,NA,Water depth not recorded: too deep ( >300 cm). Turbidity not recorded: water sample not taken.
+6/15/2017 0:00,8521,ST004L1B,3.81,0.7,10.9,NA,Water depth not recorded: too deep ( >300 cm).
+6/16/2017 0:00,8522,ST004L1B,3.25,0.7,10.08,NA,Water depth not recorded: too deep ( >300 cm).
+6/17/2017 0:00,8523,ST004L1B,4.43,0.8,8.48,NA,Water depth not recorded: too deep ( >300 cm).
+6/19/2017 0:00,8524,ST004L1B,NA,NA,9.07,NA,Water depth not recorded. Water velocity not recorded.
+6/20/2017 0:00,8525,ST004L1B,4.61,0.7,9.93,NA,Water depth not recorded: too deep ( >300 cm).
+6/21/2017 0:00,8526,ST004L1B,4.19,0.6,10,NA,Water depth not recorded: too deep ( >300 cm).
+6/22/2017 0:00,8527,ST004L1B,3.96,0.6,9.94,NA,Water depth not recorded: too deep ( >300 cm).
+6/23/2017 0:00,8528,ST004L1B,3.75,0.5,9.92,NA,Water depth not recorded: too deep ( >300 cm).
+1/11/2018 0:00,8564,ST004L1B,NA,0.6,10.05,240,NA
+1/12/2018 0:00,8567,ST004L1B,3.13,0.6,10.47,242,NA
+1/13/2018 0:00,8568,ST004L1B,2.37,0.5,9.98,240,NA
+1/14/2018 0:00,8569,ST004L1B,2.94,0.5,9.92,240,NA
+1/15/2018 0:00,8570,ST004L1B,1.91,0.5,10.21,242,NA
+1/16/2018 0:00,8574,ST004L1B,3.82,0.5,8.96,248,NA
+1/17/2018 0:00,8576,ST004L1B,1.71,0.8,9.05,241,NA
+1/18/2018 0:00,8578,ST004L1B,3.21,0.7,NA,239,D.O. Not Recorded
+1/19/2018 0:00,8579,ST004L1B,2.65,0.6,8.4,241,NA
+1/20/2018 0:00,8580,ST004L1B,5.5,0.5,10.14,235,NA
+1/21/2018 0:00,8581,ST004L1B,2.81,0.5,10.54,244,NA
+1/22/2018 0:00,8582,ST004L1B,2.75,0.6,10.86,239,NA
+1/23/2018 0:00,8588,ST004L1B,2.34,0.7,9.47,235,NA
+1/24/2018 0:00,8589,ST004L1B,3.32,0.7,12.01,250,NA
+1/25/2018 0:00,8590,ST004L1B,2.55,0.5,11.94,240,NA
+1/26/2018 0:00,8591,ST004L1B,3.56,0.4,10.93,190,NA
+1/27/2018 0:00,8592,ST004L1B,2.62,0.5,11.69,185,NA
+1/28/2018 0:00,8593,ST004L1B,2.56,0.3,11.75,187,NA
+1/29/2018 0:00,8594,ST004L1B,2.72,0.3,11.8,175,NA
+1/30/2018 0:00,8602,ST004L1B,2.88,0.5,11.85,185,NA
+1/31/2018 0:00,8603,ST004L1B,2.96,0.5,10.07,174,NA
+2/1/2018 0:00,8606,ST004L1B,2.11,0.3,11.66,185,NA
+2/2/2018 0:00,8607,ST004L1B,2.15,0.3,11.8,170,NA
+2/3/2018 0:00,8610,ST004L1B,2.03,0.5,10.89,175,NA
+2/4/2018 0:00,8611,ST004L1B,3.02,0.5,11.59,173,NA
+2/5/2018 0:00,8612,ST004L1B,2.76,0.4,11.66,173,NA
+2/6/2018 0:00,8616,ST004L1B,2.92,0.4,11.53,170,NA
+2/7/2018 0:00,8617,ST004L1B,2.97,0.3,11.89,170,NA
+2/8/2018 0:00,8618,ST004L1B,2.53,0.3,10.05,170,NA
+2/9/2018 0:00,8619,ST004L1B,3.21,0.5,11.71,183,NA
+2/10/2018 0:00,8620,ST004L1B,9.22,0.4,9.15,185,NA
+2/11/2018 0:00,8621,ST004L1B,8.21,0.5,11.85,225,NA
+2/13/2018 0:00,8630,ST004L1B,2.89,0.4,12.22,245,NA
+2/14/2018 0:00,8631,ST004L1B,2.94,0.5,12.75,247,NA
+2/15/2018 0:00,8632,ST004L1B,3.91,0.4,10.62,255,NA
+2/16/2018 0:00,8633,ST004L1B,2.67,0.5,12.29,249,NA
+2/17/2018 0:00,8634,ST004L1B,1.92,0.5,12.3,252,NA
+2/18/2018 0:00,8635,ST004L1B,2.07,0.4,12.08,257,NA
+2/19/2018 0:00,8636,ST004L1B,2.61,0.5,12.24,265,NA
+2/20/2018 0:00,8644,ST004L1B,4.76,0.5,12.44,278,NA
+2/21/2018 0:00,8646,ST004L1B,3.43,0.5,12.95,236,NA
+2/22/2018 0:00,8647,ST004L1B,3.21,0.5,12.72,265,NA
+2/23/2018 0:00,8648,ST004L1B,3.69,0.4,10.05,257,NA
+2/24/2018 0:00,8649,ST004L1B,4.91,0.5,10.27,NA,Water depth is greater than 300cm.  Too deep for measurement
+2/25/2018 0:00,8650,ST004L1B,5.48,0.5,12.58,NA,Water depth is greater than 300cm.  Too deep for measurement
+2/26/2018 0:00,8651,ST004L1B,3.86,0.6,12.19,NA,River too deep for depth measurement
+2/27/2018 0:00,8659,ST004L1B,3.65,0.5,9.9,NA,Water depth greater than 300 cm.  Unable to record an accurate measurement.
+3/4/2018 0:00,8661,ST004L1B,NA,0.3,11.58,197,NA
+3/5/2018 0:00,8662,ST004L1B,3.06,0.3,11.18,179,NA
+3/6/2018 0:00,8665,ST004L1B,4.44,0.4,9.69,167,NA
+3/7/2018 0:00,8667,ST004L1B,3.8,0.3,10.28,145,NA
+3/8/2018 0:00,8669,ST004L1B,3.21,0.5,10.16,125,NA
+3/9/2018 0:00,8672,ST004L1B,3.36,0.3,10.03,135,NA
+3/12/2018 0:00,8673,ST004L1B,NA,0.2,9.92,136,NA
+3/13/2018 0:00,8679,ST004L1B,3.97,0.2,9.92,132,NA
+3/14/2018 0:00,8680,ST004L1B,5.64,0.3,9.69,143,NA
+3/15/2018 0:00,8683,ST004L1B,3.12,0.3,10.45,130,NA
+3/16/2018 0:00,8684,ST004L1B,4.55,0.3,10.6,130,NA
+3/17/2018 0:00,8685,ST004L1B,3.54,0.3,8.55,130,NA
+3/18/2018 0:00,8686,ST004L1B,4.02,0.3,11.32,135,NA
+3/19/2018 0:00,8687,ST004L1B,4.35,0.4,11.51,130,NA
+3/20/2018 0:00,8694,ST004L1B,5.05,0.3,8.45,128,NA
+3/21/2018 0:00,8695,ST004L1B,3.09,0.3,10.65,125,NA
+3/22/2018 0:00,8697,ST004L1B,11.33,0.3,9.89,129,NA
+3/23/2018 0:00,8699,ST004L1B,7.6,0.2,10.74,157,NA
+3/24/2018 0:00,8701,ST004L1B,15.32,0.4,10,140,NA
+3/25/2018 0:00,8702,ST004L1B,7.5,0.3,10.54,128,NA
+3/26/2018 0:00,8703,ST004L1B,6.76,0.2,10.02,125,NA
+3/27/2018 0:00,8704,ST004L1B,4.62,0.1,12.06,120,NA
+3/28/2018 0:00,8709,ST004L1B,4.46,0.2,10.59,130,NA
+3/29/2018 0:00,8711,ST004L1B,4.04,0.2,10.49,120,NA
+3/30/2018 0:00,8713,ST004L1B,5.97,0.2,8.45,123,NA
+3/31/2018 0:00,8714,ST004L1B,3.67,0.2,4.75,123,DO meter not calibrated
+4/1/2018 0:00,8715,ST004L1B,5.91,0.2,4.02,133,DO meter not calibrated
+4/2/2018 0:00,8716,ST004L1B,6.7,0.3,7.83,136,DO meter not calibrated
+4/3/2018 0:00,8721,ST004L1B,6.79,0.5,8.08,229,DO meter not calibrated
+4/4/2018 0:00,8723,ST004L1B,5.04,0.5,7.63,242,DO meter not calibrated
+4/5/2018 0:00,8725,ST004L1B,5.58,0.6,9.17,245,DO meter not calibrated
+4/6/2018 0:00,8727,ST004L1B,5.4,0.4,7.71,258,DO meter not calibrated
+4/7/2018 0:00,8729,ST004L1B,3.44,0.5,9.33,266,DO meter not calibrated
+4/8/2018 0:00,8731,ST004L1B,7.27,0.3,8.05,275,DO meter not calibrated
+4/9/2018 0:00,8732,ST004L1B,6.45,0.6,7.77,270,DO meter not calibrated
+4/10/2018 0:00,8733,ST004L1B,5.15,0.5,6.69,265,DO meter not calibrated
+4/11/2018 0:00,8734,ST004L1B,4.1,0.3,6.03,265,DO meter not calibrated
+4/12/2018 0:00,8739,ST004L1B,5.98,0.3,6.17,261,DO meter not calibrated
+4/13/2018 0:00,8741,ST004L1B,4.07,0.4,6.19,265,DO meter not calibrated
+4/14/2018 0:00,8743,ST004L1B,4.87,0.5,6.19,264,DO meter not calibrated
+4/15/2018 0:00,8744,ST004L1B,4.32,0.4,5.58,268,DO meter not calibrated
+4/16/2018 0:00,8745,ST004L1B,3.98,0.3,5.67,271,DO meter not calibrated
+4/17/2018 0:00,8746,ST004L1B,4.59,0.5,7.35,273,DO meter not calibrated
+4/18/2018 0:00,8751,ST004L1B,4.21,0.5,7.72,276,DO meter not calibrated
+4/19/2018 0:00,8753,ST004L1B,4.93,0.4,7.84,273,DO meter not calibrated
+4/20/2018 0:00,8755,ST004L1B,4.1,0.5,6.68,268,DO meter not calibrated
+4/21/2018 0:00,8757,ST004L1B,4.93,0.2,6.73,243,DO meter not calibrated
+4/22/2018 0:00,8758,ST004L1B,4.54,0.4,6.21,233,DO meter not calibrated
+4/23/2018 0:00,8759,ST004L1B,3.97,0.3,5.16,253,DO meter not calibrated
+4/24/2018 0:00,8763,ST004L1B,5.5,0.3,5.68,253,DO meter not calibrated
+4/25/2018 0:00,8764,ST004L1B,2.89,0.4,3.84,245,DO meter not calibrated
+4/26/2018 0:00,8767,ST004L1B,3.45,0.4,NA,244,DO meter not calibrated
+4/27/2018 0:00,8769,ST004L1B,3.59,0.3,2.78,242,DO meter not calibrated
+4/28/2018 0:00,8771,ST004L1B,3.91,0.3,NA,240,DO meter not calibrated
+4/29/2018 0:00,8776,ST004L1B,4.89,0.2,2.31,256,DO meter not calibrated
+4/30/2018 0:00,8777,ST004L1B,3.07,0.4,2.56,238,DO meter not calibrated
+5/1/2018 0:00,8778,ST004L1B,3.21,0.3,NA,243,DO meter not calibrated
+5/2/2018 0:00,8779,ST004L1B,3.66,0.3,10.77,250,NA
+5/3/2018 0:00,8780,ST004L1B,4.13,0.4,11.1,270,NA
+5/4/2018 0:00,8783,ST004L1B,5.42,0.5,8.95,250,NA
+5/5/2018 0:00,8785,ST004L1B,6.27,0.3,8.61,218,NA
+5/6/2018 0:00,8787,ST004L1B,6.9,0.3,7.93,245,NA
+5/7/2018 0:00,8788,ST004L1B,8.69,0.4,10.69,291,NA
+5/8/2018 0:00,8791,ST004L1B,10.44,0.2,9.82,NA,River too deep to record depth.  300+ cm
+5/9/2018 0:00,8793,ST004L1B,4.11,0.3,10.61,NA,River too deep to measure (300+cm)
+5/10/2018 0:00,8795,ST004L1B,4.07,0.3,10.54,NA,River too deep to measure. (300+cm)
+5/11/2018 0:00,8797,ST004L1B,6.7,0.5,11.06,NA,River too deep to measure (300 cm+)
+5/12/2018 0:00,8799,ST004L1B,6.97,0.3,9.45,NA,River too deep to measure (300cm+)
+5/13/2018 0:00,8801,ST004L1B,4.82,0.3,9.12,NA,River too deep to measure (300cm+)
+5/14/2018 0:00,8803,ST004L1B,4.34,0.3,10.56,NA,River too deep to measure (300cm+)
+5/15/2018 0:00,8805,ST004L1B,4.61,0.5,8.85,NA,River too deep to measure (300cm+)
+5/16/2018 0:00,8807,ST004L1B,3.41,0.3,10.72,NA,River too deep to measure (300cm+)
+5/17/2018 0:00,8809,ST004L1B,2.88,0.5,10.93,NA,River too deep to measure (300cm+)
+5/18/2018 0:00,8811,ST004L1B,NA,0.6,9.2,NA,"River too deep to measure (300cm+)
 
 Turbidity not recorded"
-2018/05/20 00:00:00,8812,ST004L1B,NA,0.5,9.96,NA,"River too deep to measure (300cm+)
+5/20/2018 0:00,8812,ST004L1B,NA,0.5,9.96,NA,"River too deep to measure (300cm+)
 
 "
-2018/05/21 00:00:00,8815,ST004L1B,3.22,0.6,10.85,NA,"River too deep to measure (300cm+)
+5/21/2018 0:00,8815,ST004L1B,3.22,0.6,10.85,NA,"River too deep to measure (300cm+)
 
 "
-2018/05/22 00:00:00,8818,ST004L1B,4.22,0.6,10.9,NA,River too deep to measure (300cm+)
-2018/05/23 00:00:00,8819,ST004L1B,4.65,0.4,10.69,NA,River too deep to measure (300cm+)
-2018/05/24 00:00:00,8821,ST004L1B,4.23,0.7,10.81,NA,River too deep to measure (300cm+)
-2018/05/25 00:00:00,8823,ST004L1B,2.5,0.2,10.86,NA,River too deep to measure (300cm+)
-2019/01/10 00:00:00,8825,ST004L1B,NA,0.3,11.3,140,NA
-2019/01/11 00:00:00,8826,ST004L1B,3.96,0.3,10.85,170,NA
-2019/01/15 00:00:00,8827,ST004L1B,NA,0.3,12.35,145,NA
-2019/01/16 00:00:00,8828,ST004L1B,2.4,0.4,12.5,135,NA
-2019/01/17 00:00:00,8829,ST004L1B,14.16,0.3,10.77,200,NA
-2019/01/18 00:00:00,8830,ST004L1B,57,0.4,10.25,245,NA
-2019/01/19 00:00:00,8831,ST004L1B,37.6,0.4,9.35,218,NA
-2019/01/20 00:00:00,8832,ST004L1B,15.9,0.3,9.13,210,NA
-2019/01/21 00:00:00,8833,ST004L1B,9.85,0.3,10.41,193,NA
-2019/01/22 00:00:00,8834,ST004L1B,7.67,0.3,10.96,215,NA
-2019/01/23 00:00:00,8835,ST004L1B,15.42,0.3,11.4,189,NA
-2019/01/24 00:00:00,8836,ST004L1B,6.42,0.3,11.53,201,NA
-2019/01/25 00:00:00,8837,ST004L1B,4.99,0.2,11.51,164,NA
-2019/01/26 00:00:00,8838,ST004L1B,3.8,0.1,10.29,155,NA
-2019/01/27 00:00:00,8839,ST004L1B,3.64,0.3,12,165,NA
-2019/01/28 00:00:00,8840,ST004L1B,2.19,0.2,10.97,165,NA
-2019/01/29 00:00:00,8841,ST004L1B,2.77,0.3,9.91,162,NA
-2019/01/30 00:00:00,8842,ST004L1B,2.07,0.3,11.3,165,NA
-2019/01/31 00:00:00,8843,ST004L1B,2.39,0.3,10.55,163,NA
-2019/02/01 00:00:00,8844,ST004L1B,2.92,0.3,10.54,164,NA
-2019/02/02 00:00:00,8846,ST004L1B,4.04,0.5,10.74,186,NA
-2019/02/03 00:00:00,8847,ST004L1B,6.33,0.6,10.98,284,NA
-2019/02/04 00:00:00,8848,ST004L1B,9.07,NA,10.94,NA,Depth and velocity not recorded.
-2019/02/05 00:00:00,8849,ST004L1B,15.2,0.5,10.93,172,NA
-2019/02/06 00:00:00,8854,ST004L1B,13.86,0.4,11.72,158,NA
-2019/02/07 00:00:00,8856,ST004L1B,5.85,0.4,11.65,156,NA
-2019/02/08 00:00:00,8858,ST004L1B,5.96,0.4,12.4,179,NA
-2019/02/09 00:00:00,8860,ST004L1B,5.07,0.4,11.55,152,NA
-2019/02/10 00:00:00,8861,ST004L1B,6.9,0.3,11.61,163,NA
-2019/02/11 00:00:00,8862,ST004L1B,5.43,0.5,11.53,164,NA
-2019/02/12 00:00:00,8866,ST004L1B,8.05,0.4,11.84,193,NA
-2019/02/13 00:00:00,8868,ST004L1B,5.18,0.4,11.56,180,NA
-2019/02/14 00:00:00,8869,ST004L1B,4.32,0.3,11.2,164,NA
-2019/02/15 00:00:00,8872,ST004L1B,7.25,0.4,10.35,183,NA
-2019/02/16 00:00:00,8874,ST004L1B,17.6,0.4,11.48,200,NA
-2019/02/17 00:00:00,8876,ST004L1B,8.84,0.5,11.54,280,NA
-2019/02/18 00:00:00,8878,ST004L1B,8.14,0.9,11.78,282,NA
-2019/02/19 00:00:00,8881,ST004L1B,3.92,0.5,12.26,243,NA
-2019/02/20 00:00:00,8882,ST004L1B,5.17,0.4,11.31,225,NA
-2019/02/20 00:00:00,8883,ST004L1B,NA,0.6,12.36,245,NA
-2019/02/21 00:00:00,8884,ST004L1B,3.8,0.8,11.58,260,NA
-2019/02/22 00:00:00,8888,ST004L1B,4.19,0.6,12.18,270,NA
-2019/02/23 00:00:00,8889,ST004L1B,5.59,0.6,12.61,266,NA
-2019/02/24 00:00:00,8890,ST004L1B,4.13,0.6,12.62,NA,River too deep to measure (300 + cm)
-2019/02/25 00:00:00,8891,ST004L1B,4.16,0.5,12.64,282,NA
-2019/02/26 00:00:00,8896,ST004L1B,4.23,0.8,11.63,293,NA
-2019/02/27 00:00:00,8897,ST004L1B,4.81,0.8,11.71,NA,River too deep to measure (300+ cm)
-2019/02/28 00:00:00,8900,ST004L1B,3.73,0.6,12.44,NA,River too deep to measure (300+ cm)
-2019/03/01 00:00:00,8902,ST004L1B,6.76,0.4,11.89,299,NA
-2019/03/04 00:00:00,8903,ST004L1B,NA,0.5,11.3,NA,River too deep to measure (300 + cm)
-2019/03/05 00:00:00,8906,ST004L1B,5.95,0.6,11.33,NA,River too deep to measure (300 + cm)
-2019/03/06 00:00:00,8908,ST004L1B,8.54,0.6,11.43,NA,River too deep to measure (300 + cm)
-2019/03/07 00:00:00,8910,ST004L1B,5.84,0.3,11.06,NA,River too deep to measure (300 + cm)
-2019/03/08 00:00:00,8911,ST004L1B,7.36,0.4,10.89,NA,River too deep to measure (300 + cm)
-2019/03/09 00:00:00,8915,ST004L1B,6.43,0.3,11,NA,River too deep to measure (300 + cm)
-2019/03/10 00:00:00,8916,ST004L1B,6.75,0.5,11.03,NA,River too deep to measure (300 + cm)
-2019/03/11 00:00:00,8917,ST004L1B,6.24,0.5,12.06,NA,River too deep to measure (300 + cm)
-2019/03/12 00:00:00,8920,ST004L1B,5.75,0.7,11.14,NA,"River too deep to measure (300 + cm)
+5/22/2018 0:00,8818,ST004L1B,4.22,0.6,10.9,NA,River too deep to measure (300cm+)
+5/23/2018 0:00,8819,ST004L1B,4.65,0.4,10.69,NA,River too deep to measure (300cm+)
+5/24/2018 0:00,8821,ST004L1B,4.23,0.7,10.81,NA,River too deep to measure (300cm+)
+5/25/2018 0:00,8823,ST004L1B,2.5,0.2,10.86,NA,River too deep to measure (300cm+)
+1/10/2019 0:00,8825,ST004L1B,NA,0.3,11.3,140,NA
+1/11/2019 0:00,8826,ST004L1B,3.96,0.3,10.85,170,NA
+1/15/2019 0:00,8827,ST004L1B,NA,0.3,12.35,145,NA
+1/16/2019 0:00,8828,ST004L1B,2.4,0.4,12.5,135,NA
+1/17/2019 0:00,8829,ST004L1B,14.16,0.3,10.77,200,NA
+1/18/2019 0:00,8830,ST004L1B,57,0.4,10.25,245,NA
+1/19/2019 0:00,8831,ST004L1B,37.6,0.4,9.35,218,NA
+1/20/2019 0:00,8832,ST004L1B,15.9,0.3,9.13,210,NA
+1/21/2019 0:00,8833,ST004L1B,9.85,0.3,10.41,193,NA
+1/22/2019 0:00,8834,ST004L1B,7.67,0.3,10.96,215,NA
+1/23/2019 0:00,8835,ST004L1B,15.42,0.3,11.4,189,NA
+1/24/2019 0:00,8836,ST004L1B,6.42,0.3,11.53,201,NA
+1/25/2019 0:00,8837,ST004L1B,4.99,0.2,11.51,164,NA
+1/26/2019 0:00,8838,ST004L1B,3.8,0.1,10.29,155,NA
+1/27/2019 0:00,8839,ST004L1B,3.64,0.3,12,165,NA
+1/28/2019 0:00,8840,ST004L1B,2.19,0.2,10.97,165,NA
+1/29/2019 0:00,8841,ST004L1B,2.77,0.3,9.91,162,NA
+1/30/2019 0:00,8842,ST004L1B,2.07,0.3,11.3,165,NA
+1/31/2019 0:00,8843,ST004L1B,2.39,0.3,10.55,163,NA
+2/1/2019 0:00,8844,ST004L1B,2.92,0.3,10.54,164,NA
+2/2/2019 0:00,8846,ST004L1B,4.04,0.5,10.74,186,NA
+2/3/2019 0:00,8847,ST004L1B,6.33,0.6,10.98,284,NA
+2/4/2019 0:00,8848,ST004L1B,9.07,NA,10.94,NA,Depth and velocity not recorded.
+2/5/2019 0:00,8849,ST004L1B,15.2,0.5,10.93,172,NA
+2/6/2019 0:00,8854,ST004L1B,13.86,0.4,11.72,158,NA
+2/7/2019 0:00,8856,ST004L1B,5.85,0.4,11.65,156,NA
+2/8/2019 0:00,8858,ST004L1B,5.96,0.4,12.4,179,NA
+2/9/2019 0:00,8860,ST004L1B,5.07,0.4,11.55,152,NA
+2/10/2019 0:00,8861,ST004L1B,6.9,0.3,11.61,163,NA
+2/11/2019 0:00,8862,ST004L1B,5.43,0.5,11.53,164,NA
+2/12/2019 0:00,8866,ST004L1B,8.05,0.4,11.84,193,NA
+2/13/2019 0:00,8868,ST004L1B,5.18,0.4,11.56,180,NA
+2/14/2019 0:00,8869,ST004L1B,4.32,0.3,11.2,164,NA
+2/15/2019 0:00,8872,ST004L1B,7.25,0.4,10.35,183,NA
+2/16/2019 0:00,8874,ST004L1B,17.6,0.4,11.48,200,NA
+2/17/2019 0:00,8876,ST004L1B,8.84,0.5,11.54,280,NA
+2/18/2019 0:00,8878,ST004L1B,8.14,0.9,11.78,282,NA
+2/19/2019 0:00,8881,ST004L1B,3.92,0.5,12.26,243,NA
+2/20/2019 0:00,8882,ST004L1B,5.17,0.4,11.31,225,NA
+2/20/2019 0:00,8883,ST004L1B,NA,0.6,12.36,245,NA
+2/21/2019 0:00,8884,ST004L1B,3.8,0.8,11.58,260,NA
+2/22/2019 0:00,8888,ST004L1B,4.19,0.6,12.18,270,NA
+2/23/2019 0:00,8889,ST004L1B,5.59,0.6,12.61,266,NA
+2/24/2019 0:00,8890,ST004L1B,4.13,0.6,12.62,NA,River too deep to measure (300 + cm)
+2/25/2019 0:00,8891,ST004L1B,4.16,0.5,12.64,282,NA
+2/26/2019 0:00,8896,ST004L1B,4.23,0.8,11.63,293,NA
+2/27/2019 0:00,8897,ST004L1B,4.81,0.8,11.71,NA,River too deep to measure (300+ cm)
+2/28/2019 0:00,8900,ST004L1B,3.73,0.6,12.44,NA,River too deep to measure (300+ cm)
+3/1/2019 0:00,8902,ST004L1B,6.76,0.4,11.89,299,NA
+3/4/2019 0:00,8903,ST004L1B,NA,0.5,11.3,NA,River too deep to measure (300 + cm)
+3/5/2019 0:00,8906,ST004L1B,5.95,0.6,11.33,NA,River too deep to measure (300 + cm)
+3/6/2019 0:00,8908,ST004L1B,8.54,0.6,11.43,NA,River too deep to measure (300 + cm)
+3/7/2019 0:00,8910,ST004L1B,5.84,0.3,11.06,NA,River too deep to measure (300 + cm)
+3/8/2019 0:00,8911,ST004L1B,7.36,0.4,10.89,NA,River too deep to measure (300 + cm)
+3/9/2019 0:00,8915,ST004L1B,6.43,0.3,11,NA,River too deep to measure (300 + cm)
+3/10/2019 0:00,8916,ST004L1B,6.75,0.5,11.03,NA,River too deep to measure (300 + cm)
+3/11/2019 0:00,8917,ST004L1B,6.24,0.5,12.06,NA,River too deep to measure (300 + cm)
+3/12/2019 0:00,8920,ST004L1B,5.75,0.7,11.14,NA,"River too deep to measure (300 + cm)
 
 Velocity flucuates from 0.7  to 0.2 m/s when in eddy."
-2019/03/13 00:00:00,8923,ST004L1B,6.67,0.4,11.27,NA,River too deep to measure (300 + cm)
-2019/03/14 00:00:00,8924,ST004L1B,5.74,0.6,11.46,NA,River too deep to measure (300 + cm)
-2019/03/15 00:00:00,8926,ST004L1B,4.74,0.5,12.06,NA,River too deep to measure (300 + cm)
-2019/03/16 00:00:00,8928,ST004L1B,5.11,0.5,11.53,NA,River too deep to measure (300 + cm)
-2019/03/17 00:00:00,8929,ST004L1B,4.53,0.5,11.73,NA,River too deep to measure (300 + cm)
-2019/03/18 00:00:00,8930,ST004L1B,4.72,0.3,12.88,NA,River too deep to measure (300 + cm)
-2019/03/19 00:00:00,8934,ST004L1B,5.06,0.4,11.72,NA,River too deep to measure (300 + cm)
-2019/03/20 00:00:00,8936,ST004L1B,5.66,0.4,11.7,NA,River too deep to measure (300 + cm)
-2019/03/21 00:00:00,8938,ST004L1B,3.69,0.5,12.15,NA,River too deep to measure (300 + cm)
-2019/03/22 00:00:00,8940,ST004L1B,5.8,0.6,11.05,NA,River too deep to measure (300 + cm)
-2019/03/23 00:00:00,8942,ST004L1B,3.94,0.7,11.46,NA,River too deep to measure (300 + cm)
-2019/03/24 00:00:00,8943,ST004L1B,10,0.5,11.88,NA,River too deep to measure (300 + cm)
-2019/03/25 00:00:00,8944,ST004L1B,4.77,0.9,11.98,NA,River too deep to measure (300 + cm)
-2019/03/26 00:00:00,8945,ST004L1B,3.99,0.5,13.38,NA,River too deep to measure (300 + cm)
-2019/03/27 00:00:00,8950,ST004L1B,3.96,0.4,11.23,NA,River too deep to measure (300 + cm)
-2019/03/28 00:00:00,8952,ST004L1B,NA,NA,12.22,NA,"Velocity, depth and turbidity were not recorded."
-2019/03/29 00:00:00,8955,ST004L1B,4.41,0.3,11.67,NA,River too deep to measure (300 + cm)
-2019/03/30 00:00:00,8956,ST004L1B,3.52,0.6,9.79,NA,River too deep to measure (300 + cm)
-2019/03/31 00:00:00,8958,ST004L1B,3.74,0.5,12.34,NA,River too deep to measure (300 + cm)
-2019/04/01 00:00:00,8959,ST004L1B,4.14,0.6,12.18,NA,"River too deep to measure 9300 + cm)
+3/13/2019 0:00,8923,ST004L1B,6.67,0.4,11.27,NA,River too deep to measure (300 + cm)
+3/14/2019 0:00,8924,ST004L1B,5.74,0.6,11.46,NA,River too deep to measure (300 + cm)
+3/15/2019 0:00,8926,ST004L1B,4.74,0.5,12.06,NA,River too deep to measure (300 + cm)
+3/16/2019 0:00,8928,ST004L1B,5.11,0.5,11.53,NA,River too deep to measure (300 + cm)
+3/17/2019 0:00,8929,ST004L1B,4.53,0.5,11.73,NA,River too deep to measure (300 + cm)
+3/18/2019 0:00,8930,ST004L1B,4.72,0.3,12.88,NA,River too deep to measure (300 + cm)
+3/19/2019 0:00,8934,ST004L1B,5.06,0.4,11.72,NA,River too deep to measure (300 + cm)
+3/20/2019 0:00,8936,ST004L1B,5.66,0.4,11.7,NA,River too deep to measure (300 + cm)
+3/21/2019 0:00,8938,ST004L1B,3.69,0.5,12.15,NA,River too deep to measure (300 + cm)
+3/22/2019 0:00,8940,ST004L1B,5.8,0.6,11.05,NA,River too deep to measure (300 + cm)
+3/23/2019 0:00,8942,ST004L1B,3.94,0.7,11.46,NA,River too deep to measure (300 + cm)
+3/24/2019 0:00,8943,ST004L1B,10,0.5,11.88,NA,River too deep to measure (300 + cm)
+3/25/2019 0:00,8944,ST004L1B,4.77,0.9,11.98,NA,River too deep to measure (300 + cm)
+3/26/2019 0:00,8945,ST004L1B,3.99,0.5,13.38,NA,River too deep to measure (300 + cm)
+3/27/2019 0:00,8950,ST004L1B,3.96,0.4,11.23,NA,River too deep to measure (300 + cm)
+3/28/2019 0:00,8952,ST004L1B,NA,NA,12.22,NA,"Velocity, depth and turbidity were not recorded."
+3/29/2019 0:00,8955,ST004L1B,4.41,0.3,11.67,NA,River too deep to measure (300 + cm)
+3/30/2019 0:00,8956,ST004L1B,3.52,0.6,9.79,NA,River too deep to measure (300 + cm)
+3/31/2019 0:00,8958,ST004L1B,3.74,0.5,12.34,NA,River too deep to measure (300 + cm)
+4/1/2019 0:00,8959,ST004L1B,4.14,0.6,12.18,NA,"River too deep to measure 9300 + cm)
 
 D.O. Meter missing film- possibly not accurate"
-2019/04/02 00:00:00,8962,ST004L1B,4.62,0.5,13.53,NA,River too deep to measure (300 + cm)
-2019/04/03 00:00:00,8964,ST004L1B,3.72,0.6,12.77,NA,River too deep to measure (300 + cm)
-2019/04/04 00:00:00,8966,ST004L1B,3.09,0.3,12.72,NA,River too deep to measure (300 + cm)
-2019/04/05 00:00:00,8968,ST004L1B,3.62,0.5,13.4,NA,River too deep to measure (300 + cm)
-2019/04/06 00:00:00,8970,ST004L1B,3.65,0.4,13.51,NA,River too deep to measure (300 + cm)
-2019/04/07 00:00:00,8971,ST004L1B,3.5,0.5,13.22,NA,River too deep to measure (300 + cm)
-2019/04/08 00:00:00,8972,ST004L1B,5.41,0.8,13.5,NA,River too deep to measure (300 + cm)
-2019/04/09 00:00:00,8976,ST004L1B,4.75,0.3,12.75,NA,River too deep to measure (300 + cm)
-2019/04/10 00:00:00,8977,ST004L1B,4.26,0.5,12.92,NA,River too deep to measure (300 + cm)
-2019/04/11 00:00:00,8978,ST004L1B,4.2,0.6,12.2,NA,River too deep to measure (300 + cm)
-2019/04/12 00:00:00,8982,ST004L1B,3.18,0.5,12.95,NA,River too deep to measure (300 + cm)
-2019/04/13 00:00:00,8983,ST004L1B,2.79,0.6,12.27,NA,River too deep to measure (300 + cm)
-2019/04/14 00:00:00,8984,ST004L1B,3.53,0.3,12.75,NA,River too deep to measure (300 + cm)
-2019/04/15 00:00:00,8985,ST004L1B,3.23,0.4,13.1,NA,River too deep to measure (300 + cm)
-2019/04/16 00:00:00,8990,ST004L1B,3.88,0.3,12.61,NA,River too deep to measure (300 + cm)
-2019/04/17 00:00:00,8991,ST004L1B,2.48,0.6,13.06,NA,River too deep to measure (300 + cm)
-2019/04/18 00:00:00,8994,ST004L1B,3.61,0.5,13.24,NA,River too deep to measure (300 + cm)
-2019/04/19 00:00:00,8996,ST004L1B,3.83,0.5,12.2,NA,River too deep to measure (300 + cm)
-2019/04/20 00:00:00,8997,ST004L1B,2.86,0.5,12.65,NA,River too deep to measure (300 + cm)
-2019/04/21 00:00:00,8998,ST004L1B,3.42,0.5,12.48,NA,River too deep to measure (300 + cm)
-2019/04/22 00:00:00,8999,ST004L1B,4.18,0.4,12.26,NA,River too deep to measure (300 + cm)
-2019/04/23 00:00:00,9004,ST004L1B,3.4,0.6,12.52,NA,River too deep to measure (300 + cm)
-2019/04/24 00:00:00,9005,ST004L1B,3.78,0.6,11.26,NA,River too deep to measure (300 + cm)
-2019/04/25 00:00:00,9008,ST004L1B,2.33,0.5,11.22,NA,River too deep to measure (300 + cm)
-2019/04/26 00:00:00,9010,ST004L1B,3.25,0.4,12.35,NA,River too deep to measure (300 + cm)
-2019/04/29 00:00:00,9012,ST004L1B,NA,0.6,10.65,NA,River too deep to measure (300 + cm)
-2019/04/30 00:00:00,9014,ST004L1B,3.98,0.6,11.6,NA,River too deep to measure (300 + cm)
-2019/05/01 00:00:00,9016,ST004L1B,2.32,0.6,12.25,NA,River too deep to measure (300 + cm)
-2019/05/02 00:00:00,9017,ST004L1B,2.57,0.4,12.56,NA,River too deep to measure (300 + cm)
-2019/05/03 00:00:00,9021,ST004L1B,4.84,0.7,11.26,NA,River too deep to measure (300 + cm)
-2019/05/06 00:00:00,9022,ST004L1B,NA,0.5,12.26,NA,River too deep to measure (300 + cm)
-2019/05/07 00:00:00,9024,ST004L1B,5.25,0.4,11.91,NA,River too deep to measure (300 + cm)
-2019/05/08 00:00:00,9026,ST004L1B,3.41,0.5,12.6,NA,River too deep to measure (300 + cm)
-2019/05/09 00:00:00,9028,ST004L1B,3.61,0.6,11.9,NA,River too deep to measure (300 + cm)
-2019/05/10 00:00:00,9030,ST004L1B,3.6,0.5,12.36,NA,River too deep to measure (300 + cm)
-2019/05/13 00:00:00,9032,ST004L1B,NA,0.5,11.56,NA,River too deep to measure (300 + cm)
-2019/05/14 00:00:00,9034,ST004L1B,5.09,0.4,11.06,NA,River too deep to measure (300 + cm)
-2019/05/15 00:00:00,9036,ST004L1B,4.92,0.5,11.46,NA,River too deep to measure (300 + cm)
-2019/05/16 00:00:00,9037,ST004L1B,5.02,0.6,12.09,NA,NA
-2019/05/17 00:00:00,9040,ST004L1B,5.41,0.6,12.04,NA,River too deep to measure (300 + cm)
-2019/05/20 00:00:00,9042,ST004L1B,NA,0.5,12.38,NA,River too deep to measure (300 + cm)
-2019/05/21 00:00:00,9044,ST004L1B,4.52,0.6,11,NA,River too deep to measure (300 + cm)
-2019/05/22 00:00:00,9046,ST004L1B,5.47,0.5,11.86,NA,River too deep to measure (300 + cm)
-2019/05/23 00:00:00,9048,ST004L1B,4.78,0.4,12.51,NA,River too deep to measure (300 + cm)
-2019/05/24 00:00:00,9050,ST004L1B,2.76,0.4,12.15,NA,River too deep to measure (300 + cm)
-2019/05/27 00:00:00,9052,ST004L1B,NA,0.4,11.05,246,NA
-2019/05/28 00:00:00,9053,ST004L1B,4.51,0.4,10.83,253,NA
-2019/05/29 00:00:00,9057,ST004L1B,6.02,0.7,11.48,NA,River too deep to measure (300 + cm)
-2019/05/30 00:00:00,9059,ST004L1B,2.81,0.5,11.6,285,NA
-2019/05/31 00:00:00,9060,ST004L1B,3.99,0.4,12.15,300,NA
-2019/06/03 00:00:00,9063,ST004L1B,NA,0.5,10.06,269,NA
-2019/06/04 00:00:00,9065,ST004L1B,6.54,0.6,10.37,275,NA
-2019/06/05 00:00:00,9067,ST004L1B,2.27,0.6,11.28,300,NA
-2019/06/06 00:00:00,9068,ST004L1B,2.4,0.5,11.23,287,NA
-2019/06/07 00:00:00,9071,ST004L1B,2.91,0.5,10.35,277,NA
-2019/06/10 00:00:00,9073,ST004L1B,NA,0.4,10.58,252,NA
-2019/06/11 00:00:00,9074,ST004L1B,2.61,0.5,10.57,281,NA
-2019/06/12 00:00:00,9075,ST004L1B,3.78,0.4,10.79,275,NA
-2019/06/13 00:00:00,9079,ST004L1B,3.86,0.4,10.84,266,NA
-2019/06/14 00:00:00,9081,ST004L1B,3.63,0.4,10.61,259,NA
-2019/06/17 00:00:00,9083,ST004L1B,NA,0.4,10.18,224,NA
-2019/06/18 00:00:00,9084,ST004L1B,2.13,0.4,10.12,229,NA
-2019/06/19 00:00:00,9087,ST004L1B,2.33,0.4,10.91,236,NA
-2019/06/20 00:00:00,9088,ST004L1B,4.53,0.5,10.65,285,NA
-2020/01/06 00:00:00,9091,ST004L1B,NA,0.7,10.2,204,Depth recorded from back of trap as instead of parallel with front of cone.
-2020/01/07 00:00:00,9092,ST004L1B,2.43,0.6,12.51,283,NA
-2020/01/08 00:00:00,9096,ST004L1B,2.29,0.6,9.53,293,NA
-2020/01/09 00:00:00,9097,ST004L1B,2.38,0.6,11.6,284,NA
-2020/01/10 00:00:00,9099,ST004L1B,1.71,0.5,12.05,281,NA
-2020/01/12 00:00:00,9100,ST004L1B,NA,0.5,12.3,288,NA
-2020/01/13 00:00:00,9101,ST004L1B,1.98,0.6,11.5,280,NA
-2020/01/14 00:00:00,9105,ST004L1B,1.83,0.5,11.73,284,NA
-2020/01/15 00:00:00,9106,ST004L1B,1.83,0.5,11.97,281,NA
-2020/01/16 00:00:00,9109,ST004L1B,1.89,0.5,9.92,285,NA
-2020/01/17 00:00:00,9111,ST004L1B,2.78,0.6,12.09,291,NA
-2020/01/18 00:00:00,9112,ST004L1B,2.39,0.6,11.87,300,NA
-2020/01/20 00:00:00,9113,ST004L1B,NA,0.7,11.47,207,NA
-2020/01/21 00:00:00,9114,ST004L1B,2.02,0.5,12.28,293,NA
-2020/01/22 00:00:00,9115,ST004L1B,1.68,0.4,11.62,289,NA
-2020/01/23 00:00:00,9116,ST004L1B,1.77,0.5,11.15,279,NA
-2020/01/24 00:00:00,9117,ST004L1B,1.72,0.5,11.34,277,NA
-2020/01/25 00:00:00,9118,ST004L1B,1.33,0.4,10.94,274,NA
-2020/01/26 00:00:00,9119,ST004L1B,2.17,0.5,11.08,282,NA
-2020/01/27 00:00:00,9120,ST004L1B,2.8,0.5,9.43,282,NA
-2020/01/28 00:00:00,9132,ST004L1B,2.67,NA,9.8,279,Forgot velocity meter
-2020/01/29 00:00:00,9133,ST004L1B,2.29,0.4,11.69,277,NA
-2020/01/30 00:00:00,9134,ST004L1B,1.94,NA,11.47,280,NA
-2020/01/31 00:00:00,9136,ST004L1B,1.65,0.5,11.58,280,NA
-2020/02/01 00:00:00,9135,ST004L1B,1.73,0.5,10.91,283,NA
-2020/02/02 00:00:00,9137,ST004L1B,2.72,0.6,9.5,280,NA
-2020/02/03 00:00:00,9138,ST004L1B,1.99,0.6,13.32,287,NA
-2020/02/04 00:00:00,9139,ST004L1B,2.57,0.5,12.25,310,Depth is >300 cm
-2020/02/05 00:00:00,9140,ST004L1B,6.1,0.9,10.9,310,Depth > 300 cm
-2020/02/06 00:00:00,9141,ST004L1B,4.82,0.5,11.98,310,Depth > 300 cm
-2020/02/07 00:00:00,9142,ST004L1B,2.45,NA,11.37,310,Depth > 300 cm
-2020/02/08 00:00:00,9143,ST004L1B,1.94,NA,11.22,310,Depth > 300 cm
-2020/02/09 00:00:00,9144,ST004L1B,2.08,NA,12.34,310,depth > 300 cm
-2020/02/10 00:00:00,9161,ST004L1B,2.03,NA,11.5,305,velocity meter non-functioning
-2020/02/11 00:00:00,9162,ST004L1B,2.09,NA,11.67,294,velocity meter non-functioning
-2020/02/12 00:00:00,9352,ST004L1B,1.36,NA,10.82,267,Velocity meter non-functioning
-2020/02/13 00:00:00,9164,ST004L1B,2.17,NA,11.42,274,velocity meter non-functioning
-2020/02/14 00:00:00,9165,ST004L1B,2.5,NA,12.01,251,No Velocimeter
-2020/02/15 00:00:00,9166,ST004L1B,3.35,NA,10.19,226,No Velocimeter
-2020/02/16 00:00:00,9167,ST004L1B,1.53,NA,10.24,230,NA
-2020/02/17 00:00:00,9168,ST004L1B,2.6,NA,10.28,190,NA
-2020/02/18 00:00:00,9169,ST004L1B,1.53,NA,10.36,199,No Velocimeter
-2020/02/19 00:00:00,9170,ST004L1B,2.28,NA,10.33,221,No Velocimeter
-2020/02/20 00:00:00,9177,ST004L1B,3.16,NA,10.7,200,Velocimeter broken
-2020/02/21 00:00:00,9179,ST004L1B,2.92,0.3,11.45,310,NA
-2020/02/22 00:00:00,9180,ST004L1B,2.39,0.5,11.35,310,NA
-2020/02/23 00:00:00,9188,ST004L1B,3.33,0.6,11.27,310,Depth > 300 cm
-2020/02/24 00:00:00,9353,ST004L1B,NA,NA,11.26,310,No velocity meter
-2020/02/24 00:00:00,9181,ST004L1B,2.45,NA,11.26,310,Broken Velocimeter
-2020/02/25 00:00:00,9182,ST004L1B,2.41,NA,11.93,310,Broken Velocimeter
-2020/02/26 00:00:00,9189,ST004L1B,2.12,NA,11.65,310,Depth > 300 cm; Velocimeter broken
-2020/02/27 00:00:00,9190,ST004L1B,3.41,NA,11.62,310,Depth > 300 cm
-2020/02/28 00:00:00,9191,ST004L1B,2.46,NA,11.59,310,Depth > 350 cm; No velocimeter
-2020/02/29 00:00:00,9195,ST004L1B,1.05,0.63,11.33,310,Depth > 300 cm
-2020/03/01 00:00:00,9196,ST004L1B,1.22,NA,11.12,310,Depth > 300 cm
-2020/03/02 00:00:00,9197,ST004L1B,2.21,NA,12.06,310,"Depth > 300 cm; Debris > 300 gallons, velocimeter does not work"
-2020/03/03 00:00:00,9201,ST004L1B,3.08,0.55,11.35,310,NA
-2020/03/04 00:00:00,9202,ST004L1B,3.24,NA,11.23,310,Velocity meter not working.
-2020/03/05 00:00:00,9205,ST004L1B,1.97,NA,11.45,310,Depth > 300 cm ; Velocimeter not working
-2020/03/06 00:00:00,9206,ST004L1B,2,0.68,11.28,310,Depth > 300 cm
-2020/03/07 00:00:00,9207,ST004L1B,2.55,0.75,10.66,310,Depth > 300 cm
-2020/03/08 00:00:00,9208,ST004L1B,2.79,NA,10.8,310,Velocimeter broken; Depth > 300 cm
-2020/03/09 00:00:00,9209,ST004L1B,1.37,NA,11.01,310,Velocimeter broken; Depth > 300 cm
-2020/03/10 00:00:00,9210,ST004L1B,3.42,NA,10.39,298,Velocimeter broken
-2020/03/11 00:00:00,9211,ST004L1B,2.84,NA,11.21,298,Velocimeter broken
-2020/03/12 00:00:00,9212,ST004L1B,2.26,0.49,10.38,310,Depth > 300 cm
-2020/03/13 00:00:00,9216,ST004L1B,2.49,0.38,9.2,243,NA
-2020/03/14 00:00:00,9217,ST004L1B,2.61,0.39,9.05,223,NA
-2020/03/14 00:00:00,9355,ST004L1B,NA,0.4,9.05,244,NA
-2020/03/15 00:00:00,9218,ST004L1B,3.33,0.4,9.45,244,NA
-2020/03/16 00:00:00,9219,ST004L1B,2.96,NA,9.6,250,Velocimeter not working
-2020/03/17 00:00:00,9220,ST004L1B,3.47,0.41,10.05,248,NA
-2020/03/18 00:00:00,9221,ST004L1B,3.86,0.19,10.8,239,NA
-2020/03/19 00:00:00,9222,ST004L1B,4.44,NA,9.37,221,Velocimeter out of battery
-2020/03/24 00:00:00,9223,ST004L1B,NA,0.42,9.44,60,NA
-2020/03/25 00:00:00,9224,ST004L1B,2.33,0.35,9.14,237,NA
-2020/03/26 00:00:00,9245,ST004L1B,2.21,NA,9.24,227,NA
-2020/03/27 00:00:00,9244,ST004L1B,2.2,NA,9.1,185,NA
-2020/03/27 00:00:00,9356,ST004L1B,NA,NA,9.1,185,NA
-2020/03/28 00:00:00,9243,ST004L1B,2.45,0.31,8.54,147,NA
-2020/03/29 00:00:00,9242,ST004L1B,3.64,NA,9.2,182,NA
-2020/03/30 00:00:00,9241,ST004L1B,2.65,NA,8.6,179,NA
-2020/03/31 00:00:00,9240,ST004L1B,2.74,NA,8.21,135,NA
-2020/04/01 00:00:00,9239,ST004L1B,3.49,NA,8.38,156,NA
-2020/04/02 00:00:00,9253,ST004L1B,3.05,0.3,8.56,138,NA
-2020/04/03 00:00:00,9255,ST004L1B,3.59,0.3,8.64,133,NA
-2020/04/04 00:00:00,9256,ST004L1B,2.92,0.4,8.74,133,NA
-2020/04/05 00:00:00,9259,ST004L1B,2.32,0.4,8.75,149,NA
-2020/04/06 00:00:00,9260,ST004L1B,3.09,0.4,9.38,166,NA
-2020/04/07 00:00:00,9261,ST004L1B,58.1,0.5,9.66,253,NA
-2020/04/08 00:00:00,9265,ST004L1B,19.43,0.5,8.86,225,NA
-2020/04/09 00:00:00,9266,ST004L1B,9.38,0.4,8.86,135,NA
-2020/04/10 00:00:00,9272,ST004L1B,4.91,0.5,9.58,200,NA
-2020/04/11 00:00:00,9273,ST004L1B,3.64,0.5,9.04,156,NA
-2020/04/12 00:00:00,9274,ST004L1B,3.02,NA,8.65,194,velocimeter nonfunctional
-2020/04/13 00:00:00,9275,ST004L1B,3.43,NA,8.53,135,NA
-2020/04/14 00:00:00,9323,ST004L1B,4.88,NA,8.8,206,No velocimeter
-2020/04/15 00:00:00,9276,ST004L1B,4.52,NA,9.59,193,NA
-2020/04/16 00:00:00,9277,ST004L1B,2.98,NA,8.73,145,Velocimeter not working
-2020/04/17 00:00:00,9282,ST004L1B,2.06,NA,8.37,134,Velocimeter not working
-2020/04/18 00:00:00,9283,ST004L1B,2.92,NA,8.24,146,NA
-2020/04/19 00:00:00,9284,ST004L1B,4.67,NA,8.96,232,NA
-2020/04/20 00:00:00,9285,ST004L1B,3.02,NA,9.43,267,Velocimeter not working
-2020/04/21 00:00:00,9286,ST004L1B,3.81,NA,9.03,252,NA
-2020/04/22 00:00:00,9292,ST004L1B,4.26,NA,9.22,204,NA
-2020/04/23 00:00:00,9293,ST004L1B,3.45,0.4,7.57,168,NA
-2020/04/24 00:00:00,9296,ST004L1B,6.82,0.6,8.35,165,NA
-2020/04/25 00:00:00,9297,ST004L1B,4.3,0.4,9.27,154,NA
-2020/04/26 00:00:00,9300,ST004L1B,3.99,NA,9.05,188,NA
-2020/04/27 00:00:00,9302,ST004L1B,4.66,NA,8.02,200,No velocimeter
-2020/04/28 00:00:00,9303,ST004L1B,2.96,NA,8.31,203,NA
-2020/04/29 00:00:00,9304,ST004L1B,2.61,NA,9.11,225,No velocimeter
-2020/04/30 00:00:00,9305,ST004L1B,1.68,NA,8.43,182,NA
-2020/05/01 00:00:00,9306,ST004L1B,3.2,NA,8.31,126,No Velocimeter
-2020/05/02 00:00:00,9312,ST004L1B,2.99,NA,6.72,156,"No Velocimeter, D.O. needs to be recalibrated"
-2020/05/03 00:00:00,9317,ST004L1B,5.65,NA,8.6,177,NA
-2020/05/04 00:00:00,9318,ST004L1B,2.65,NA,9,261,NA
-2020/05/05 00:00:00,9319,ST004L1B,NA,NA,8.72,181,NA
-2020/05/06 00:00:00,9324,ST004L1B,3,NA,7.99,209,No velocimeter
-2020/05/07 00:00:00,9326,ST004L1B,4.63,0.5,8.09,179,NA
-2020/05/08 00:00:00,9331,ST004L1B,3.28,0.5,9.06,135,NA
-2020/05/09 00:00:00,9330,ST004L1B,1.4,0.5,8.63,133,NA
-2020/05/11 00:00:00,9328,ST004L1B,NA,NA,7.91,187,No Velocimeter
-2020/05/12 00:00:00,9329,ST004L1B,2.15,NA,8.67,177,No velocimeter
-2020/05/13 00:00:00,9336,ST004L1B,3.04,NA,8.75,185,No velocimeter
-2020/05/14 00:00:00,9338,ST004L1B,3.44,NA,9.17,202,NA
-2020/05/15 00:00:00,9340,ST004L1B,2.4,NA,9.08,211,No velocimeter
-2020/05/18 00:00:00,9341,ST004L1B,NA,NA,9.36,222,No velocimeter
-2020/05/19 00:00:00,9344,ST004L1B,3.33,NA,9.2,310,Too deep to measure / no velocimeter
-2020/05/20 00:00:00,9346,ST004L1B,2.86,NA,9.1,297,No velocimeter
-2020/05/21 00:00:00,9348,ST004L1B,3.18,NA,9.62,285,No velocimeter
-2020/05/22 00:00:00,9350,ST004L1B,NA,NA,9.5,310,No velocimeter; depth > 300 cm
+4/2/2019 0:00,8962,ST004L1B,4.62,0.5,13.53,NA,River too deep to measure (300 + cm)
+4/3/2019 0:00,8964,ST004L1B,3.72,0.6,12.77,NA,River too deep to measure (300 + cm)
+4/4/2019 0:00,8966,ST004L1B,3.09,0.3,12.72,NA,River too deep to measure (300 + cm)
+4/5/2019 0:00,8968,ST004L1B,3.62,0.5,13.4,NA,River too deep to measure (300 + cm)
+4/6/2019 0:00,8970,ST004L1B,3.65,0.4,13.51,NA,River too deep to measure (300 + cm)
+4/7/2019 0:00,8971,ST004L1B,3.5,0.5,13.22,NA,River too deep to measure (300 + cm)
+4/8/2019 0:00,8972,ST004L1B,5.41,0.8,13.5,NA,River too deep to measure (300 + cm)
+4/9/2019 0:00,8976,ST004L1B,4.75,0.3,12.75,NA,River too deep to measure (300 + cm)
+4/10/2019 0:00,8977,ST004L1B,4.26,0.5,12.92,NA,River too deep to measure (300 + cm)
+4/11/2019 0:00,8978,ST004L1B,4.2,0.6,12.2,NA,River too deep to measure (300 + cm)
+4/12/2019 0:00,8982,ST004L1B,3.18,0.5,12.95,NA,River too deep to measure (300 + cm)
+4/13/2019 0:00,8983,ST004L1B,2.79,0.6,12.27,NA,River too deep to measure (300 + cm)
+4/14/2019 0:00,8984,ST004L1B,3.53,0.3,12.75,NA,River too deep to measure (300 + cm)
+4/15/2019 0:00,8985,ST004L1B,3.23,0.4,13.1,NA,River too deep to measure (300 + cm)
+4/16/2019 0:00,8990,ST004L1B,3.88,0.3,12.61,NA,River too deep to measure (300 + cm)
+4/17/2019 0:00,8991,ST004L1B,2.48,0.6,13.06,NA,River too deep to measure (300 + cm)
+4/18/2019 0:00,8994,ST004L1B,3.61,0.5,13.24,NA,River too deep to measure (300 + cm)
+4/19/2019 0:00,8996,ST004L1B,3.83,0.5,12.2,NA,River too deep to measure (300 + cm)
+4/20/2019 0:00,8997,ST004L1B,2.86,0.5,12.65,NA,River too deep to measure (300 + cm)
+4/21/2019 0:00,8998,ST004L1B,3.42,0.5,12.48,NA,River too deep to measure (300 + cm)
+4/22/2019 0:00,8999,ST004L1B,4.18,0.4,12.26,NA,River too deep to measure (300 + cm)
+4/23/2019 0:00,9004,ST004L1B,3.4,0.6,12.52,NA,River too deep to measure (300 + cm)
+4/24/2019 0:00,9005,ST004L1B,3.78,0.6,11.26,NA,River too deep to measure (300 + cm)
+4/25/2019 0:00,9008,ST004L1B,2.33,0.5,11.22,NA,River too deep to measure (300 + cm)
+4/26/2019 0:00,9010,ST004L1B,3.25,0.4,12.35,NA,River too deep to measure (300 + cm)
+4/29/2019 0:00,9012,ST004L1B,NA,0.6,10.65,NA,River too deep to measure (300 + cm)
+4/30/2019 0:00,9014,ST004L1B,3.98,0.6,11.6,NA,River too deep to measure (300 + cm)
+5/1/2019 0:00,9016,ST004L1B,2.32,0.6,12.25,NA,River too deep to measure (300 + cm)
+5/2/2019 0:00,9017,ST004L1B,2.57,0.4,12.56,NA,River too deep to measure (300 + cm)
+5/3/2019 0:00,9021,ST004L1B,4.84,0.7,11.26,NA,River too deep to measure (300 + cm)
+5/6/2019 0:00,9022,ST004L1B,NA,0.5,12.26,NA,River too deep to measure (300 + cm)
+5/7/2019 0:00,9024,ST004L1B,5.25,0.4,11.91,NA,River too deep to measure (300 + cm)
+5/8/2019 0:00,9026,ST004L1B,3.41,0.5,12.6,NA,River too deep to measure (300 + cm)
+5/9/2019 0:00,9028,ST004L1B,3.61,0.6,11.9,NA,River too deep to measure (300 + cm)
+5/10/2019 0:00,9030,ST004L1B,3.6,0.5,12.36,NA,River too deep to measure (300 + cm)
+5/13/2019 0:00,9032,ST004L1B,NA,0.5,11.56,NA,River too deep to measure (300 + cm)
+5/14/2019 0:00,9034,ST004L1B,5.09,0.4,11.06,NA,River too deep to measure (300 + cm)
+5/15/2019 0:00,9036,ST004L1B,4.92,0.5,11.46,NA,River too deep to measure (300 + cm)
+5/16/2019 0:00,9037,ST004L1B,5.02,0.6,12.09,NA,NA
+5/17/2019 0:00,9040,ST004L1B,5.41,0.6,12.04,NA,River too deep to measure (300 + cm)
+5/20/2019 0:00,9042,ST004L1B,NA,0.5,12.38,NA,River too deep to measure (300 + cm)
+5/21/2019 0:00,9044,ST004L1B,4.52,0.6,11,NA,River too deep to measure (300 + cm)
+5/22/2019 0:00,9046,ST004L1B,5.47,0.5,11.86,NA,River too deep to measure (300 + cm)
+5/23/2019 0:00,9048,ST004L1B,4.78,0.4,12.51,NA,River too deep to measure (300 + cm)
+5/24/2019 0:00,9050,ST004L1B,2.76,0.4,12.15,NA,River too deep to measure (300 + cm)
+5/27/2019 0:00,9052,ST004L1B,NA,0.4,11.05,246,NA
+5/28/2019 0:00,9053,ST004L1B,4.51,0.4,10.83,253,NA
+5/29/2019 0:00,9057,ST004L1B,6.02,0.7,11.48,NA,River too deep to measure (300 + cm)
+5/30/2019 0:00,9059,ST004L1B,2.81,0.5,11.6,285,NA
+5/31/2019 0:00,9060,ST004L1B,3.99,0.4,12.15,300,NA
+6/3/2019 0:00,9063,ST004L1B,NA,0.5,10.06,269,NA
+6/4/2019 0:00,9065,ST004L1B,6.54,0.6,10.37,275,NA
+6/5/2019 0:00,9067,ST004L1B,2.27,0.6,11.28,300,NA
+6/6/2019 0:00,9068,ST004L1B,2.4,0.5,11.23,287,NA
+6/7/2019 0:00,9071,ST004L1B,2.91,0.5,10.35,277,NA
+6/10/2019 0:00,9073,ST004L1B,NA,0.4,10.58,252,NA
+6/11/2019 0:00,9074,ST004L1B,2.61,0.5,10.57,281,NA
+6/12/2019 0:00,9075,ST004L1B,3.78,0.4,10.79,275,NA
+6/13/2019 0:00,9079,ST004L1B,3.86,0.4,10.84,266,NA
+6/14/2019 0:00,9081,ST004L1B,3.63,0.4,10.61,259,NA
+6/17/2019 0:00,9083,ST004L1B,NA,0.4,10.18,224,NA
+6/18/2019 0:00,9084,ST004L1B,2.13,0.4,10.12,229,NA
+6/19/2019 0:00,9087,ST004L1B,2.33,0.4,10.91,236,NA
+6/20/2019 0:00,9088,ST004L1B,4.53,0.5,10.65,285,NA
+1/6/2020 0:00,9091,ST004L1B,NA,0.7,10.2,204,Depth recorded from back of trap as instead of parallel with front of cone.
+1/7/2020 0:00,9092,ST004L1B,2.43,0.6,12.51,283,NA
+1/8/2020 0:00,9096,ST004L1B,2.29,0.6,9.53,293,NA
+1/9/2020 0:00,9097,ST004L1B,2.38,0.6,11.6,284,NA
+1/10/2020 0:00,9099,ST004L1B,1.71,0.5,12.05,281,NA
+1/12/2020 0:00,9100,ST004L1B,NA,0.5,12.3,288,NA
+1/13/2020 0:00,9101,ST004L1B,1.98,0.6,11.5,280,NA
+1/14/2020 0:00,9105,ST004L1B,1.83,0.5,11.73,284,NA
+1/15/2020 0:00,9106,ST004L1B,1.83,0.5,11.97,281,NA
+1/16/2020 0:00,9109,ST004L1B,1.89,0.5,9.92,285,NA
+1/17/2020 0:00,9111,ST004L1B,2.78,0.6,12.09,291,NA
+1/18/2020 0:00,9112,ST004L1B,2.39,0.6,11.87,300,NA
+1/20/2020 0:00,9113,ST004L1B,NA,0.7,11.47,207,NA
+1/21/2020 0:00,9114,ST004L1B,2.02,0.5,12.28,293,NA
+1/22/2020 0:00,9115,ST004L1B,1.68,0.4,11.62,289,NA
+1/23/2020 0:00,9116,ST004L1B,1.77,0.5,11.15,279,NA
+1/24/2020 0:00,9117,ST004L1B,1.72,0.5,11.34,277,NA
+1/25/2020 0:00,9118,ST004L1B,1.33,0.4,10.94,274,NA
+1/26/2020 0:00,9119,ST004L1B,2.17,0.5,11.08,282,NA
+1/27/2020 0:00,9120,ST004L1B,2.8,0.5,9.43,282,NA
+1/28/2020 0:00,9132,ST004L1B,2.67,NA,9.8,279,Forgot velocity meter
+1/29/2020 0:00,9133,ST004L1B,2.29,0.4,11.69,277,NA
+1/30/2020 0:00,9134,ST004L1B,1.94,NA,11.47,280,NA
+1/31/2020 0:00,9136,ST004L1B,1.65,0.5,11.58,280,NA
+2/1/2020 0:00,9135,ST004L1B,1.73,0.5,10.91,283,NA
+2/2/2020 0:00,9137,ST004L1B,2.72,0.6,9.5,280,NA
+2/3/2020 0:00,9138,ST004L1B,1.99,0.6,13.32,287,NA
+2/4/2020 0:00,9139,ST004L1B,2.57,0.5,12.25,310,Depth is >300 cm
+2/5/2020 0:00,9140,ST004L1B,6.1,0.9,10.9,310,Depth > 300 cm
+2/6/2020 0:00,9141,ST004L1B,4.82,0.5,11.98,310,Depth > 300 cm
+2/7/2020 0:00,9142,ST004L1B,2.45,NA,11.37,310,Depth > 300 cm
+2/8/2020 0:00,9143,ST004L1B,1.94,NA,11.22,310,Depth > 300 cm
+2/9/2020 0:00,9144,ST004L1B,2.08,NA,12.34,310,depth > 300 cm
+2/10/2020 0:00,9161,ST004L1B,2.03,NA,11.5,305,velocity meter non-functioning
+2/11/2020 0:00,9162,ST004L1B,2.09,NA,11.67,294,velocity meter non-functioning
+2/12/2020 0:00,9352,ST004L1B,1.36,NA,10.82,267,Velocity meter non-functioning
+2/13/2020 0:00,9164,ST004L1B,2.17,NA,11.42,274,velocity meter non-functioning
+2/14/2020 0:00,9165,ST004L1B,2.5,NA,12.01,251,No Velocimeter
+2/15/2020 0:00,9166,ST004L1B,3.35,NA,10.19,226,No Velocimeter
+2/16/2020 0:00,9167,ST004L1B,1.53,NA,10.24,230,NA
+2/17/2020 0:00,9168,ST004L1B,2.6,NA,10.28,190,NA
+2/18/2020 0:00,9169,ST004L1B,1.53,NA,10.36,199,No Velocimeter
+2/19/2020 0:00,9170,ST004L1B,2.28,NA,10.33,221,No Velocimeter
+2/20/2020 0:00,9177,ST004L1B,3.16,NA,10.7,200,Velocimeter broken
+2/21/2020 0:00,9179,ST004L1B,2.92,0.3,11.45,310,NA
+2/22/2020 0:00,9180,ST004L1B,2.39,0.5,11.35,310,NA
+2/23/2020 0:00,9188,ST004L1B,3.33,0.6,11.27,310,Depth > 300 cm
+2/24/2020 0:00,9353,ST004L1B,NA,NA,11.26,310,No velocity meter
+2/24/2020 0:00,9181,ST004L1B,2.45,NA,11.26,310,Broken Velocimeter
+2/25/2020 0:00,9182,ST004L1B,2.41,NA,11.93,310,Broken Velocimeter
+2/26/2020 0:00,9189,ST004L1B,2.12,NA,11.65,310,Depth > 300 cm; Velocimeter broken
+2/27/2020 0:00,9190,ST004L1B,3.41,NA,11.62,310,Depth > 300 cm
+2/28/2020 0:00,9191,ST004L1B,2.46,NA,11.59,310,Depth > 350 cm; No velocimeter
+2/29/2020 0:00,9195,ST004L1B,1.05,0.63,11.33,310,Depth > 300 cm
+3/1/2020 0:00,9196,ST004L1B,1.22,NA,11.12,310,Depth > 300 cm
+3/2/2020 0:00,9197,ST004L1B,2.21,NA,12.06,310,"Depth > 300 cm; Debris > 300 gallons, velocimeter does not work"
+3/3/2020 0:00,9201,ST004L1B,3.08,0.55,11.35,310,NA
+3/4/2020 0:00,9202,ST004L1B,3.24,NA,11.23,310,Velocity meter not working.
+3/5/2020 0:00,9205,ST004L1B,1.97,NA,11.45,310,Depth > 300 cm ; Velocimeter not working
+3/6/2020 0:00,9206,ST004L1B,2,0.68,11.28,310,Depth > 300 cm
+3/7/2020 0:00,9207,ST004L1B,2.55,0.75,10.66,310,Depth > 300 cm
+3/8/2020 0:00,9208,ST004L1B,2.79,NA,10.8,310,Velocimeter broken; Depth > 300 cm
+3/9/2020 0:00,9209,ST004L1B,1.37,NA,11.01,310,Velocimeter broken; Depth > 300 cm
+3/10/2020 0:00,9210,ST004L1B,3.42,NA,10.39,298,Velocimeter broken
+3/11/2020 0:00,9211,ST004L1B,2.84,NA,11.21,298,Velocimeter broken
+3/12/2020 0:00,9212,ST004L1B,2.26,0.49,10.38,310,Depth > 300 cm
+3/13/2020 0:00,9216,ST004L1B,2.49,0.38,9.2,243,NA
+3/14/2020 0:00,9217,ST004L1B,2.61,0.39,9.05,223,NA
+3/14/2020 0:00,9355,ST004L1B,NA,0.4,9.05,244,NA
+3/15/2020 0:00,9218,ST004L1B,3.33,0.4,9.45,244,NA
+3/16/2020 0:00,9219,ST004L1B,2.96,NA,9.6,250,Velocimeter not working
+3/17/2020 0:00,9220,ST004L1B,3.47,0.41,10.05,248,NA
+3/18/2020 0:00,9221,ST004L1B,3.86,0.19,10.8,239,NA
+3/19/2020 0:00,9222,ST004L1B,4.44,NA,9.37,221,Velocimeter out of battery
+3/24/2020 0:00,9223,ST004L1B,NA,0.42,9.44,60,NA
+3/25/2020 0:00,9224,ST004L1B,2.33,0.35,9.14,237,NA
+3/26/2020 0:00,9245,ST004L1B,2.21,NA,9.24,227,NA
+3/27/2020 0:00,9244,ST004L1B,2.2,NA,9.1,185,NA
+3/27/2020 0:00,9356,ST004L1B,NA,NA,9.1,185,NA
+3/28/2020 0:00,9243,ST004L1B,2.45,0.31,8.54,147,NA
+3/29/2020 0:00,9242,ST004L1B,3.64,NA,9.2,182,NA
+3/30/2020 0:00,9241,ST004L1B,2.65,NA,8.6,179,NA
+3/31/2020 0:00,9240,ST004L1B,2.74,NA,8.21,135,NA
+4/1/2020 0:00,9239,ST004L1B,3.49,NA,8.38,156,NA
+4/2/2020 0:00,9253,ST004L1B,3.05,0.3,8.56,138,NA
+4/3/2020 0:00,9255,ST004L1B,3.59,0.3,8.64,133,NA
+4/4/2020 0:00,9256,ST004L1B,2.92,0.4,8.74,133,NA
+4/5/2020 0:00,9259,ST004L1B,2.32,0.4,8.75,149,NA
+4/6/2020 0:00,9260,ST004L1B,3.09,0.4,9.38,166,NA
+4/7/2020 0:00,9261,ST004L1B,58.1,0.5,9.66,253,NA
+4/8/2020 0:00,9265,ST004L1B,19.43,0.5,8.86,225,NA
+4/9/2020 0:00,9266,ST004L1B,9.38,0.4,8.86,135,NA
+4/10/2020 0:00,9272,ST004L1B,4.91,0.5,9.58,200,NA
+4/11/2020 0:00,9273,ST004L1B,3.64,0.5,9.04,156,NA
+4/12/2020 0:00,9274,ST004L1B,3.02,NA,8.65,194,velocimeter nonfunctional
+4/13/2020 0:00,9275,ST004L1B,3.43,NA,8.53,135,NA
+4/14/2020 0:00,9323,ST004L1B,4.88,NA,8.8,206,No velocimeter
+4/15/2020 0:00,9276,ST004L1B,4.52,NA,9.59,193,NA
+4/16/2020 0:00,9277,ST004L1B,2.98,NA,8.73,145,Velocimeter not working
+4/17/2020 0:00,9282,ST004L1B,2.06,NA,8.37,134,Velocimeter not working
+4/18/2020 0:00,9283,ST004L1B,2.92,NA,8.24,146,NA
+4/19/2020 0:00,9284,ST004L1B,4.67,NA,8.96,232,NA
+4/20/2020 0:00,9285,ST004L1B,3.02,NA,9.43,267,Velocimeter not working
+4/21/2020 0:00,9286,ST004L1B,3.81,NA,9.03,252,NA
+4/22/2020 0:00,9292,ST004L1B,4.26,NA,9.22,204,NA
+4/23/2020 0:00,9293,ST004L1B,3.45,0.4,7.57,168,NA
+4/24/2020 0:00,9296,ST004L1B,6.82,0.6,8.35,165,NA
+4/25/2020 0:00,9297,ST004L1B,4.3,0.4,9.27,154,NA
+4/26/2020 0:00,9300,ST004L1B,3.99,NA,9.05,188,NA
+4/27/2020 0:00,9302,ST004L1B,4.66,NA,8.02,200,No velocimeter
+4/28/2020 0:00,9303,ST004L1B,2.96,NA,8.31,203,NA
+4/29/2020 0:00,9304,ST004L1B,2.61,NA,9.11,225,No velocimeter
+4/30/2020 0:00,9305,ST004L1B,1.68,NA,8.43,182,NA
+5/1/2020 0:00,9306,ST004L1B,3.2,NA,8.31,126,No Velocimeter
+5/2/2020 0:00,9312,ST004L1B,2.99,NA,6.72,156,"No Velocimeter, D.O. needs to be recalibrated"
+5/3/2020 0:00,9317,ST004L1B,5.65,NA,8.6,177,NA
+5/4/2020 0:00,9318,ST004L1B,2.65,NA,9,261,NA
+5/5/2020 0:00,9319,ST004L1B,NA,NA,8.72,181,NA
+5/6/2020 0:00,9324,ST004L1B,3,NA,7.99,209,No velocimeter
+5/7/2020 0:00,9326,ST004L1B,4.63,0.5,8.09,179,NA
+5/8/2020 0:00,9331,ST004L1B,3.28,0.5,9.06,135,NA
+5/9/2020 0:00,9330,ST004L1B,1.4,0.5,8.63,133,NA
+5/11/2020 0:00,9328,ST004L1B,NA,NA,7.91,187,No Velocimeter
+5/12/2020 0:00,9329,ST004L1B,2.15,NA,8.67,177,No velocimeter
+5/13/2020 0:00,9336,ST004L1B,3.04,NA,8.75,185,No velocimeter
+5/14/2020 0:00,9338,ST004L1B,3.44,NA,9.17,202,NA
+5/15/2020 0:00,9340,ST004L1B,2.4,NA,9.08,211,No velocimeter
+5/18/2020 0:00,9341,ST004L1B,NA,NA,9.36,222,No velocimeter
+5/19/2020 0:00,9344,ST004L1B,3.33,NA,9.2,310,Too deep to measure / no velocimeter
+5/20/2020 0:00,9346,ST004L1B,2.86,NA,9.1,297,No velocimeter
+5/21/2020 0:00,9348,ST004L1B,3.18,NA,9.62,285,No velocimeter
+5/22/2020 0:00,9350,ST004L1B,NA,NA,9.5,310,No velocimeter; depth > 300 cm

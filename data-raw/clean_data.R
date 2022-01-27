@@ -72,7 +72,7 @@ write_excel_csv(raw_trap_efficency, "data/TrapEfficiencyRelease.csv")
 
 # Trap Efficiency Summary
 raw_trap_summary <- read_excel("data-raw/Data/Updated -- 01-10-2022/Trap Efficiency Summary.xlsx")
-raw_trap_summary %>%
+raw_trap_summary <-raw_trap_summary %>%
   mutate(includeTestComments = str_replace_all(string = includeTestComments, ",", ""),
          Release.comments = str_replace_all(string = Release.comments, ",", "")) %>%
   glimpse()

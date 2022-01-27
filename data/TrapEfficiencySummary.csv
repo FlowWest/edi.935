@@ -1,21 +1,21 @@
 ﻿releaseID,releaseTime,targetSiteName,markedTaxon,testDays,nReleased,nRecaptured,includeTest,includeTestComments,Release.comments
-303,2/15/2017 17:00,Caswell State Park,Chinook salmon,7,954,7,Yes,"Traps were not spinning very well during this test, but indicative of efficiency at this level of flow.","Recaps: 7
+303,2/15/2017 17:00,Caswell State Park,Chinook salmon,7,954,7,Yes,Traps were not spinning very well during this test but indicative of efficiency at this level of flow.,"Recaps: 7
 
-520 fish held over from 2/13/2017, 460 fish from 2/14/2017
+520 fish held over from 2/13/2017 460 fish from 2/14/2017
 Flow at time of release 443 CFS."
-304,3/2/2017 17:21,Caswell State Park,Chinook salmon,7,509,36,Yes,"Trap 2 stopped on day 4 of trial: trial likely biased low. Included because both traps trapped well for the first 3 days of the trial, when the majority of fish would likely have been recaptured.","Recaps: 36
+304,3/2/2017 17:21,Caswell State Park,Chinook salmon,7,509,36,Yes,Trap 2 stopped on day 4 of trial: trial likely biased low. Included because both traps trapped well for the first 3 days of the trial when the majority of fish would likely have been recaptured.,"Recaps: 36
 
-227 fish held over from 2/25/2017, 174 fish from 2/26/2017, 109 fish from 2/27/2017, 22 fish from 3/2/2017. 13 holdover morts. 
+227 fish held over from 2/25/2017 174 fish from 2/26/2017 109 fish from 2/27/2017 22 fish from 3/2/2017. 13 holdover morts. 
 Flow at time of release 558 CFS."
-305,3/15/2017 18:52,Caswell State Park,Chinook salmon,7,697,2,No,"Trap 2 stopped on day 2 of trial, both traps stopped on day 3.","Recaps: 2
+305,3/15/2017 18:52,Caswell State Park,Chinook salmon,7,697,2,No,Trap 2 stopped on day 2 of trial both traps stopped on day 3.,"Recaps: 2
 
 Release site temperature: 15.8 degrees C
 Flow at time of release 1120 CFS."
-306,3/28/2017 19:30,Caswell State Park,Chinook salmon,4,697,31,Yes,"Trap 1 stopped on day 1, trap 2 stopped on day 3, both traps stopped on day 4: trial likely biased low. Included because fish were recaptured despite abnormal trap function.","Recaps: 31
+306,3/28/2017 19:30,Caswell State Park,Chinook salmon,4,697,31,Yes,Trap 1 stopped on day 1 trap 2 stopped on day 3 both traps stopped on day 4: trial likely biased low. Included because fish were recaptured despite abnormal trap function.,"Recaps: 31
 
 Release site temperature: 12.4 degrees C
 Flow at time of release 1440 CFS."
-307,4/11/2017 19:50,Caswell State Park,Chinook salmon,4,700,3,No,"Trap 2 stopped on days 2,3 and 4 of trial.","Recaps: 3
+307,4/11/2017 19:50,Caswell State Park,Chinook salmon,4,700,3,No,Trap 2 stopped on days 23 and 4 of trial.,"Recaps: 3
 
 Release site temperature: 11.9 degrees C
 Flow at time of release 1950 CFS."
