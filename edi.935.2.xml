@@ -1,0 +1,2771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="edi.935.2" system="EDI" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+  <access authSystem="https://pasta.edirepository.org/authentication" order="allowFirst" scope="document">
+    <allow>
+      <principal>public</principal>
+      <permission>read</permission>
+    </allow>
+  </access>
+  <dataset>
+    <shortName>Stanislaus River at Caswell Memorial State Park RST data (2017 - 2021)</shortName>
+    <title>Juvenile Salmonid Emigration Monitoring in the Stanislaus River at Caswell Memorial State Park, California.</title>
+    <creator>
+      <individualName>
+        <givenName>Logan</givenName>
+        <surName>Day</surName>
+      </individualName>
+      <organizationName>Pacific States Marine Fisheries Commission</organizationName>
+      <electronicMailAddress>lday@psmfc.org</electronicMailAddress>
+    </creator>
+    <associatedParty>
+      <individualName>
+        <givenName>Austin</givenName>
+        <surName>Galinat</surName>
+      </individualName>
+      <organizationName>Pacific States Marine Fisheries Commission</organizationName>
+      <electronicMailAddress>agalinat@psmfc.org</electronicMailAddress>
+      <role>researcher</role>
+    </associatedParty>
+    <pubDate>2022-03-24</pubDate>
+    <abstract>
+      <section>
+        <title>Overview</title>
+        <para>
+      Operation of rotary screw traps on the lower Stanislaus River at
+      Caswell Memorial State Park is part of the U.S Fish and Wildlife
+      Service’s Anadromous Fish Restoration Program and Comprehensive
+      Assessment and Monitoring Program under the National Marine
+      Fisheries Service Reasonable and Prudent Alternatives actions and
+      Central Valley Project Improvement Act. The primary objectives of
+      the study are to collect data that can be used to estimate the
+      passage of juvenile fall-run Chinook Salmon Oncorhynchus
+      tshawytscha and to quantify the raw catch of steelhead
+      Oncorhynchus mykiss. Secondary objectives of the trapping
+      operations focus on collecting biological data on juvenile
+      salmonids and gathering environmental data that will be used to
+      develop models that correlate environmental parameters with
+      salmonid size, temporal presence, abundance, and production.
+    </para>
+        <para>
+      The data package contains seven datasets including: raw catch,
+      trap operation, environmental, and trap efficiency data.
+    </para>
+      </section>
+      <section>
+        <title>Raw Catch – Chinook Dataset </title>
+        <para>
+      This dataset covers ALL Chinook Salmon captured by the rotary
+      screw traps. This spreadsheet includes biological data on: 1)
+      unmarked fall- and spring-run Chinook Salmon 2) recaptured marked
+      fall-run (BBY OR "Pigment / Dye", Photonic Dye, Fin
+      Clip, and VIE OR "Elastomer") Chinook Salmon utilized in
+      trap efficiency trials.
+    </para>
+      </section>
+      <section>
+        <title>Raw Catch – Steelhead Dataset </title>
+        <para>
+      This dataset covers ALL steelhead captured by the rotary screw
+      traps. All steelhead captured are unmarked and presumed to be
+      natural origin steelhead.
+    </para>
+      </section>
+      <section>
+        <title>Raw Catch – ByCatch Dataset </title>
+        <para>
+      This dataset provides biological data on ALL catch (EXCLUDING
+      Chinook Salmon or steelhead) captured by the rotary screw traps.
+      All catch in this table is of natural origin.
+    </para>
+      </section>
+      <section>
+        <title>Trap Operations Dataset</title>
+        <para>
+      This dataset provides trap operation data for each trap visit.
+      Specifically, it includes data on the visit type, trap functioning
+      status, start and end sampling dates and times, total revolutions
+      and instantaneous revolution speeds, livewell intake statuses,
+      debris data, and whether the catch associated for this record will
+      be include for juvenile production estimates.
+    </para>
+      </section>
+      <section>
+        <title>Environmentals Dataset</title>
+        <para>
+      This dataset covers environmental data collected at the rotary
+      screw traps. This spreadsheet includes turbidity (nephelometric
+      turbidity units), water velocity (meters per second), dissolved
+      oxygen (milligrams per liter), and water depth (centimeters).
+    </para>
+      </section>
+      <section>
+        <title>Trap Efficiency Summary Dataset</title>
+        <para>
+      This dataset provides a summary of each trap efficiency trial
+      conducted. It includes the release date and time, the length of
+      the test, the number of marked fish released and recaptured, and
+      whether the trial was included for juvenile production estimates.
+    </para>
+      </section>
+      <section>
+        <title>Trap Efficiency Release FL Dataset</title>
+        <para>
+      This dataset provides biological data on a subsample of released
+      fish utilized in trap efficiency trials.
+    </para>
+      </section>
+    </abstract>
+    <keywordSet>
+      <keyword>Stanislaus River</keyword>
+      <keyword>Caswell</keyword>
+      <keyword>Emigration</keyword>
+      <keyword>Rotary Screw Traps</keyword>
+      <keyword>CVPIA</keyword>
+    </keywordSet>
+    <intellectualRights>
+      <para>This data package is released to the "public domain" under Creative Commons CC0 1.0 "No Rights Reserved" (see: https://creativecommons.org/publicdomain/zero/1.0/). It is considered professional etiquette to provide attribution of the original work if this data package is shared in whole or by individual components. A generic citation is provided for this data package on the website https://portal.edirepository.org (herein "website") in the summary metadata page. Communication (and collaboration) with the creators of this data package is recommended to prevent duplicate research or publication. This data package (and its components) is made available "as is" and with no warranty of accuracy or fitness for use. The creators of this data package and the website shall not be liable for any damages resulting from misinterpretation or misuse of the data package or its components. Periodic updates of this data package may be available from the website. Thank you.</para>
+    </intellectualRights>
+    <licensed>
+      <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+      <url>https://spdx.org/licenses/CC0-1.0.html</url>
+      <identifier>CC0-1.0</identifier>
+    </licensed>
+    <coverage>
+      <geographicCoverage>
+        <geographicDescription>The Stanislaus River rotary screw traps (RSTs) at Caswell Memorial State Park are located in Ripon, California</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-121.1792</westBoundingCoordinate>
+          <eastBoundingCoordinate>-121.1792</eastBoundingCoordinate>
+          <northBoundingCoordinate>37.702</northBoundingCoordinate>
+          <southBoundingCoordinate>37.702</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+        <rangeOfDates>
+          <beginDate>
+            <calendarDate>2017-02-01</calendarDate>
+          </beginDate>
+          <endDate>
+            <calendarDate>2021-06-03</calendarDate>
+          </endDate>
+        </rangeOfDates>
+      </temporalCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>kingdom</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>phylum</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>class</taxonRankName>
+              <taxonRankValue>Teleostei</taxonRankValue>
+              <taxonomicClassification>
+                <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Salmoniformes</taxonRankValue>
+                <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                  <taxonRankValue>Salmonidae</taxonRankValue>
+                  <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Oncorhynchus</taxonRankValue>
+                    <taxonomicClassification>
+                      <taxonRankName>species</taxonRankName>
+                      <taxonRankValue>Oncorhynchus tshawytscha</taxonRankValue>
+                      <commonName>Chinook Salmon</commonName>
+                      <taxonId provider="https://itis.gov">161980</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>kingdom</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>phylum</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>class</taxonRankName>
+              <taxonRankValue>Teleostei</taxonRankValue>
+              <taxonomicClassification>
+                <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Salmoniformes</taxonRankValue>
+                <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                  <taxonRankValue>Salmonidae</taxonRankValue>
+                  <taxonomicClassification>
+                    <taxonRankName>genus</taxonRankName>
+                    <taxonRankValue>Oncorhynchus</taxonRankValue>
+                    <taxonomicClassification>
+                      <taxonRankName>species</taxonRankName>
+                      <taxonRankValue>Oncorhynchus mykiss</taxonRankValue>
+                      <commonName>Steelhead Trout</commonName>
+                      <taxonId provider="https://itis.gov">161989</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Perciformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Percidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Percina</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>macrolepida</taxonRankName>
+                      <commonName>Bigscale logperch</commonName>
+                      <taxonId provider="https://itis.gov">168487</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Perciformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Centrarchidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Pomoxis</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>nigromaculatus</taxonRankName>
+                      <commonName>Black crappie</commonName>
+                      <taxonId provider="https://itis.gov">168167</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Perciformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Centrarchidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Lepomis</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>macrochirus</taxonRankName>
+                      <commonName>Bluegill</commonName>
+                      <taxonId provider="https://itis.gov">168141</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Siluriformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Ictaluridae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Ameiurus</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>nabulosus</taxonRankName>
+                      <commonName>Brown bullhead</commonName>
+                      <taxonId provider="https://itis.gov">164043</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Siluriformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Ictaluridae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Ictalurus punctatus</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>Ictalurus punctatus</taxonRankName>
+                      <commonName>Channel catfish</commonName>
+                      <taxonId provider="https://itis.gov">163998</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Cypriniformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Cyprinidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Pimephales</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>promelas</taxonRankName>
+                      <commonName>Fathead minnow</commonName>
+                      <taxonId provider="https://itis.gov">163517</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Cypriniformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Cyprinidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Notemigonus</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>crysoleucas</taxonRankName>
+                      <commonName>Golden shiner</commonName>
+                      <taxonId provider="https://itis.gov">163368</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Cypriniformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Cyprinidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Carassius</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>auratus</taxonRankName>
+                      <commonName>Goldfish</commonName>
+                      <taxonId provider="https://itis.gov">163350</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Perciformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Centrarchidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Lepomis</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>cyanellus</taxonRankName>
+                      <commonName>Green sunfish</commonName>
+                      <taxonId provider="https://itis.gov">168132</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Cypriniformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Cyprinidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Mylopharodon</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>conocephalus</taxonRankName>
+                      <commonName>Hardhead</commonName>
+                      <taxonId provider="https://itis.gov">163587</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Atheriniformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Atherinopsidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Menidia</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>beryllina</taxonRankName>
+                      <commonName>Inland silverside</commonName>
+                      <taxonId provider="https://itis.gov">165993</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Perciformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Centrarchidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Micropterus</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>salmoides</taxonRankName>
+                      <commonName>Largemouth bass</commonName>
+                      <taxonId provider="https://itis.gov">168160</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonomicClassification>
+                <taxonomicClassification>
+                  <taxonomicClassification>
+                    <taxonomicClassification>
+                      <commonName>Other</commonName>
+                      <taxonId provider="https://itis.gov">250</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Cephalaspidomorphi</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Petromyzontiformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Petromyzontidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Entosphenus</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>Tridentata</taxonRankName>
+                      <commonName>Pacific lamprey</commonName>
+                      <taxonId provider="https://itis.gov">159698</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Scorpaeniformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Cottidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Cottus</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>asper</taxonRankName>
+                      <commonName>Prickly sculpin</commonName>
+                      <taxonId provider="https://itis.gov">167233</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Perciformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Centrarchidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Lepomis</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>microlophus</taxonRankName>
+                      <commonName>Redear sunfish</commonName>
+                      <taxonId provider="https://itis.gov">168154</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Scorpaeniformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Cottidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Cottus</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>gulosus</taxonRankName>
+                      <commonName>Riffle sculpin</commonName>
+                      <taxonId provider="https://itis.gov">167234</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Cypriniformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Cyprinidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Ptychocheilus</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>grandis</taxonRankName>
+                      <commonName>Sacramento pikeminnow</commonName>
+                      <taxonId provider="https://itis.gov">163524</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Cypriniformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Catostomidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Catostomus</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>occidentalis</taxonRankName>
+                      <commonName>Sacramento sucker</commonName>
+                      <taxonId provider="https://itis.gov">163908</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Perciformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Centrarchidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Micropterus</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>dolomieu</taxonRankName>
+                      <commonName>Smallmouth bass</commonName>
+                      <taxonId provider="https://itis.gov">550562</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Cypriniformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Cyprinidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Rhinichthys</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>osculus</taxonRankName>
+                      <commonName>Speckled dace</commonName>
+                      <taxonId provider="https://itis.gov">163387</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Perciformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Centrarchidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Micropterus</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>punctulatus</taxonRankName>
+                      <commonName>Spotted bass</commonName>
+                      <taxonId provider="https://itis.gov">168161</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Cypriniformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Catostomidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonomicClassification>
+                      <commonName>Sucker</commonName>
+                      <taxonId provider="https://itis.gov">163892</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Clupeiformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Clupeidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Dorosoma</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>petenense</taxonRankName>
+                      <commonName>Threadfin shad</commonName>
+                      <taxonId provider="https://itis.gov">161738</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Perciformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Embiotocidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Hysterocarpus</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>traskii</taxonRankName>
+                      <commonName>Tule perch</commonName>
+                      <taxonId provider="https://itis.gov">553322</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Perciformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Centrarchidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Micropterus</taxonRankName>
+                    <taxonomicClassification>
+                      <commonName>Unknown bass (Micropterus)</commonName>
+                      <taxonId provider="https://itis.gov">168158</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonomicClassification>
+                  <taxonomicClassification>
+                    <taxonomicClassification>
+                      <commonName>Unknown bony fish</commonName>
+                      <taxonId provider="https://itis.gov">161030</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Siluriformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Ictaluridae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonomicClassification>
+                      <commonName>Unknown catfish or bullhead</commonName>
+                      <taxonId provider="https://itis.gov">163995</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Perciformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Centrarchidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonomicClassification>
+                      <commonName>Unknown Centrarchid</commonName>
+                      <taxonId provider="https://itis.gov">168093</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Cephalaspidomorphi</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Petromyzontiformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Petromyzontidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonomicClassification>
+                      <commonName>Unknown lamprey (Entosphenus or Lampetra)</commonName>
+                      <taxonId provider="https://itis.gov">159697</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Cypriniformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Cyprinidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonomicClassification>
+                      <commonName>Unknown minnow</commonName>
+                      <taxonId provider="https://itis.gov">163342</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Scorpaeniformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Cottidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Cottus</taxonRankName>
+                    <taxonomicClassification>
+                      <commonName>Unknown sculpin (Cottus)</commonName>
+                      <taxonId provider="https://itis.gov">167229</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Perciformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Centrarchidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Lepomis</taxonRankName>
+                    <taxonomicClassification>
+                      <commonName>Unknown sunfish (Lepomis)</commonName>
+                      <taxonId provider="https://itis.gov">168130</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Osmeriformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Osmeridae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Hypomesus</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>nipponensis</taxonRankName>
+                      <commonName>Wakasagi</commonName>
+                      <taxonId provider="https://itis.gov">162033</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Perciformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Centrarchidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Lepomis</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>gulosus</taxonRankName>
+                      <commonName>Warmouth</commonName>
+                      <taxonId provider="https://itis.gov">168139</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Cyprinodontiformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Poeciliidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Gambusia</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>affinis</taxonRankName>
+                      <commonName>Western mosquitofish</commonName>
+                      <taxonId provider="https://itis.gov">165878</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Siluriformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Ictaluridae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Ameiurus</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>catus</taxonRankName>
+                      <commonName>White catfish</commonName>
+                      <taxonId provider="https://itis.gov">164037</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Animalia</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+          <taxonomicClassification>
+            <taxonRankName>Chordata</taxonRankName>
+            <taxonRankValue>Chordata</taxonRankValue>
+            <taxonomicClassification>
+              <taxonRankName>Actinopterygii</taxonRankName>
+              <taxonomicClassification>
+                <taxonRankName>Perciformes</taxonRankName>
+                <taxonomicClassification>
+                  <taxonRankName>Centrarchidae</taxonRankName>
+                  <taxonomicClassification>
+                    <taxonRankName>Pomoxis</taxonRankName>
+                    <taxonomicClassification>
+                      <taxonRankName>annularis</taxonRankName>
+                      <commonName>White crappie</commonName>
+                      <taxonId provider="https://itis.gov">168166</taxonId>
+                    </taxonomicClassification>
+                  </taxonomicClassification>
+                </taxonomicClassification>
+              </taxonomicClassification>
+            </taxonomicClassification>
+          </taxonomicClassification>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+    </coverage>
+    <maintenance>
+      <description>ongoing</description>
+      <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+    </maintenance>
+    <contact>
+      <individualName>
+        <givenName>Logan</givenName>
+        <surName>Day</surName>
+      </individualName>
+      <organizationName>Pacific States Marine Fisheries Commission</organizationName>
+      <electronicMailAddress>lday@psmfc.org</electronicMailAddress>
+    </contact>
+    <methods>
+      <methodStep>
+        <description>
+          <section>
+            <title>RST METHODS INTRODUCTION </title>
+            <para>
+      Please find the full methods report:
+      https://cvpia-data-stewardship.s3.us-west-1.amazonaws.com/data-to-upload/stanislaus_rst/methods+-+CAS+RST+Protocol+(2016).pdf
+    </para>
+            <para>
+      Monitoring data can provide the foundation for successful
+      management programs if data are collected in a systematic,
+      consistent, and comprehensive manner. The monitoring of the
+      abundance/production of juvenile salmonids on the Stanislaus River
+      is important because large sums of funding are spent restoring
+      aquatic habitat in an effort to increase the number of juvenile
+      Chinook salmon (<emphasis>Oncorhynchus tshawytscha</emphasis>) and
+      steelhead (<emphasis>Oncorhynchus mykiss</emphasis>) in that
+      watershed. Rotary screw traps (RSTs) are one of the most important
+      tools for monitoring juvenile salmonids. When data acquired with
+      these tools is collected in conjunction with other monitoring
+      data, there is a substantially improved ability to track the
+      status of those salmonids and assess their response to past
+      management activities. That data in turn can be used to adaptively
+      manage future restoration projects so that they are more
+      successful.
+    </para>
+            <para>
+      The objective of this document is to ensure that RST data from the
+      Stanislaus River in California’s San Joaquin Valley is collected
+      in a safe, systematic, consistent, and comprehensive manner. To
+      address this objective, this protocol provides detailed
+      descriptions for operating and maintaining RSTs, collecting and
+      processing fish, collecting environmental data, conducting trap
+      efficiency tests, and entering data into a RST “platform”
+      developed by the U.S. Fish and Wildlife Service’s Comprehensive
+      Assessment and Monitoring Program (CAMP).
+    </para>
+            <para>
+      The Stanislaus River RSTs are located at Caswell State Park,
+      approximately 5 miles southeast of the town of Ripon in San
+      Joaquin County, California. A total of two 8 foot RSTs will be
+      operated each year. Fall-run Chinook salmon and steelhead/rainbow
+      trout are the most likely salmonids to be captured in the
+      Stanislaus River RSTs.
+    </para>
+            <para>
+      The CAMP has developed a general protocol for conducting RST
+      activities. That document can be found at
+      https://www.fws.gov/cno/fisheries/CAMP/Documents-Reports/Documents/2008_draft_CAMP_Rotary_Screw_Trap_Protocol.pdf.
+      The general guidance in that document should serve as a companion
+      to the more detailed guidance in this document.
+    </para>
+            <para>
+      Employees who are engaged in servicing the RSTs on the Stanislaus
+      River are responsible for
+    </para>
+          </section>
+        </description>
+      </methodStep>
+    </methods>
+    <project>
+      <title>Juvenile Salmonid Emigration Monitoring in the Stanislaus River at Caswell Memorial State Park, California.</title>
+      <personnel>
+        <individualName>
+          <givenName>Logan</givenName>
+          <surName>Day</surName>
+        </individualName>
+        <organizationName>Pacific States Marine Fisheries Commission</organizationName>
+        <electronicMailAddress>lday@psmfc.org</electronicMailAddress>
+        <role>Project Lead</role>
+      </personnel>
+      <award>
+        <funderName>United States Bureau of Reclamation</funderName>
+        <funderIdentifier>https://www.wikidata.org/wiki/Q1010548</funderIdentifier>
+        <title>Annual quantification of juvenile Chinook salmon production and the abundance of juvenile steelhead in the Stanislaus River using rotary screw traps</title>
+      </award>
+    </project>
+    <dataTable>
+      <entityName>Environmentals.csv</entityName>
+      <entityDescription>Environmental Variables</entityDescription>
+      <physical>
+        <objectName>Environmentals.csv</objectName>
+        <size unit="bytes">86250</size>
+        <authentication method="MD5">ed2216ebadef69eb64bc0d820a30a8c7</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/v2/data/Environmentals.csv</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Date</attributeName>
+          <attributeDefinition>Date associated with the trap visit.</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM-DD-YYYY</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">42767</minimum>
+                  <maximum exclusive="false">43973</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>trapVisitID</attributeName>
+          <attributeDefinition>A number assigned that identifies a record in the TrapVisit table.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A number assigned that identifies a record in the TrapVisit table.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>subSiteName</attributeName>
+          <attributeDefinition>A text description of a location or position within a site.  Used for where a trap is located, where an environmental measurement is taken, etc.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A text description of a location or position within a site.  Used for where a trap is located, where an environmental measurement is taken, etc.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>turbidity</attributeName>
+          <attributeDefinition>Instantaneous turbidity measurement of the water.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>nephelometric turbidity units</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1.01</minimum>
+                  <maximum exclusive="false">58.1</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>waterVel</attributeName>
+          <attributeDefinition>Instantaneous velocity measurement of the water</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meterPerSecond</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">0.1</minimum>
+                  <maximum exclusive="false">1.2</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dissolvedOxygen</attributeName>
+          <attributeDefinition>Instantaneous dissolved oxygen level measured in the water.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>milligramPerLiter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">2.31</minimum>
+                  <maximum exclusive="false">13.53</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>waterDepth</attributeName>
+          <attributeDefinition>Instantaneous water depth measured from the water surface to the stream bottom</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">60</minimum>
+                  <maximum exclusive="false">310</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Environmental.comments</attributeName>
+          <attributeDefinition>General comments about the environmental data collected.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>General comments about the environmental data collected.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>1295</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>ByCatch.csv</entityName>
+      <entityDescription>Raw Catch - ByCatch</entityDescription>
+      <physical>
+        <objectName>ByCatch.csv</objectName>
+        <size unit="bytes">400869</size>
+        <authentication method="MD5">cff4ac56e97fa128e51979153c22a881</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/v2/data/ByCatch.csv</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Date</attributeName>
+          <attributeDefinition>Date associated with the trap visit.</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM-DD-YYYY</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">42768</minimum>
+                  <maximum exclusive="false">43973</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>trapVisitID</attributeName>
+          <attributeDefinition>A number assigned that identifies a record in the TrapVisit table.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A number assigned that identifies a record in the TrapVisit table.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>subSiteName</attributeName>
+          <attributeDefinition>A text description of a location or position within a site.  Used for where a trap is located, where an environmental measurement is taken, etc.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A text description of a location or position within a site.  Used for where a trap is located, where an environmental measurement is taken, etc.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>catchRawID</attributeName>
+          <attributeDefinition>A number that identifies a record in the RawCatch table.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A number that identifies a record in the RawCatch table.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>commonName</attributeName>
+          <attributeDefinition>Common name of the taxon.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Common name of the taxon.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>n</attributeName>
+          <attributeDefinition>Number of fish actually handled / counted for this record.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>number of fish</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1</minimum>
+                  <maximum exclusive="false">1113</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>forkLength</attributeName>
+          <attributeDefinition>Fork length of the fish, measured in mm.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">14</minimum>
+                  <maximum exclusive="false">442</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>totalLength</attributeName>
+          <attributeDefinition>Total length of the fish, measured in mm.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">21</minimum>
+                  <maximum exclusive="false">490</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>mort</attributeName>
+          <attributeDefinition>Whether the fish died due to being captured or handled.  Does not include post-handling mortalities.  This field answers the question, "Did the fish in this record die during capture or handling?"</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Whether the fish died due to being captured or handled.  Does not include post-handling mortalities.  This field answers the question, "Did the fish in this record die during capture or handling?"</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>CatchRaw.comments</attributeName>
+          <attributeDefinition>General comments about the fish captured.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>General comments about the fish captured.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>6050</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>Chinook.csv</entityName>
+      <entityDescription>Raw Catch - Chinook Salmon</entityDescription>
+      <physical>
+        <objectName>Chinook.csv</objectName>
+        <size unit="bytes">1642573</size>
+        <authentication method="MD5">15ae61695d978d7399d124276eabaf90</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/v2/data/Chinook.csv</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Date</attributeName>
+          <attributeDefinition>Date associated with the trap visit.</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM-DD-YYYY</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">42768</minimum>
+                  <maximum exclusive="false">43973</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>trapVisitID</attributeName>
+          <attributeDefinition>A number assigned that identifies a record in the TrapVisit table.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A number assigned that identifies a record in the TrapVisit table.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>subsiteName</attributeName>
+          <attributeDefinition>A text description of a location or position within a site.  Used for where a trap is located, where an environmental measurement is taken, etc.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A text description of a location or position within a site.  Used for where a trap is located, where an environmental measurement is taken, etc.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>catchRawID</attributeName>
+          <attributeDefinition>A number that identifies a record in the RawCatch table.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A number that identifies a record in the RawCatch table.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>releaseID</attributeName>
+          <attributeDefinition>A number assigned that identifies a record in the Release table.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A number assigned that identifies a record in the Release table.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>commonName</attributeName>
+          <attributeDefinition>Common name of the taxon.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Common name of the taxon.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>n</attributeName>
+          <attributeDefinition>Number of fish actually handled / counted for this record.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>number of fish</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1</minimum>
+                  <maximum exclusive="false">822</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>atCaptureRun</attributeName>
+          <attributeDefinition>The fish run, as assigned at the time of capture.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>The fish run, as assigned at the time of capture.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>finalRun</attributeName>
+          <attributeDefinition>The final run designation as determined in the field or as assigned at a later date. This field is meant to be the final run designation that is usually used in data analysis.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>The final run designation as determined in the field or as assigned at a later date. This field is meant to be the final run designation that is usually used in data analysis.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>finalRunMethod</attributeName>
+          <attributeDefinition>The method used to make the final run assignment</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>The method used to make the final run assignment</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>lifeStage</attributeName>
+          <attributeDefinition>The life stage of the fish.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>The life stage of the fish.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>forkLength</attributeName>
+          <attributeDefinition>Fork length of the fish, measured in mm.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">24</minimum>
+                  <maximum exclusive="false">120</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>weight</attributeName>
+          <attributeDefinition>Weight of the fish, measured in grams.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>gram</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">0.3</minimum>
+                  <maximum exclusive="false">21.5</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>mort</attributeName>
+          <attributeDefinition>Whether the fish died due to being captured or handled.  Does not include post-handling mortalities.  This field answers the question, "Did the fish in this record die during capture or handling?"</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Whether the fish died due to being captured or handled.  Does not include post-handling mortalities.  This field answers the question, "Did the fish in this record die during capture or handling?"</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>fishOrigin</attributeName>
+          <attributeDefinition>Origin (production type) of the fish.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Origin (production type) of the fish.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>markType</attributeName>
+          <attributeDefinition>The type of mark found on the fish.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>The type of mark found on the fish.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>CatchRaw.comments</attributeName>
+          <attributeDefinition>General comments about the fish captured.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>General comments about the fish captured.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>specimenTypeID</attributeName>
+          <attributeDefinition>Code for the type of specimen:  scales; otolith; fin clip; photograph, etc.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>3</code>
+                    <definition>Fin clip</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>252</code>
+                    <definition>Not applicable</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>physicalSpecimenCode</attributeName>
+          <attributeDefinition>This field is the identifying code for the physical specimen such as a scale envelop number, a vial number, a photograph's computer file name, etc.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>This field is the identifying code for the physical specimen such as a scale envelop number, a vial number, a photograph's computer file name, etc.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Specimen.comments</attributeName>
+          <attributeDefinition>General comments about the specimen.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>General comments about the specimen.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>10966</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>Steelhead.csv</entityName>
+      <entityDescription>Raw Catch - Steelhead</entityDescription>
+      <physical>
+        <objectName>Steelhead.csv</objectName>
+        <size unit="bytes">363</size>
+        <authentication method="MD5">e4b1b84f00e8519f0607508454126fad</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/v2/data/Steelhead.csv</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Date</attributeName>
+          <attributeDefinition>Date associated with the trap visit.</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM-DD-YYYY</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">43935</minimum>
+                  <maximum exclusive="false">43964</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>trapVisitID</attributeName>
+          <attributeDefinition>A number assigned that identifies a record in the TrapVisit table.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A number assigned that identifies a record in the TrapVisit table.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>subSiteName</attributeName>
+          <attributeDefinition>A text description of a location or position within a site.  Used for where a trap is located, where an environmental measurement is taken, etc.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A text description of a location or position within a site.  Used for where a trap is located, where an environmental measurement is taken, etc.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>catchRawID</attributeName>
+          <attributeDefinition>A number that identifies a record in the RawCatch table.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A number that identifies a record in the RawCatch table.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>releaseID</attributeName>
+          <attributeDefinition>A number assigned that identifies a record in the Release table.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A number assigned that identifies a record in the Release table.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>commonName</attributeName>
+          <attributeDefinition>Common name of the taxon.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Common name of the taxon.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>lifeStage</attributeName>
+          <attributeDefinition>The life stage of the fish.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>The life stage of the fish.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>forkLength</attributeName>
+          <attributeDefinition>Fork length of the fish, measured in mm.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">208</minimum>
+                  <maximum exclusive="false">232</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>weight</attributeName>
+          <attributeDefinition>Weight of the fish, measured in grams.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>gram</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">94.5</minimum>
+                  <maximum exclusive="false">130.2</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>n</attributeName>
+          <attributeDefinition>Number of fish actually handled / counted for this record.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>number of fish</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1</minimum>
+                  <maximum exclusive="false">1</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>mort</attributeName>
+          <attributeDefinition>Whether the fish died due to being captured or handled.  Does not include post-handling mortalities.  This field answers the question, "Did the fish in this record die during capture or handling?"</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Whether the fish died due to being captured or handled.  Does not include post-handling mortalities.  This field answers the question, "Did the fish in this record die during capture or handling?"</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>fishOrigin</attributeName>
+          <attributeDefinition>Origin (production type) of the fish.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Origin (production type) of the fish.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>markType</attributeName>
+          <attributeDefinition>The type of mark found on the fish.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>The type of mark found on the fish.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>CatchRaw.comments</attributeName>
+          <attributeDefinition>General comments about the fish captured.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>General comments about the fish captured.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>2</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>TrapEfficiencyRelease.csv</entityName>
+      <entityDescription>Trap Efficiency Release Fork Length</entityDescription>
+      <physical>
+        <objectName>TrapEfficiencyRelease.csv</objectName>
+        <size unit="bytes">33724</size>
+        <authentication method="MD5">8f75c4b05de0439368372b74438d5514</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/v2/data/TrapEfficiencyRelease.csv</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>releaseID</attributeName>
+          <attributeDefinition>A number assigned that identifies a record in the Release table.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A number assigned that identifies a record in the Release table.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>releaseFishID</attributeName>
+          <attributeDefinition>A number assigned that identifies a record in the releaseFish table.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A number assigned that identifies a record in the releaseFish table.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>forkLength</attributeName>
+          <attributeDefinition>Fork length of an individual fish, measured in mm.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">29</minimum>
+                  <maximum exclusive="false">97</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ReleaseFish.comments</attributeName>
+          <attributeDefinition>General comments about the released fish.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>General comments about the released fish.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>2104</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>TrapEfficiencySummary.csv</entityName>
+      <entityDescription>Trap Efficiency Summary</entityDescription>
+      <physical>
+        <objectName>TrapEfficiencySummary.csv</objectName>
+        <size unit="bytes">4914</size>
+        <authentication method="MD5">4e10e322724baf035f634bcda84595fe</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/v2/data/TrapEfficiencySummary.csv</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>releaseID</attributeName>
+          <attributeDefinition>A number assigned that identifies a record in the Release table.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A number assigned that identifies a record in the Release table.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>releaseTime</attributeName>
+          <attributeDefinition>Date and time of release for this release group.</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM/DD/YYYY hh:mm:ss</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">42781.7083</minimum>
+                  <maximum exclusive="false">43943.8229</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>targetSiteName</attributeName>
+          <attributeDefinition>The target site name for the release.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>The target site name for the release.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>markedTaxon</attributeName>
+          <attributeDefinition>The taxon of fish marked for the trap efficiency test.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>The taxon of fish marked for the trap efficiency test.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>testDays</attributeName>
+          <attributeDefinition>This field indicates the number of days for which this trap test is considered valid.  Fish caught within this number of days after releaseTime will be considered part of this trap test if they have the appropriate mark.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>days</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">3</minimum>
+                  <maximum exclusive="false">7</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>nReleased</attributeName>
+          <attributeDefinition>Number of fish successfully released alive with mark(s) intact.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>number of fish</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">498</minimum>
+                  <maximum exclusive="false">954</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>nRecaptured</attributeName>
+          <attributeDefinition>Number of fish successfully recaptured with mark(s) intact.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>number of fish</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>whole</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">36</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>includeTest</attributeName>
+          <attributeDefinition>Whether this recapture test should be included in data analysis.  This field answers the question, "Should the data from this recapture test be included in data analysis?"</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Whether this recapture test should be included in data analysis.  This field answers the question, "Should the data from this recapture test be included in data analysis?"</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>includeTestComments</attributeName>
+          <attributeDefinition>If a test is not deemed of high enough quality to use, provide an explanation why.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>If a test is not deemed of high enough quality to use, provide an explanation why.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Release.comments</attributeName>
+          <attributeDefinition>General comments about the release data collected.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>General comments about the release data collected.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>19</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>TrapOperations.csv</entityName>
+      <entityDescription>Trap Operations</entityDescription>
+      <physical>
+        <objectName>TrapOperations.csv</objectName>
+        <size unit="bytes">279853</size>
+        <authentication method="MD5">9e35c0c353e3cf681e68c3f11f7b0f68</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/v2/data/TrapOperations.csv</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Date</attributeName>
+          <attributeDefinition>Date associated with the trap visit.</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM/DD/YYYY</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">42767</minimum>
+                  <maximum exclusive="false">43973</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>trapVisitID</attributeName>
+          <attributeDefinition>A number assigned that identifies a record in the TrapVisit table.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A number assigned that identifies a record in the TrapVisit table.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>subSiteName</attributeName>
+          <attributeDefinition>A text description of a location or position within a site.  Used for where a trap is located, where an environmental measurement is taken, etc.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A text description of a location or position within a site.  Used for where a trap is located, where an environmental measurement is taken, etc.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>visitType</attributeName>
+          <attributeDefinition>Text description of the work that was done during this visit to the trap. This field is used to help characterize when a trap is started, restarted in the same position and configuration after a malfunction, adjusted, and stopped.  Using this field, it is possible to reconstruct the operational history of a trap at a particular position (subsite).</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Text description of the work that was done during this visit to the trap. This field is used to help characterize when a trap is started, restarted in the same position and configuration after a malfunction, adjusted, and stopped.  Using this field, it is possible to reconstruct the operational history of a trap at a particular position (subsite).</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>trapFunctioning</attributeName>
+          <attributeDefinition>A text description of how well the trap was functioning when the visit to the trap began.  Answers the question, "Did the trap function correctly since the last visit to the trap?"</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A text description of how well the trap was functioning when the visit to the trap began.  Answers the question, "Did the trap function correctly since the last visit to the trap?"</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>fishProcessed</attributeName>
+          <attributeDefinition>Text description of how captured fish were treated/processed during a trap visit.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Text description of how captured fish were treated/processed during a trap visit.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>sampleStart</attributeName>
+          <attributeDefinition>Date and time of day associated with the start of sampling with the trap visit</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM/DD/YYYY hh:mm:ss</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">42767.6583</minimum>
+                  <maximum exclusive="false">43972.3946</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>sampleEnd</attributeName>
+          <attributeDefinition>Date and time of day associated with the end of sampling with the trap visit</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM/DD/YYYY hh:mm:ss</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">42767.6583</minimum>
+                  <maximum exclusive="false">43973.4184</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>counterAtEnd</attributeName>
+          <attributeDefinition>Reading on the rotation counter at the end of the trap visit, but before resetting the counter for the next sampling period.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>rotations</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">75</minimum>
+                  <maximum exclusive="false">9553</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>rpmRevolutionsAtStart</attributeName>
+          <attributeDefinition>When recording revolutions per minute at the beginning of a trap visit before cleaning the trap, this field records the number of revolutions in the r.p.m. measurement.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>rotations per minute</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>whole</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">5.1</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>rpmRevolutionsAtEnd</attributeName>
+          <attributeDefinition>When recording revolutions per minute at the end of a trap visit, this field records the number of revolutions in the r.p.m. measurement.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>rotations per minute</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>whole</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">5.4</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>coneDebrisIntake1</attributeName>
+          <attributeDefinition>Code to deternibe the status of intake 1 when the visit to the trap began.  Answers the question, "How clear is intake 1?"</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>0</code>
+                    <definition>Clear</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1</code>
+                    <definition>Partially Blocked</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>2</code>
+                    <definition>Completely Blocked</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>3</code>
+                    <definition>Backed up into Cone</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>coneDebrisIntake2</attributeName>
+          <attributeDefinition>Code to deternibe the status of intake 2 when the visit to the trap began.  Answers the question, "How clear is intake 2?"</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>0</code>
+                    <definition>Clear</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1</code>
+                    <definition>Partially Blocked</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>2</code>
+                    <definition>Completely Blocked</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>3</code>
+                    <definition>Backed up into Cone</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>debrisVolume</attributeName>
+          <attributeDefinition>Volume of debris removed from trap's live box, using a numeric scale.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>gallon</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">300</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>debrisType</attributeName>
+          <attributeDefinition>Type of debris predominately removed from the live box.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Type of debris predominately removed from the live box.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>includeCatch</attributeName>
+          <attributeDefinition>Whether this record is considered of high enough quality to include in analyses.  The purpose of this field is to flag low-quality data that are likely to not be used for data analysis.  This field answers the question, "Are the data from this trap visit (in this record) of sufficiently high quality to include in data analysis?"</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Whether this record is considered of high enough quality to include in analyses.  The purpose of this field is to flag low-quality data that are likely to not be used for data analysis.  This field answers the question, "Are the data from this trap visit (in this record) of sufficiently high quality to include in data analysis?"</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>includeCatchComments</attributeName>
+          <attributeDefinition>If the value of the "includeCatch" field is anything other than "Yes", explain here.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>If the value of the "includeCatch" field is anything other than "Yes", explain here.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>TrapVisit.comments</attributeName>
+          <attributeDefinition>General comments about the trap visit.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>General comments about the trap visit.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>1298</numberOfRecords>
+    </dataTable>
+  </dataset>
+  <additionalMetadata>
+    <metadata>
+      <unitList>
+        <unit id="number of fish" name="number of fish" unitType="density">
+          <description>Fish density in the enclosure, number of fish in total enclosure space</description>
+        </unit>
+        <unit id="rotations per minute" name="rotations per minute" unitType="dimensionless">
+          <description>Number of trap rotations in one minute</description>
+        </unit>
+        <unit id="rotations" name="rotations" unitType="dimensionless">
+          <description>Total rotations</description>
+        </unit>
+        <unit id="nephelometric turbidity units" name="nephelometric turbidity units" unitType="dimensionless">
+          <description>Nephelometric turbidity units, common unit for measuring turbidity</description>
+        </unit>
+        <unit id="days" name="days" unitType="dimensionless">
+          <description>The day sampling occured</description>
+        </unit>
+      </unitList>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

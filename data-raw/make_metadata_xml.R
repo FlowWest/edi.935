@@ -25,7 +25,7 @@ datatable_metadata <-
                                           "Trap Efficiency Release Fork Length",
                                           "Trap Efficiency Summary",
                                           "Trap Operations"),
-                datatable_url = paste0("https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/main/data/",
+                datatable_url = paste0("https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/v2/data/",
                                        c("Environmentals.csv",
                                          "ByCatch.csv",
                                          "Chinook.csv",
@@ -43,7 +43,7 @@ abstract_docx <- "data-raw/Metadata/abstract.docx"
 methods_docx <- "data-raw/Metadata/methods.docx"
 
 # edi_number <- reserve_edi_id(user_id = Sys.getenv("user_id"), password = Sys.getenv("password"))
-edi_number <- "edi.935.1"
+edi_number <- "edi.935.2"  # UPDATE VERSION
 
 dataset <- list() %>%
   add_pub_date() %>%
@@ -77,8 +77,8 @@ eml <- list(packageId = edi_number,
             dataset = dataset,
             additionalMetadata = list(metadata = list(unitList = unitList)))
 edi_number
-EML::write_eml(eml, "edi.935.1.xml")
-EML::eml_validate("edi.935.1.xml")
+EML::write_eml(eml, "edi.935.2.xml")
+EML::eml_validate("edi.935.2.xml")
 
 EMLaide::evaluate_edi_package(Sys.getenv("user_ID"), Sys.getenv("password"), "edi.935.1.xml")
 # EMLaide::upload_edi_package(Sys.getenv("user_ID"), Sys.getenv("password"), "edi.935.1.xml")
