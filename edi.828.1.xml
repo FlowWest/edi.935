@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="edi.828.1" system="EDI" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+  <access authSystem="https://pasta.edirepository.org/authentication" order="allowFirst" scope="document">
+    <allow>
+      <principal>public</principal>
+      <permission>read</permission>
+    </allow>
+  </access>
+  <dataset>
+    <shortName>Stanislaus River at Caswell Memorial State Park RST data (2017 - 2020)</shortName>
+    <title>Juvenile Salmonid Emigration Monitoring in the Stanislaus River at Caswell Memorial State Park, California.</title>
+    <creator>
+      <individualName>
+        <givenName>Logan</givenName>
+        <surName>Day</surName>
+      </individualName>
+      <organizationName>Pacific States Marine Fisheries Commission</organizationName>
+      <electronicMailAddress>lday@psmfc.org</electronicMailAddress>
+    </creator>
+    <associatedParty>
+      <individualName>
+        <givenName>Cory</givenName>
+        <surName>Starr</surName>
+      </individualName>
+      <organizationName>Pacific States Marine Fisheries Commission</organizationName>
+      <electronicMailAddress>cstarr@psmfc.org</electronicMailAddress>
+      <role>researcher</role>
+    </associatedParty>
+    <pubDate>2022-03-31</pubDate>
+    <abstract>
+      <section>
+        <title>Overview</title>
+        <para>
+      Operation of rotary screw traps on the lower Stanislaus River at
+      Caswell Memorial State Park is part of the U.S Fish and Wildlife
+      Service’s Anadromous Fish Restoration Program and Comprehensive
+      Assessment and Monitoring Program under the National Marine
+      Fisheries Service Reasonable and Prudent Alternatives actions and
+      Central Valley Project Improvement Act. The primary objectives of
+      the study are to collect data that can be used to estimate the
+      passage of juvenile fall-run Chinook Salmon Oncorhynchus
+      tshawytscha and to quantify the raw catch of steelhead
+      Oncorhynchus mykiss. Secondary objectives of the trapping
+      operations focus on collecting biological data on juvenile
+      salmonids and gathering environmental data that will be used to
+      develop models that correlate environmental parameters with
+      salmonid size, temporal presence, abundance, and production.
+    </para>
+        <para>
+      The data package contains seven datasets including: raw catch,
+      trap operation, environmental, and trap efficiency data.
+    </para>
+      </section>
+      <section>
+        <title>Raw Catch – Chinook Dataset </title>
+        <para>
+      This dataset covers ALL Chinook Salmon captured by the rotary
+      screw traps. This spreadsheet includes biological data on: 1)
+      unmarked fall- and spring-run Chinook Salmon 2) recaptured marked
+      fall-run (BBY OR "Pigment / Dye", Photonic Dye, Fin
+      Clip, and VIE OR "Elastomer") Chinook Salmon utilized in
+      trap efficiency trials.
+    </para>
+      </section>
+      <section>
+        <title>Raw Catch – Steelhead Dataset </title>
+        <para>
+      This dataset covers ALL steelhead captured by the rotary screw
+      traps. All steelhead captured are unmarked and presumed to be
+      natural origin steelhead.
+    </para>
+      </section>
+      <section>
+        <title>Raw Catch – ByCatch Dataset </title>
+        <para>
+      This dataset provides biological data on ALL catch (EXCLUDING
+      Chinook Salmon or steelhead) captured by the rotary screw traps.
+      All catch in this table is of natural origin.
+    </para>
+      </section>
+      <section>
+        <title>Trap Operations Dataset</title>
+        <para>
+      This dataset provides trap operation data for each trap visit.
+      Specifically, it includes data on the visit type, trap functioning
+      status, start and end sampling dates and times, total revolutions
+      and instantaneous revolution speeds, livewell intake statuses,
+      debris data, and whether the catch associated for this record will
+      be include for juvenile production estimates.
+    </para>
+      </section>
+      <section>
+        <title>Environmentals Dataset</title>
+        <para>
+      This dataset covers environmental data collected at the rotary
+      screw traps. This spreadsheet includes turbidity (nephelometric
+      turbidity units), water velocity (meters per second), dissolved
+      oxygen (milligrams per liter), and water depth (centimeters).
+    </para>
+      </section>
+      <section>
+        <title>Trap Efficiency Summary Dataset</title>
+        <para>
+      This dataset provides a summary of each trap efficiency trial
+      conducted. It includes the release date and time, the length of
+      the test, the number of marked fish released and recaptured, and
+      whether the trial was included for juvenile production estimates.
+    </para>
+      </section>
+      <section>
+        <title>Trap Efficiency Release FL Dataset</title>
+        <para>
+      This dataset provides biological data on a subsample of released
+      fish utilized in trap efficiency trials.
+    </para>
+      </section>
+    </abstract>
+    <keywordSet>
+      <keyword>Stanislaus River</keyword>
+      <keyword>Caswell</keyword>
+      <keyword>Emigration</keyword>
+      <keyword>Rotary Screw Traps</keyword>
+      <keyword>CVPIA</keyword>
+    </keywordSet>
+    <intellectualRights>
+      <para>This data package is released to the "public domain" under Creative Commons CC0 1.0 "No Rights Reserved" (see: https://creativecommons.org/publicdomain/zero/1.0/). It is considered professional etiquette to provide attribution of the original work if this data package is shared in whole or by individual components. A generic citation is provided for this data package on the website https://portal.edirepository.org (herein "website") in the summary metadata page. Communication (and collaboration) with the creators of this data package is recommended to prevent duplicate research or publication. This data package (and its components) is made available "as is" and with no warranty of accuracy or fitness for use. The creators of this data package and the website shall not be liable for any damages resulting from misinterpretation or misuse of the data package or its components. Periodic updates of this data package may be available from the website. Thank you.</para>
+    </intellectualRights>
+    <licensed>
+      <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+      <url>https://spdx.org/licenses/CC0-1.0.html</url>
+      <identifier>CC0-1.0</identifier>
+    </licensed>
+    <coverage>
+      <geographicCoverage>
+        <geographicDescription>The Stanislaus River rotary screw traps (RSTs) at Caswell Memorial State Park are located in Ripon, California</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-121.1792</westBoundingCoordinate>
+          <eastBoundingCoordinate>-121.1792</eastBoundingCoordinate>
+          <northBoundingCoordinate>37.702</northBoundingCoordinate>
+          <southBoundingCoordinate>37.702</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+        <rangeOfDates>
+          <beginDate>
+            <calendarDate>2017-02-01</calendarDate>
+          </beginDate>
+          <endDate>
+            <calendarDate>2020-05-22</calendarDate>
+          </endDate>
+        </rangeOfDates>
+      </temporalCoverage>
+    </coverage>
+    <maintenance>
+      <description>ongoing</description>
+      <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+    </maintenance>
+    <contact>
+      <individualName>
+        <givenName>Logan</givenName>
+        <surName>Day</surName>
+      </individualName>
+      <organizationName>Pacific States Marine Fisheries Commission</organizationName>
+      <electronicMailAddress>lday@psmfc.org</electronicMailAddress>
+    </contact>
+    <methods>
+      <methodStep>
+        <description>
+          <section>
+            <title>RST METHODS INTRODUCTION </title>
+            <para>
+      Please find the full methods report:
+      https://cvpia-data-stewardship.s3.us-west-1.amazonaws.com/data-to-upload/stanislaus_rst/methods+-+CAS+RST+Protocol+(2016).pdf
+    </para>
+            <para>
+      Monitoring data can provide the foundation for successful
+      management programs if data are collected in a systematic,
+      consistent, and comprehensive manner. The monitoring of the
+      abundance/production of juvenile salmonids on the Stanislaus River
+      is important because large sums of funding are spent restoring
+      aquatic habitat in an effort to increase the number of juvenile
+      Chinook salmon (<emphasis>Oncorhynchus tshawytscha</emphasis>) and
+      steelhead (<emphasis>Oncorhynchus mykiss</emphasis>) in that
+      watershed. Rotary screw traps (RSTs) are one of the most important
+      tools for monitoring juvenile salmonids. When data acquired with
+      these tools is collected in conjunction with other monitoring
+      data, there is a substantially improved ability to track the
+      status of those salmonids and assess their response to past
+      management activities. That data in turn can be used to adaptively
+      manage future restoration projects so that they are more
+      successful.
+    </para>
+            <para>
+      The objective of this document is to ensure that RST data from the
+      Stanislaus River in California’s San Joaquin Valley is collected
+      in a safe, systematic, consistent, and comprehensive manner. To
+      address this objective, this protocol provides detailed
+      descriptions for operating and maintaining RSTs, collecting and
+      processing fish, collecting environmental data, conducting trap
+      efficiency tests, and entering data into a RST “platform”
+      developed by the U.S. Fish and Wildlife Service’s Comprehensive
+      Assessment and Monitoring Program (CAMP).
+    </para>
+            <para>
+      The Stanislaus River RSTs are located at Caswell State Park,
+      approximately 5 miles southeast of the town of Ripon in San
+      Joaquin County, California. A total of two 8 foot RSTs will be
+      operated each year. Fall-run Chinook salmon and steelhead/rainbow
+      trout are the most likely salmonids to be captured in the
+      Stanislaus River RSTs.
+    </para>
+            <para>
+      The CAMP has developed a general protocol for conducting RST
+      activities. That document can be found at
+      https://www.fws.gov/cno/fisheries/CAMP/Documents-Reports/Documents/2008_draft_CAMP_Rotary_Screw_Trap_Protocol.pdf.
+      The general guidance in that document should serve as a companion
+      to the more detailed guidance in this document.
+    </para>
+            <para>
+      Employees who are engaged in servicing the RSTs on the Stanislaus
+      River are responsible for
+    </para>
+          </section>
+        </description>
+      </methodStep>
+    </methods>
+    <project>
+      <title>Juvenile Salmonid Emigration Monitoring in the Stanislaus River at Caswell Memorial State Park, California.</title>
+      <personnel>
+        <individualName>
+          <givenName>Logan</givenName>
+          <surName>Day</surName>
+        </individualName>
+        <organizationName>Pacific States Marine Fisheries Commission</organizationName>
+        <electronicMailAddress>lday@psmfc.org</electronicMailAddress>
+        <role>Project Lead</role>
+      </personnel>
+      <award>
+        <funderName>United States Bureau of Reclamation</funderName>
+        <funderIdentifier>https://www.wikidata.org/wiki/Q1010548</funderIdentifier>
+        <title>Annual quantification of juvenile Chinook salmon production and the abundance of juvenile steelhead in the Stanislaus River using rotary screw traps</title>
+      </award>
+    </project>
+    <dataTable>
+      <entityName>Environmentals.csv</entityName>
+      <entityDescription>Environmental Variables</entityDescription>
+      <physical>
+        <objectName>Environmentals.csv</objectName>
+        <size unit="bytes">72300</size>
+        <authentication method="MD5">4aa316861560bac76ef75ee34ddd9410</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://raw.githubusercontent.com/FlowWest/stanislaus_rst_edi/main/data/Environmentals.csv</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Date</attributeName>
+          <attributeDefinition>Date associated with the trap visit.</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM-DD-YYYY</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">42767</minimum>
+                  <maximum exclusive="false">43973</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>trapVisitID</attributeName>
+          <attributeDefinition>A number assigned that identifies a record in the TrapVisit table.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A number assigned that identifies a record in the TrapVisit table.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>subSiteName</attributeName>
+          <attributeDefinition>A text description of a location or position within a site.  Used for where a trap is located, where an environmental measurement is taken, etc.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>A text description of a location or position within a site.  Used for where a trap is located, where an environmental measurement is taken, etc.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>turbidity</attributeName>
+          <attributeDefinition>Instantaneous turbidity measurement of the water.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>nephelometric turbidity units</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1.01</minimum>
+                  <maximum exclusive="false">58.1</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>waterVel</attributeName>
+          <attributeDefinition>Instantaneous velocity measurement of the water</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meterPerSecond</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">0.1</minimum>
+                  <maximum exclusive="false">1.2</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>dissolvedOxygen</attributeName>
+          <attributeDefinition>Instantaneous dissolved oxygen level measured in the water.</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>milligramPerLiter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">2.31</minimum>
+                  <maximum exclusive="false">13.53</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>waterDepth</attributeName>
+          <attributeDefinition>Instantaneous water depth measured from the water surface to the stream bottom</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">60</minimum>
+                  <maximum exclusive="false">310</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Environmental.comments</attributeName>
+          <attributeDefinition>General comments about the environmental data collected.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>General comments about the environmental data collected.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>1043</numberOfRecords>
+    </dataTable>
+  </dataset>
+  <additionalMetadata>
+    <metadata>
+      <unitList>
+        <unit id="nephelometric turbidity units" name="nephelometric turbidity units" unitType="dimensionless">
+          <description>Nephelometric turbidity units, common unit for measuring turbidity</description>
+        </unit>
+      </unitList>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>
